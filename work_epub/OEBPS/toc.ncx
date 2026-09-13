@@ -1847,5 +1847,11 @@
       </navLabel>
       <content src="text/ch303.xhtml"/>
     </navPoint>
+    <navPoint id="num_307" playOrder="307">
+      <navLabel>
+        <text>Chapter 304 · What a Lecher!</text>
+      </navLabel>
+      <content src="text/ch304.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>

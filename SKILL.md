@@ -6,10 +6,10 @@ Taeyeon*, Version 3). This file holds the **skills**; `worklog.md` holds the **s
 (cycle log, ships, canon pins). Do not duplicate skills between the two — SKILL.md is the
 master reference, worklog §8 is the history.
 
-**Current at ship:** 303 chapters · 406 entries · 13,959,204 B · sha256 `2b30d2e4b0bc9e86…` ·
-403 manifest items · 307 spine entries · 20 embedded faces · 73 images (through id-50) ·
-NCX 306 navPoints · nav 309 `<li>` · 18 character cards · 61 glossary cards.
-Final seal: `reports/ch303/package_verification.json`; next image id **id-51**.
+**Current at ship:** 304 chapters · 407 entries · 13,970,681 B · sha256 `3322c9941fefa19d…` ·
+404 manifest items · 308 spine entries · NCX 307 navPoints · nav 310 `<li>` ·
+73 images (through id-50; next id-51) · 20 embedded font faces · 18 character cards ·
+61 glossary cards. Final seal: `reports/ch304/package_verification.json`.
 
 **Recovery baseline (2026-09-13; historical).** The imported 302-chapter archive was
 preserved during setup; the subsequent reader-authorized chapter-303 production cycle
@@ -67,7 +67,11 @@ new ship's hash to worklog §8. SKILL.md is versioned by its *Current at ship* l
 5. **Gates — ALL of §9, every touched chapter.** Fix and re-run until clean.
 6. **Worklog §8 entry + §0 refresh** (before packaging — no build without a log entry).
 7. **Build** (`python3 build_epub.py`) → in-archive asserts (§11) → update SKILL.md
-   *Current at ship* → seal hash into worklog → `present_file`.
+   *Current at ship* → seal hash into worklog.
+8. **Publish (standing reader directive).** Commit the final EPUB, source and useful audit/
+   state files, then push `origin arena/01a09949-rumors-with-taeyoen`. Verify that the
+   remote commit equals local HEAD. Stay on this session branch; never force-push or
+   change main. Present the EPUB and provide the GitHub download/commit links.
 
 ---
 
@@ -154,13 +158,19 @@ footnote) [24] · official-post (op-band · op-handle · op-body · op-meta) · 
 (fc-header · fc-post>fc-user+fc-text · .mod/.founder) · trend-block (tr-*) ·
 release-block (rs-*) · briefing-block (bf-band · bf-title · bf-item>bf-key · bf-note).
 
-**Scene cards:** menu-block (mn-header · mn-sub · mn-course · mn-dish · mn-desc · mn-rule
+**Scene cards:** performance-block (pf-header · action-beat · beat; never invent a
+`stage` child class) · menu-block (mn-header · mn-sub · mn-course · mn-dish · mn-desc · mn-rule
 · mn-note) · wardrobe-block (wd-header · wd-tag · wd-label · wd-effect · wd-note ·
 wd-photo · wd-sub) · acting-block (ac-slate · ac-heading · ac-line · ac-cue) ·
 lesson-block (lsn-header · lsn-term>lsn-gloss · lsn-step>lsn-count · lsn-note ·
 lsn-teacher) · hand-note (hn-label; .reply variant) · memory-block (mb-label · mb-voice;
 .bright variant) · whisper-block (wh-label · wh-voice · wh-reply · wh-note · wh-close;
 strict voice/reply alternation, **wh-close last**).
+
+**Analysis cards:** dossier-block (dg-header · dg-field>dg-label+dg-value · dg-note;
+values left-aligned) · status-panel (sp-header · sp-subject · sp-row>sp-label+sp-value ·
+sp-note). A character’s private reckoning is labeled as such, not presented as a new
+magical system event.
 
 **Characters page:** char-card > char-infobox (ci-name · ci-photo · ci-caption ·
 ci-table) + char-bio; ci-table rows = Born/Group/Agency/In the story/…; caption line =
@@ -213,7 +223,7 @@ photography. Delete `gen/` and `image-search/` after each round.
    "Volume One · Chapters 1–NNN" + "publisher's edition of Chapters 1–NNN"; any new image
    items.
 2. `toc.ncx`: navPoint `num_{NNN+3}` / playOrder `{NNN+3}` after the previous chapter's
-   block (three leading reference entries; currently 305 navPoints for 302 chapters).
+   block (three leading reference entries; navPoints = chapters + 3).
 3. `nav.xhtml`: `<li>` after the previous chapter (li count = chapters + 6).
 4. `cover.xhtml` + `glossary.xhtml` footer stamps → NNN.
 5. `characters.xhtml`: extend bios of touched characters (exact-anchor `str.replace`,
@@ -259,7 +269,8 @@ interrogative. Chapter length: whatever the raw needs — never truncate.
 3. Tree↔archive file-name symmetric diff must be **empty**, and every payload must match.
    `work_epub/mimetype` is a real canonical member, not a stray; keep it and compare it too.
 4. Record the ship (entries, bytes, sha256 prefix) in worklog §8 + §0, and bump SKILL.md's
-   *Current at ship* line. Then `present_file` the EPUB.
+   *Current at ship* line. Commit and push as required by §2, verify remote HEAD, then
+   `present_file` the EPUB with a GitHub download link.
 
 ---
 

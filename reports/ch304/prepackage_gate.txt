@@ -1,0 +1,51 @@
+{
+  "result": "PASS",
+  "chapter": 304,
+  "raw_sha256": "9fa3cef8c1904343fb7e12bc45de1aa7c0fc4ee201176ef27df9459e816b6fb5",
+  "body_words_including_furniture": 3662,
+  "max_paragraph_words": 45,
+  "em_dashes": 4,
+  "dashes_per_1000": 1.092,
+  "double_quote_parity": [
+    98,
+    98
+  ],
+  "question_marks": 40,
+  "block_instances": 26,
+  "block_types": 11,
+  "block_census": {
+    "memory-block": 2,
+    "dossier-block": 2,
+    "whisper-block": 6,
+    "hand-note": 4,
+    "briefing-block": 3,
+    "acting-block": 3,
+    "menu-block": 2,
+    "performance-block": 1,
+    "status-panel": 1,
+    "lesson-block": 1,
+    "pullquote": 1
+  },
+  "live_phone_calls": 0,
+  "chat_windows": 0,
+  "images_added": 0,
+  "bio_append_owners": [
+    "Song Ji-ho",
+    "Im Yoon-a",
+    "Seohyun (Seo Ju-hyun)"
+  ],
+  "changed_baseline_payloads": [
+    "OEBPS/content.opf",
+    "OEBPS/text/characters.xhtml",
+    "OEBPS/text/cover.xhtml",
+    "OEBPS/text/glossary.xhtml",
+    "OEBPS/text/nav.xhtml",
+    "OEBPS/toc.ncx"
+  ],
+  "added_payloads": [
+    "OEBPS/text/ch304.xhtml"
+  ],
+  "unchanged_old_chapters": "303/303",
+  "existing_assets_styles_preserved": true,
+  "chapter_sha256": "a449ddffa42fe2576bd23215dee03b0f94813cd00ad41854a4c93bd83a566748"
+}

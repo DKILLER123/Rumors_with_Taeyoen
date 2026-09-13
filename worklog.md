@@ -7,45 +7,108 @@ how to verify any future edit. Read this before touching the tree.
 
 ---
 
-## 0 · Cycle 303 summary (read this first on resume)
+## 0 · Cycle 304 summary (read this first on resume)
 
-**Chapter 303 — Can You Bear My Love? — packaged and verified.** The reader authorized
-chapter production after the September 13 workspace recovery. Both raw versions are
-preserved; the resubmission was saved first. The new chapter is complete, fully reread,
-and wired. Final archive: **406 entries, 13,959,204 B**, SHA-256
-`2b30d2e4b0bc9e8604db49c3923f040945e69e39e3fe726bc134483527473fde`. Archive/tree parity and preservation checks pass.
+**Chapter 304 — What a Lecher! — packaged and verified.** Raw saved first to
+`raws/ch304_raw.txt`. Full raw/produced-line review, contextual block scan and question-mark
+pass complete; chapter and navigation/reference updates are packaged. Final archive:
+**407 entries, 13,970,681 B**, SHA-256
+`3322c9941fefa19dc35c839f528ba0464b9338ec9e2f346b4902595e19597866`. Deep Scan + Deep Thinking remain mandatory throughout.
 
-**Current ship/tree:** 303 chapters, `Chapters 1–303`, 403 manifest items, 307 spine entries,
-306 NCX navPoints, 309 nav list items, 73 images, 20 embedded font faces, 18 character
-cards/portraits, 61 glossary cards. Chapter 303 has 24 substantial block instances in
-17 existing types, 5,592 words under repeat_check's count, one new wardrobe image id-50
-(193,200 B). Next numeric image id: **id-51**. No existing chapter, image, font or CSS changed.
-Five existing bios appended; nav/NCX/OPF, cover and glossary stamps updated.
+**Current ship/tree:** 304 chapters, `Chapters 1–304`; 407 payload files, 404 manifest items,
+308 spine entries, 307 NCX navPoints, 310 nav list items. Images remain 73, fonts 20,
+character cards/portraits 18 and glossary cards 61. Next numeric image id remains **id-51**.
+Chapter 304: **26 substantial blocks / 11 types**, 3,609 words under repeat_check.
+No new clothing or image; same hospital gown and airport outfit. Three bios appended:
+Ji-ho, Yoon-a, Seohyun. All 303 previous chapters, existing images/fonts/CSS untouched.
 
-**Canon pins for the next chapter:** October 4 collapse 13:10 Singapore; Ji-ho receives
-news 14:40 Seoul, flies 16:10 Seoul → 22:05 Singapore, reaches Room 308 at 22:55
-Singapore (9h45 after collapse). Hospital night, not sunny 17:00 arrival. Ten rehearsal
-performers (five trainees, five T-ara); Seung-wan witnessed the kiss, Seul-gi only infers.
-Yoon-a stays overnight; possible morning discharge is not a guarantee. ECHO October 15
-is eleven days away; the October 5–6 stage and return flight remain unresolved. Yoon-a's
-answer to his final invitation is not supplied. Retain amber-eyed, LA-born Song Ji-ho.
+**Canon for continuation:** late Friday October 4, Room 308, Mount Elizabeth Novena,
+Singapore. Yoon-a accepts Ji-ho as her boyfriend, chooses the group over pursuing the
+current drama, declines his scheduling intervention and promises an explanation to her
+members tomorrow. Seohyun infers a boyfriend is hidden in the bathroom but does not
+confirm his identity. Yoon-a immediately exempts Taeyeon from her defiant table rule.
+The thermometer reading and discharge remain unconfirmed. Ji-ho's October 5–6 stage and
+return travel remain unresolved. ECHO October 15; Singapore concert October 6. Do not
+retroactively move the thermometer off the chapter-303 cabinet: 304 explicitly retrieves it.
 
-**Standing directives:** Deep Scan + Deep Thinking; untouched raws saved first;
-context-to-block maximalism with canon-safe expansion; every touched chapter gets full
-question-mark and phone-call audits before packaging. `.self` only marks the sender/window
-owner and every sent bubble's name; `.dg-value` stays left-aligned. Reader uploads override
-other identity sources. Keep historical editorial exceptions; don't flatten questions or
-bulk-rewrite old chapters to silence heuristics.
+**Standing directives:** raws first; Deep Scan + Deep Thinking; maximal context-owned
+style blocks even for thin scenes; full pre-package block/QM/call review. Keep existing
+markup, sender-only `.self`, left-aligned dossier values and reader-first likeness sources.
+**After each final EPUB, commit and push to GitHub**, verify the same session branch and
+provide an actual GitHub download link. Never force-push or touch main.
 
-**Verification scope:** chapter 303 house gates pass. Full finished chapter was reread;
-block labels, chat/call/whisper children, question punctuation and raw coverage were
-reviewed. Browser layout proof at 390/800px passes overflow/image-load checks; selected
-small-screen panels visually inspected. This is not EPUBCheck or all-reader certification.
-Full-book inherited editorial flags remain tracked in the recovery report. See
-`reports/ch303/editorial_review.md`, `prepackage.json` and `browser_proof.json`.
-Repository root: `/home/user/Rumors_with_Taeyoen`; old `/home/user/...` paths map here.
+**Checks:** chapter 304 house gates PASS; full text reread; all 40 question marks and five
+soft flags reviewed; six whisper panels alternate correctly. Chromium layout proof at
+390/800px passes. No EPUBCheck/all-reader certification. Reports: `reports/ch304/`.
+Inherited book-wide punctuation/repetition heuristics are not silently repaired.
+Repository root: `/home/user/Rumors_with_Taeyoen`; session branch:
+`arena/01a09949-rumors-with-taeyoen`. Last published baseline: `64799d0` (chapter 303).
 
 ## 8 · Cycle log (Version 3, newest first)
+
+### ch304 — What a Lecher! — September 14, 2026 — packaged and verified
+
+**Source.** First action: untouched raw saved as `raws/ch304_raw.txt`, SHA-256
+`9fa3cef8c1904343fb7e12bc45de1aa7c0fc4ee201176ef27df9459e816b6fb5`.
+Complete line-by-line source/draft coverage review, final reread and contextual block scan.
+Source debris kept in raw, not translated. No chapter before 304 edited.
+
+**Content/canon.** Her willing answer and private defiance; delighted lift/spin; cold/album
+objection, palm kiss, shared kiss; thermometer fall/retry and boyfriend-privilege joke;
+honest drama/calendar disclosure; group sacrifices, refusal to move filming, future acting
+hopes; ordinary small talk and porridge; urgent bathroom concealment; Seohyun's return,
+fruit, apple peeling, failed rest/bed/concert persuasion and flexing demonstration; final
+privacy appeal, no-visitors message, blocked-toilet bluff; inferred unnamed boyfriend,
+smiling eyes, swollen-lips tease and departure; four-women concern, no regret, Taeyeon
+exception, gratitude and the deliberately absurd physics excuse. Ending retained.
+
+Reconciliations: call was from downstairs, not a never-made call; thermometer explicitly
+retrieved from cabinet; porridge complaint anticipatory until delivery; role not guaranteed;
+fever/discharge patient claims not clinical confirmation; first Singapore stop scoped to
+current world tour; same late October 4 night; no resolution of stage/return timetable.
+Cold and exhaustion remain established causes. No erotic expansion or new outfit plate.
+Full coverage map: `reports/ch304/editorial_review.md`.
+
+**Blocks.** 26 substantial instances / 11 existing types: memory 2, dossier 2, whisper 6,
+hand-note 4, briefing 3, acting 3, menu 2, performance 1, status 1, lesson 1, pullquote 1.
+All containers labeled. No invented live call/chat, physical paperwork, costume change
+or system reward. Existing vocabularies only. All whispers alternate and close properly.
+First tree gate caught unsupported `stage`; replaced with existing `action-beat`, no CSS edit.
+
+**Wire-up.** ch304 manifest/spine; NCX num_307; nav; OPF/cover range; glossary footer;
+three scoped bio appends (Ji-ho/Yoon-a/Seohyun). Existing asset census unchanged: 73 images,
+20 WOFFs, 18 character cards, 61 glossary cards. Next image id-51. ch282 id-29 preserved.
+
+**Pre-build gates.** Stylelint PASS after npm ci; 308/308 XHTML; zero undefined classes,
+straight quotes, CJK or unresolved refs. punct_quotes zero rewrites. audit_marks no hard
+flags; five soft flags are two temporal clauses, two imperatives, one Maybe-prefix match.
+repeat_check 3,609 words; zero internal/cross eight-grams against 301–303. Independent
+body/furniture count 3,662; longest paragraph 45; four em dashes (1.092/1k); 98/98 quote
+parity; 40 question marks. Chromium 390/800px: no page errors or overflow; selected panels
+visually reviewed. No EPUBCheck certification. Dependencies/cache remain ignored.
+Prepackage hashes preserve all 303 old chapters and all images/fonts/CSS. Six existing
+package/reference files changed; only ch304 XHTML added. No new image bytes.
+
+**Publication preparation.** The sandbox's resumed Git metadata was behind the published
+branch; fetched the existing session commit 64799d0, verified all its file hashes against
+the workspace, and advanced HEAD/index without changing files. User's standing post-EPUB
+commit/push instruction folded into SKILL.md. Publication will fast-forward this branch.
+
+**Build seal.** The cycle entry and state/rule updates were written before packaging.
+Final ZIP: **407 entries, 13,970,681 B**, SHA-256
+`3322c9941fefa19dc35c839f528ba0464b9338ec9e2f346b4902595e19597866`. Mimetype first/STORED, all other entries DEFLATED,
+CRC PASS; archive/tree payload parity 407/407. Full structural audit: 311 XML documents,
+308 XHTML, 304 chapters, 404 manifest items, 308 spine items, 307 NCX navPoints, 310 nav
+list items. All 2,157 references checked; zero structural errors. All 73 images and
+20 WOFF faces decode. Existing raw/upload hashes preserved; all 303 old chapters and
+all old images/fonts/styles byte-identical to the chapter-303 archive. Only six old
+package/reference payloads changed and ch304 XHTML added; ch282 id-29 alias preserved.
+Full-book QM/repeat heuristics still flag inherited material; chapter 304's separate
+logs pass, and its full-tree editorial review introduces no additional flagged rows.
+The verified EPUB and these reports are ready for the same-branch publication commit;
+Git history/remote HEAD are the authoritative commit record. No EPUBCheck certification.
+Final audit: `reports/ch304/package_verification.json`, `reports/ch304/full_tree/`.
+
 
 ### GitHub publication follow-up — reader requested
 

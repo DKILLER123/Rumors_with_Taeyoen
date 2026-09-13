@@ -1,0 +1,41 @@
+{
+  "epub": "Peninsula_Going_Viral_After_a_Dating_Scandal_with_Kim_Taeyeon_UC.epub",
+  "sha256": "3322c9941fefa19dc35c839f528ba0464b9338ec9e2f346b4902595e19597866",
+  "bytes": 13970681,
+  "archive_entries": 407,
+  "extracted_files": 407,
+  "archive_only": [],
+  "tree_only": [],
+  "changed_files": [],
+  "xml_documents": 311,
+  "chapters": 304,
+  "xhtml_files": 308,
+  "manifest_items": 404,
+  "spine_items": 308,
+  "ncx_navpoints": 307,
+  "nav_li": 310,
+  "images": 73,
+  "fonts": 20,
+  "highest_numeric_image_id": 50,
+  "glossary_cards": 61,
+  "character_cards": 18,
+  "reference_checks": 2157,
+  "body_words_including_furniture": 706372,
+  "asset_decoding": "performed",
+  "assets_decoded": 93,
+  "legacy_gate_exit_codes": {
+    "validate_tree": 0,
+    "punct_quotes": 0,
+    "audit_marks": 1,
+    "repeat_check": 1,
+    "stylelint": 0
+  },
+  "editorial_review_counts": {
+    "image-alt": 1,
+    "metrics-band": 272,
+    "doubled-word": 72,
+    "whisper-policy": 6
+  },
+  "structural_errors": [],
+  "scope_note": "Automated full-tree scan, not semantic proof of all 304 chapters; regex editorial flags require human review. This script does not perform EPUBCheck or reader rendering; see separate cycle reports for any additional proof."
+}

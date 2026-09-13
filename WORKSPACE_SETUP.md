@@ -1,30 +1,31 @@
-# Workspace ready — Peninsula, through Chapter 303
+# Workspace ready — Peninsula, through Chapter 304
 
 **Recovery date:** September 13, 2026 (UTC)  
 **Workspace:** `/home/user/Rumors_with_Taeyoen`  
 **Repository:** `DKILLER123/Rumors_with_Taeyoen`  
 **Session branch:** `arena/01a09949-rumors-with-taeyoen`
 
-## Current production state — Chapter 303
+## Current production state — Chapter 304
 
-The subsequent reader-authorized chapter task supersedes this document's historical
-setup-only restriction. Chapter 303, **Can You Bear My Love?**, is translated, reread,
-illustrated, wired, packaged and verified. The final EPUB is **13,959,204 B** with SHA-256
-`2b30d2e4b0bc9e8604db49c3923f040945e69e39e3fe726bc134483527473fde`. See the newest worklog §8 entry.
-Both raw versions are preserved; the resubmitted copy is the chapter's source.
+Chapter 304, **What a Lecher!**, is translated, fully reread, wired, packaged and verified.
+Final EPUB: **13,970,681 B**; SHA-256
+`3322c9941fefa19dc35c839f528ba0464b9338ec9e2f346b4902595e19597866`.
+Raw-first source: `raws/ch304_raw.txt`. Archive/tree parity: **407/407**; zero structural
+errors; all 73 images and 20 WOFF faces decode.
 
-Current tree: **303 chapters / 406 payload files / 403 manifest items / 307 spine items /
-306 NCX entries / 309 nav list items / 73 images / 20 WOFF faces**. Character cards remain
-18; glossary cards 61; next numeric image id **id-51**. Existing chapters, styles, fonts
-and images are untouched. Chapter-only gates pass, 24 substantial blocks across 17 types;
-390px and 800px Chromium layout checks pass. Final archive/tree parity is 406/406; all 302 old chapters and existing assets/styles
-are byte-preserved. Archive/preservation and asset audits are in `reports/ch303/`,
-not in the recovery report directory.
+Current tree: **304 chapters / 407 payload files / 404 manifest items / 308 spine items /
+307 NCX entries / 310 nav list items / 73 images / 20 WOFF faces**. Character cards 18;
+glossary cards 61; next numeric image id **id-51**. No new outfit/image. Chapters 1–303,
+existing images, fonts and styles remain byte-preserved.
 
-Read `reports/ch303/editorial_review.md` for the full raw coverage map, timezone
-reconciliation, question-mark triage and illustration review. No EPUBCheck or all-reader
-certification is claimed. GitHub publication uses the session branch
-`arena/01a09949-rumors-with-taeyoen`; consult Git history for publication commits.
+Chapter-only gates pass; **26 substantial blocks across 11 types**. Browser layout
+checks at 390/800px pass; no EPUBCheck or all-reader certification. See the full source
+coverage/QM/continuity review and verification under `reports/ch304/`, and the current
+worklog §0/§8. Retain the older recovery and chapter-303 reports as historical baselines.
+
+The reader now requires GitHub publication after every final EPUB. Commit and push to
+`arena/01a09949-rumors-with-taeyoen`, verify the remote commit and provide a GitHub download
+link. The chapter-303 baseline was published as `64799d0`; do not overwrite its history.
 
 **Everything below is the retained chapter-302 recovery baseline.** Statements that
 chapter 303 is pending or that the original archive is unchanged describe recovery time,

@@ -1,0 +1,330 @@
+[
+  {
+    "width": 390,
+    "errors": [],
+    "viewport": 390,
+    "scrollWidth": 390,
+    "titleFont": "Cardo, \"Libre Baskerville\", Georgia, serif",
+    "dossierAlign": [
+      "left",
+      "left",
+      "left",
+      "left",
+      "left",
+      "left"
+    ],
+    "loadedFonts": [
+      "Lora",
+      "Lora",
+      "Lora",
+      "Crimson Pro",
+      "Crimson Pro",
+      "Cormorant Garamond",
+      "Cormorant Garamond",
+      "IM Fell English",
+      "Courier Prime",
+      "Courier Prime",
+      "Caveat",
+      "Bebas Neue",
+      "Cardo",
+      "EB Garamond"
+    ],
+    "blocks": [
+      {
+        "class": "location-stamp",
+        "clientWidth": 365,
+        "scrollWidth": 365
+      },
+      {
+        "class": "memory-block",
+        "clientWidth": 361,
+        "scrollWidth": 361
+      },
+      {
+        "class": "dossier-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 360,
+        "scrollWidth": 360
+      },
+      {
+        "class": "hand-note",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "briefing-block",
+        "clientWidth": 359,
+        "scrollWidth": 359
+      },
+      {
+        "class": "memory-block bright",
+        "clientWidth": 361,
+        "scrollWidth": 361
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 360,
+        "scrollWidth": 360
+      },
+      {
+        "class": "acting-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "hand-note",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "briefing-block",
+        "clientWidth": 359,
+        "scrollWidth": 359
+      },
+      {
+        "class": "menu-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 360,
+        "scrollWidth": 360
+      },
+      {
+        "class": "acting-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "menu-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "briefing-block",
+        "clientWidth": 359,
+        "scrollWidth": 359
+      },
+      {
+        "class": "performance-block",
+        "clientWidth": 361,
+        "scrollWidth": 361
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 360,
+        "scrollWidth": 360
+      },
+      {
+        "class": "hand-note reply",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "acting-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "dossier-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 360,
+        "scrollWidth": 360
+      },
+      {
+        "class": "status-panel",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "hand-note",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 360,
+        "scrollWidth": 360
+      },
+      {
+        "class": "lesson-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      }
+    ],
+    "images": []
+  },
+  {
+    "width": 800,
+    "errors": [],
+    "viewport": 800,
+    "scrollWidth": 800,
+    "titleFont": "Cardo, \"Libre Baskerville\", Georgia, serif",
+    "dossierAlign": [
+      "left",
+      "left",
+      "left",
+      "left",
+      "left",
+      "left"
+    ],
+    "loadedFonts": [
+      "Lora",
+      "Lora",
+      "Lora",
+      "Crimson Pro",
+      "Crimson Pro",
+      "Cormorant Garamond",
+      "Cormorant Garamond",
+      "IM Fell English",
+      "Courier Prime",
+      "Courier Prime",
+      "Caveat",
+      "Bebas Neue",
+      "Cardo",
+      "EB Garamond"
+    ],
+    "blocks": [
+      {
+        "class": "location-stamp",
+        "clientWidth": 655,
+        "scrollWidth": 655
+      },
+      {
+        "class": "memory-block",
+        "clientWidth": 651,
+        "scrollWidth": 651
+      },
+      {
+        "class": "dossier-block",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 650,
+        "scrollWidth": 650
+      },
+      {
+        "class": "hand-note",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "briefing-block",
+        "clientWidth": 649,
+        "scrollWidth": 649
+      },
+      {
+        "class": "memory-block bright",
+        "clientWidth": 651,
+        "scrollWidth": 651
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 650,
+        "scrollWidth": 650
+      },
+      {
+        "class": "acting-block",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "hand-note",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "briefing-block",
+        "clientWidth": 649,
+        "scrollWidth": 649
+      },
+      {
+        "class": "menu-block",
+        "clientWidth": 557,
+        "scrollWidth": 557
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 650,
+        "scrollWidth": 650
+      },
+      {
+        "class": "acting-block",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "menu-block",
+        "clientWidth": 557,
+        "scrollWidth": 557
+      },
+      {
+        "class": "briefing-block",
+        "clientWidth": 649,
+        "scrollWidth": 649
+      },
+      {
+        "class": "performance-block",
+        "clientWidth": 651,
+        "scrollWidth": 651
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 650,
+        "scrollWidth": 650
+      },
+      {
+        "class": "hand-note reply",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "acting-block",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "dossier-block",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 650,
+        "scrollWidth": 650
+      },
+      {
+        "class": "status-panel",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "hand-note",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "whisper-block",
+        "clientWidth": 650,
+        "scrollWidth": 650
+      },
+      {
+        "class": "lesson-block",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      }
+    ],
+    "images": []
+  }
+]

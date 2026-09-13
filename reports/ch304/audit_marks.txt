@@ -1,0 +1,7 @@
+== work_epub/OEBPS/text/ch304.xhtml
+   [NO-QM?] “…When you’re in a group, somebody has to give something up.”
+   [NO-QM?] “…Don’t.”
+   [NO-QM?] “…Don’t worry about me, eonni.”
+   [NO-QM?] “…When you get to the hotel, tell the others not to come tonight either.”
+   [NO-QM?] “…Maybe it’s because the fever’s gone down.”
+RESULT: OK (triage any NO-QM? lines above)

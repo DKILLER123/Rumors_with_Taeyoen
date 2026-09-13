@@ -1,0 +1,38 @@
+{
+  "result": "PASS",
+  "sha256": "3322c9941fefa19dc35c839f528ba0464b9338ec9e2f346b4902595e19597866",
+  "bytes": 13970681,
+  "archive_entries": 407,
+  "mimetype_first_stored": true,
+  "remaining_entries_deflated": true,
+  "zip_crc": "PASS",
+  "archive_tree_payload_parity": "407/407",
+  "unchanged_old_chapters": "303/303",
+  "unchanged_existing_images_fonts_styles": true,
+  "old_raws_and_uploads_unchanged": true,
+  "raw304_sha256": "9fa3cef8c1904343fb7e12bc45de1aa7c0fc4ee201176ef27df9459e816b6fb5",
+  "preserved_ch282_id29_alias": true,
+  "changed_baseline_payloads": [
+    "OEBPS/content.opf",
+    "OEBPS/text/characters.xhtml",
+    "OEBPS/text/cover.xhtml",
+    "OEBPS/text/glossary.xhtml",
+    "OEBPS/text/nav.xhtml",
+    "OEBPS/toc.ncx"
+  ],
+  "added_payloads": [
+    "OEBPS/text/ch304.xhtml"
+  ],
+  "manifest_items": 404,
+  "spine_items": 308,
+  "ncx_navpoints": 307,
+  "nav_li": 310,
+  "decoded_images": 73,
+  "decoded_woff_faces": 20,
+  "reference_checks": 2157,
+  "structural_errors": [],
+  "chapter_gate_status": "PASS; five declarative/imperative regex flags triaged",
+  "legacy_book_wide_qm_repeat_flags": "Inherited, unchanged; full_tree logs retain failures",
+  "epubcheck": "not performed",
+  "browser_layout_proof": "390px and 800px, with selected visual panel inspection"
+}
