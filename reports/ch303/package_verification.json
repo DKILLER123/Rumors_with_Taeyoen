@@ -1,0 +1,32 @@
+{
+  "result": "PASS",
+  "sha256": "2b30d2e4b0bc9e8604db49c3923f040945e69e39e3fe726bc134483527473fde",
+  "bytes": 13959204,
+  "archive_entries": 406,
+  "mimetype_first_stored": true,
+  "remaining_entries_deflated": true,
+  "zip_crc": "PASS",
+  "archive_tree_payload_parity": "406/406",
+  "unchanged_old_chapters": "302/302",
+  "unchanged_existing_images_fonts_styles": true,
+  "preserved_ch282_id29_alias": true,
+  "changed_baseline_payloads": [
+    "OEBPS/content.opf",
+    "OEBPS/text/characters.xhtml",
+    "OEBPS/text/cover.xhtml",
+    "OEBPS/text/glossary.xhtml",
+    "OEBPS/text/nav.xhtml",
+    "OEBPS/toc.ncx"
+  ],
+  "added_payloads": [
+    "OEBPS/images/wd_jiho_changi_disguise.jpg",
+    "OEBPS/text/ch303.xhtml"
+  ],
+  "decoded_images": 73,
+  "decoded_woff_faces": 20,
+  "structural_errors": [],
+  "chapter_gate_status": "PASS; 2 declarative question-mark heuristics triaged",
+  "legacy_book_wide_qm_repeat_flags": "Retained and logged, not globally repaired",
+  "epubcheck": "not performed",
+  "browser_layout_proof": "390px and 800px; separate browser_proof.json"
+}

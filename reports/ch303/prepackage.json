@@ -1,0 +1,57 @@
+{
+  "chapter": 303,
+  "body_words_including_furniture": 5582,
+  "legacy_repeat_word_count": 5592,
+  "max_paragraph_words": 59,
+  "em_dashes": 3,
+  "dashes_per_1000": 0.537,
+  "double_quote_parity": [
+    125,
+    125
+  ],
+  "question_marks_including_title": 55,
+  "substantial_blocks": {
+    "lesson-block": 1,
+    "performance-block": 1,
+    "app-screen": 3,
+    "fanclub-block": 1,
+    "briefing-block": 2,
+    "official-statement": 1,
+    "chat-container": 2,
+    "phone-call": 3,
+    "checklist-block": 1,
+    "memory-block": 1,
+    "hand-note": 2,
+    "wardrobe-block": 1,
+    "dossier-block": 1,
+    "menu-block": 1,
+    "status-panel": 1,
+    "whisper-block": 1,
+    "pullquote": 1
+  },
+  "block_instances": 24,
+  "block_types": 17,
+  "chapter_xhtml_sha256": "0e68c009204e1ec654cdb1a0a5b7f572676000f64a4db58449b736b2733ff56c",
+  "plate_bytes": 193200,
+  "plate_sha256": "0ce8297bd7b4dca4ddc5570a280533e1701f9b5046f886bd74634f4f8acfc376",
+  "changed_baseline_payloads": [
+    "OEBPS/content.opf",
+    "OEBPS/text/characters.xhtml",
+    "OEBPS/text/cover.xhtml",
+    "OEBPS/text/glossary.xhtml",
+    "OEBPS/text/nav.xhtml",
+    "OEBPS/toc.ncx"
+  ],
+  "added_payloads": [
+    "OEBPS/images/wd_jiho_changi_disguise.jpg",
+    "OEBPS/text/ch303.xhtml"
+  ],
+  "bio_append_owners": [
+    "Song Ji-ho",
+    "Im Yoon-a",
+    "Seohyun (Seo Ju-hyun)",
+    "Jessica (Jung Soo-yeon)",
+    "Chae Soo-bin (Bae Soo-bin)"
+  ],
+  "gate_result": "PASS; historical whole-book editorial flags remain outside this chapter cycle"
+}

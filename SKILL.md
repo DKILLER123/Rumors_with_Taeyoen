@@ -6,8 +6,18 @@ Taeyeon*, Version 3). This file holds the **skills**; `worklog.md` holds the **s
 (cycle log, ships, canon pins). Do not duplicate skills between the two — SKILL.md is the
 master reference, worklog §8 is the history.
 
-**Current at ship:** 302 chapters · 404 entries · sha256 `dcd310562b856ab3…` · 20 embedded
-faces · 68 images (manifest through id-49) · ncx 305 navPoints · nav 308 `<li>`.
+**Current at ship:** 303 chapters · 406 entries · 13,959,204 B · sha256 `2b30d2e4b0bc9e86…` ·
+403 manifest items · 307 spine entries · 20 embedded faces · 73 images (through id-50) ·
+NCX 306 navPoints · nav 309 `<li>` · 18 character cards · 61 glossary cards.
+Final seal: `reports/ch303/package_verification.json`; next image id **id-51**.
+
+**Recovery baseline (2026-09-13; historical).** The imported 302-chapter archive was
+preserved during setup; the subsequent reader-authorized chapter-303 production cycle
+supersedes that setup-only limit. `WORKSPACE_SETUP.md` and `reports/workspace_audit.json`
+retain inherited editorial flags: full-book question-mark/repetition heuristics are not
+all green. Do not auto-fix historical chapters. The missing `.sl.json` was reconstructed
+from documented core-rule conventions, not recovered byte-for-byte. `npm ci` uses the
+existing lockfile. Old `/home/user` workspace paths refer to this repository root.
 
 **Operating skills (user directive, always on):** **DEEP SCAN** — read every raw line and
 every produced line for content, contradictions, names, punctuation, and block contexts
@@ -25,24 +35,27 @@ new ship's hash to worklog §8. SKILL.md is versioned by its *Current at ship* l
 
 | Path | Role |
 |---|---|
-| `/home/user/SKILL.md` | This playbook (skills) |
-| `/home/user/worklog.md` | State: §0 read-first summary, §8 cycle log newest-first |
-| `/home/user/work_epub/OEBPS/` | The book tree (`text/`, `images/`, `styles/`, `content.opf`, `toc.ncx`) |
-| `/home/user/uploads/` | Reader-supplied identity sources of truth (rule #13) |
-| `/home/user/validate_tree.py` | Gate: tree, manifests, refs, undefined classes, CJK |
-| `/home/user/punct_quotes.py` | Gate: curly-quote integrity |
-| `/home/user/repeat_check.py` | Gate: 8-gram repeats (arg = bare filename, run from `/home/user`) |
-| `/home/user/audit_marks.py` | Gate: question marks + phone-call block structure |
-| `/home/user/build_epub.py` | Packages the tree into the final EPUB |
-| `/home/user/.sl.json` + `stylelint@16` | CSS lint (`npm i stylelint@16` per cycle — node_modules not persisted) |
+| `/home/user/Rumors_with_Taeyoen/SKILL.md` | This playbook (skills) |
+| `/home/user/Rumors_with_Taeyoen/worklog.md` | State: §0 read-first summary, §8 cycle log newest-first |
+| `/home/user/Rumors_with_Taeyoen/work_epub/OEBPS/` | The book tree (`text/`, `images/`, `styles/`, `content.opf`, `toc.ncx`) |
+| `/home/user/Rumors_with_Taeyoen/uploads/` | Reader-supplied identity sources of truth (rule #13) |
+| `/home/user/Rumors_with_Taeyoen/validate_tree.py` | Gate: XHTML, file refs, undefined classes, legacy CJK scan |
+| `/home/user/Rumors_with_Taeyoen/workspace_audit.py` | Recovery audit: ZIP parity, manifest/spine/nav, fragments, resource and chapter indexes |
+| `/home/user/Rumors_with_Taeyoen/punct_quotes.py` | Gate: curly-quote integrity |
+| `/home/user/Rumors_with_Taeyoen/repeat_check.py` | Gate: 8-gram repeats (arg = bare filename, run from `/home/user/Rumors_with_Taeyoen`) |
+| `/home/user/Rumors_with_Taeyoen/audit_marks.py` | Gate: question marks + phone-call block structure |
+| `/home/user/Rumors_with_Taeyoen/build_epub.py` | Packages the tree into the final EPUB |
+| `/home/user/Rumors_with_Taeyoen/.sl.json` + `stylelint@16` | CSS lint (`npm ci` per cycle — node_modules not persisted) |
 
 ---
 
 ## 2 · The per-chapter cycle (order of operations)
 
 0. **Save the raw FIRST, before anything else** (user directive): the untouched chapter text
-   goes to `/home/user/raws/chNNN_raw.txt` — verbatim, junk glyphs included — before any
-   recon, drafting, or image work. The raws directory is the source archive.
+   goes to `/home/user/Rumors_with_Taeyoen/raws/chNNN_raw.txt` — verbatim, junk glyphs included — before any
+   recon, drafting, or image work. The raws directory is the source archive. If a raw is
+   repasted, preserve the existing original and save the new version separately before
+   comparing them; never silently overwrite source custody.
 1. **Recon.** Grep the tree for every named entity, callback, and block markup the raw
    touches (canon greps BEFORE writing). Sample the exact markup of any block to reuse.
 2. **Draft** `work_epub/OEBPS/text/chNNN.xhtml` via a single `write_file`. Chapter skeleton:
@@ -99,10 +112,14 @@ new ship's hash to worklog §8. SKILL.md is versioned by its *Current at ship* l
   established setup and log the re-cut.
 - **Timeline.** Maintain internal dates over raw stamps (ch293–297 run Thu Sep 26 → Sat
   Sep 28, 2013: cruise Thursday, notice + discharge Friday Sep 27, day 1,000 Saturday).
+  For cross-border travel, verify booking lead time, flight duration and ground transfer
+  in one time basis; label local zones and flashbacks. Do not silently resolve pending
+  stage or return-travel commitments just to make the new scene fit.
 - **New characters:** full card on `characters.xhtml` (§8), portrait per §7.
 - **Deliberate devices (do not re-litigate):** `???` fan-board idiom; ch277 "Are you sure.";
   honorific set per worklog §4; whisper-block alternation; one-sided chat threads vary
-  receipt lines; author-aside label varied every chapter; SNSD tour left unnamed.
+  receipt lines; author-aside label varied every chapter; SNSD tour = **Girls & Peace**
+  (named in ch301; earlier chapters deliberately left it unnamed).
 - **Trait/status labels** stay canonical: "Acquired — Trait:" em-dash form; stat-panel per
   ch094 (DOB Jan 21 1994, 182 cm, Charm keys).
 
@@ -176,14 +193,16 @@ portraits.
 in worklog only, never printed in the book.
 
 **Wardrobe plates (rule #12/#13).** Trigger: a *new* outfit with narrative intent (same
-outoutfit twice = no plate). Identity source order: (1) reader upload in `uploads/` for
-that person; (2) their canonical in-tree portrait/plate (rule #13 fallback); (3) AI
-generation only for OCs without any source. Generate → center-crop 4:5 → 1120×1400 q85 →
-`images/wd_{who}_{garment}.jpg` → manifest id → wd-photo embed. `generate_image` output is
-unverifiable in-session — always tell the reader to check likeness; delete `gen/` and
-`image-search/` after each round.
+outfit twice = no plate). Identity source order: (1) reader upload in `uploads/` for
+that person; (2) their canonical in-tree portrait/plate (rule #13 fallback). Without a
+suitable identity source, skip the wardrobe plate/block rather than fabricate likeness.
+Generate → center-crop 4:5 → 1120×1400 q85 →
+`images/wd_{who}_{garment}.jpg` → manifest id → wd-photo embed. Inspect the installed
+image, not only a previous generation: verify photographic treatment, outfit, era-specific
+props and crop. Likeness still needs reader judgment; generation is not documentary
+photography. Delete `gen/` and `image-search/` after each round.
 
-**Numbers.** Next manifest id = last + 1 (currently id-48). Record byte sizes in worklog.
+**Numbers.** Next numeric image manifest id = last + 1 (currently **id-51**, after id-50). Record byte sizes in worklog.
 
 ---
 
@@ -193,8 +212,8 @@ unverifiable in-session — always tell the reader to check likeness; delete `ge
    `<itemref idref="chNNN">` after the previous chapter; stamps
    "Volume One · Chapters 1–NNN" + "publisher's edition of Chapters 1–NNN"; any new image
    items.
-2. `toc.ncx`: navPoint `num_{NNN+2}` / playOrder `{NNN+2}` after the previous chapter's
-   block (navPoint count = chapters − nothing; currently 300 for 297).
+2. `toc.ncx`: navPoint `num_{NNN+3}` / playOrder `{NNN+3}` after the previous chapter's
+   block (three leading reference entries; currently 305 navPoints for 302 chapters).
 3. `nav.xhtml`: `<li>` after the previous chapter (li count = chapters + 6).
 4. `cover.xhtml` + `glossary.xhtml` footer stamps → NNN.
 5. `characters.xhtml`: extend bios of touched characters (exact-anchor `str.replace`,
@@ -205,15 +224,15 @@ unverifiable in-session — always tell the reader to check likeness; delete `ge
 
 ## 9 · Pre-package gates (ALL mandatory, every touched chapter)
 
-| Gate | Command (from `/home/user`) | Clean means |
+| Gate | Command (from `/home/user/Rumors_with_Taeyoen`) | Clean means |
 |---|---|---|
 | Tree/refs/classes | `python3 validate_tree.py` | PASS, zero undefined classes |
 | Quote integrity | `python3 punct_quotes.py` | 0 files to rewrite |
 | Repeats | `python3 repeat_check.py chNNN.xhtml` | 0 internal / 0 cross-chapter 8-grams; deliberate repeats (quotations, exercises) documented in worklog §8 — the tool's own caveat covers them once logged |
-| **Question-mark audit** | `python3 audit_marks.py chNNN.xhtml` | No genuine NO-QM flags (triage wh-clefts); no `”?`/`??`/` ?`/`?”. ` malformations — **standing user directive** |
+| **Question-mark audit** | `python3 audit_marks.py work_epub/OEBPS/text/chNNN.xhtml` | No genuine NO-QM flags (triage wh-clefts); no `”?`/`??`/` ?`/`?”. ` malformations — **standing user directive** |
 | **Phone-call audit** | in audit_marks.py | pc-head first child; body classes ⊆ pc-me/pc-them/pc-note — **standing user directive** |
 | **Style-block deep scan** | re-read the finished chapter against §5 and the raw | every raw context owns its block; no context left in plain prose that the catalog covers — **standing user directive** |
-| CSS lint | `npm i stylelint@16` then `node_modules/.bin/stylelint --config .sl.json "work_epub/OEBPS/styles/*.css"` | 0 errors |
+| CSS lint | `npm ci` then `node_modules/.bin/stylelint --config .sl.json "work_epub/OEBPS/styles/*.css"` | 0 errors |
 | XML parse | ET.parse each touched file | no exception |
 | CJK scan | in validate_tree/audit | 0 hanzi/hangul in final text |
 | Doubled words | `\b(\w+) \1\b` scan | none (laughter ("ha ha") = false positive) |
@@ -235,10 +254,10 @@ interrogative. Chapter length: whatever the raw needs — never truncate.
 
 1. `python3 build_epub.py` → note entries/size/sha256.
 2. In-archive asserts: mimetype first & STORED; `<item id="chNNN">` present; stamps
-   correct; spine = chapters + 2; navPoint count; nav li; glossary footer; chapter content
+   correct; spine = chapters + 4 (including non-linear nav); navPoint count; nav li; glossary footer; chapter content
    spot-strings; **byte-identical images** vs tree; phone-call/QM fixes present.
-3. Tree↔archive symmetric diff must equal `{'mimetype'}` (the tree-side stray
-   `work_epub/mimetype` is canonical and harmless — do NOT delete it).
+3. Tree↔archive file-name symmetric diff must be **empty**, and every payload must match.
+   `work_epub/mimetype` is a real canonical member, not a stray; keep it and compare it too.
 4. Record the ship (entries, bytes, sha256 prefix) in worklog §8 + §0, and bump SKILL.md's
    *Current at ship* line. Then `present_file` the EPUB.
 
@@ -265,8 +284,8 @@ interrogative. Chapter length: whatever the raw needs — never truncate.
 - Multi-edit scripts: assert each anchor before writing; discard on mid-script failure
   (guards have caught a duplicate-block draft before it touched the sheet).
 - Global `p{color}` beats inherited block color — scope child rules under the block.
-- `repeat_check.py` takes a bare filename and runs from `/home/user`.
-- `npm i stylelint@16` every cycle (node_modules not persisted).
+- `repeat_check.py` takes a bare filename and runs from `/home/user/Rumors_with_Taeyoen`.
+- `npm ci` every cycle (node_modules not persisted).
 - `OEBPS/`-prefixed paths inside in-archive asserts; tree paths unprefixed.
 - A wardrobe block for a person with no identity source is skipped, not faked.
 - One-sided phone calls: pc-me only, far end as pc-note murmurs (ch022 idiom).

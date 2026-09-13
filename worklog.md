@@ -7,38 +7,161 @@ how to verify any future edit. Read this before touching the tree.
 
 ---
 
-## 0 · Cycle 302 summary (read this first on resume)
+## 0 · Cycle 303 summary (read this first on resume)
 
-ch291 shipped, then its fix round (the kitchen plate recomposited from the user's Jessica
-upload; tree-wide question-mark audit clean). ch292 shipped, then its fix round (both Jessica plates regenerated from the user's source
-photo per the amended rule #13; nine question-mark repairs across ch291/292). ch293 shipped (the Walking Pictorial week). ch294 (Yoon-a, Confess to Me) delivered on top:
-the Han River cruise date — the lamplighter legend, the "not yet," her twice-moved heart named
-to its two addresses, the designed Sica reveal owned out loud, the flaw offer and the massage
-tease, and the final-lesson exam card ending on "Confess to me"; plate id-46 from the
-reader-supplied Yoon-a reference; no new CSS; bios extended; all gates green. A typography refresh followed: chapter titles moved to Cardo 700
-(lining figures verified with fontTools), the pullquote redesigned as a cream tri-color card
-(Cardo drop quote, EB Garamond italic), two faces added (18 → 20). ch295 (Song Ji-ho Is Indeed a Bastard) then delivered:
-Yoon-a’s confession under fireworks, the six-study final lesson, the Meisner pair, and his
-rail answer; all blocks reused; bios extended; all gates green. ch296 (Eonni, I’ll Love You Tomorrow) then delivered: the
-boat coda, the dorm night (Sunny’s tribunal, the apology paid into the wrong bed, the
-saranghae adjourned to tomorrow), the Friday montage, Jiyeon’s selfie and reply, the
-Billboard interview, and the CCM acquisition notice with the trading halt (dates re-cut to
-Friday Sept 27 / halt Monday Sept 30 for timeline consistency); os-note child added to §24;
-bios extended; all gates green. ch297 (Upheaval) then delivered: Soyeon’s
-gate-versus-company Friday (the thousandth day preempted by the trading halt), Click-B’s bar
-therapy, Jiyeon on the chairman’s floor (plate id-47), and Qri’s play-dumb doctrine as the
-company changes hands; Oh Jong-hyuk added to the character page (id-48); all gates green. A fix round followed: all three call scenes restaged in the §12 phone-call block (the gate fight in the sinister variant, the chairman’s unlisted call one-sided); all gates green. A second fix round restored seven flattened question marks across ch295–ch297 (raw interrogatives lost in translation), and the two audits became standing pre-package gates. ch298 (The Breakup) then delivered — and with it SKILL.md (the master playbook) and audit_marks.py (the standing QM/phone-call gate as a tool): the office-to-villa Friday, the CCM chip session, the betrayal, and the white roses; all gates green. ch299 (Today’s Dog Food Ration: Exceeded) then delivered under the new directives — raw archived first, Deep Scan catching a raw-internal dress contradiction and a phantom in-tree reference, eight heavy blocks, plate id-49; all gates green. ch300 (Backup Dancers) then delivered: the trillion-won Monday, the fan-theory internet wars, the America assignment for T-ara, JYP booked for choreography, and the trainee five assigned their first stage; timeline re-cut to Sept 30/Oct 1 with the Oct 3 single canon held; 14 heavy blocks; all gates green. ch301 (A Fawn at the Window) then delivered: SM’s January “Mr.Mr.” pivot lands on Yoon-a in Singapore (the cancelled girl group, the spent window, the fawn doing sums), while PJK delivers the “Let Me Down Slowly” choreography to the trainee five, T-ara and one twitching chairman (Ji-ho-ya); Kim Kwang-soo minted as the watcher on the subsidiary floor; 14 heavy blocks; all gates green. ch302 (The Collapse) then delivered: the Ji-yeon/Joo-hyun duel scored by an unofficial card, the roof-garden whisper (“Do you want to know?” answered with “When do we debut.”), Seung-wan the witness, Soo-bin’s cleanup with a consolation stage for Ji-yeon, and Yoon-a’s concealed cold ending in a corridor-floor collapse; 14 heavy blocks; all gates green.
-Standing pre-package gates (user directive): the question-mark audit and the phone-call block
-audit run on every touched chapter before build — flattened interrogatives, ”?-order, doubled or
-spaced question marks, and pc-head/pc-me/pc-them/pc-note structure.
+**Chapter 303 — Can You Bear My Love? — packaged and verified.** The reader authorized
+chapter production after the September 13 workspace recovery. Both raw versions are
+preserved; the resubmission was saved first. The new chapter is complete, fully reread,
+and wired. Final archive: **406 entries, 13,959,204 B**, SHA-256
+`2b30d2e4b0bc9e8604db49c3923f040945e69e39e3fe726bc134483527473fde`. Archive/tree parity and preservation checks pass.
 
-Current state: **302 chapters**, stamps `Chapters 1–302`, 20 embedded faces, glossary 61 cards,
-21 character portraits, 68 images, all gates green. Ship: 404 entries, 13,749,010 B, sha256
-`dcd310562b856ab3…`. Standing directives: Deep Scan + Deep Thinking, raws saved first (`raws/`),
-style-block maximalism, pre-package style-block + QM deep scans. Chat convention: `.self` on the sender only
-(SKILL.md corrected). Dossier dg-value left-aligned (user preference).
+**Current ship/tree:** 303 chapters, `Chapters 1–303`, 403 manifest items, 307 spine entries,
+306 NCX navPoints, 309 nav list items, 73 images, 20 embedded font faces, 18 character
+cards/portraits, 61 glossary cards. Chapter 303 has 24 substantial block instances in
+17 existing types, 5,592 words under repeat_check's count, one new wardrobe image id-50
+(193,200 B). Next numeric image id: **id-51**. No existing chapter, image, font or CSS changed.
+Five existing bios appended; nav/NCX/OPF, cover and glossary stamps updated.
+
+**Canon pins for the next chapter:** October 4 collapse 13:10 Singapore; Ji-ho receives
+news 14:40 Seoul, flies 16:10 Seoul → 22:05 Singapore, reaches Room 308 at 22:55
+Singapore (9h45 after collapse). Hospital night, not sunny 17:00 arrival. Ten rehearsal
+performers (five trainees, five T-ara); Seung-wan witnessed the kiss, Seul-gi only infers.
+Yoon-a stays overnight; possible morning discharge is not a guarantee. ECHO October 15
+is eleven days away; the October 5–6 stage and return flight remain unresolved. Yoon-a's
+answer to his final invitation is not supplied. Retain amber-eyed, LA-born Song Ji-ho.
+
+**Standing directives:** Deep Scan + Deep Thinking; untouched raws saved first;
+context-to-block maximalism with canon-safe expansion; every touched chapter gets full
+question-mark and phone-call audits before packaging. `.self` only marks the sender/window
+owner and every sent bubble's name; `.dg-value` stays left-aligned. Reader uploads override
+other identity sources. Keep historical editorial exceptions; don't flatten questions or
+bulk-rewrite old chapters to silence heuristics.
+
+**Verification scope:** chapter 303 house gates pass. Full finished chapter was reread;
+block labels, chat/call/whisper children, question punctuation and raw coverage were
+reviewed. Browser layout proof at 390/800px passes overflow/image-load checks; selected
+small-screen panels visually inspected. This is not EPUBCheck or all-reader certification.
+Full-book inherited editorial flags remain tracked in the recovery report. See
+`reports/ch303/editorial_review.md`, `prepackage.json` and `browser_proof.json`.
+Repository root: `/home/user/Rumors_with_Taeyoen`; old `/home/user/...` paths map here.
 
 ## 8 · Cycle log (Version 3, newest first)
+
+### GitHub publication follow-up — reader requested
+
+The completed chapter-303 work had been saved locally but not committed or pushed.
+The reader explicitly requested publication. Verified the local session branch
+`arena/01a09949-rumors-with-taeyoen`, working GitHub authentication, and the absence
+of that branch on origin. Publication includes the final EPUB, extracted editable
+book, raw resubmission, production documentation, and audit reports. Reinstallable
+dependencies, browser binaries, and generated scratch files remain ignored.
+The EPUB hash was checked against `reports/ch303/package_verification.json`; no
+book rebuild or editorial change is involved in this follow-up. Git history and
+the remote branch are the authoritative publication record.
+
+
+### ch303 — Can You Bear My Love? — September 13, 2026 — packaged and verified
+
+**Source and scope.** Raw-first archive `raws/ch303_user_resubmitted_raw.txt`, SHA-256
+`476aecbb806ef14106804c8d861c89e63dca88053923616ddaabc24be7990f39`; original
+`ch303_raw.txt` retained. Full source/draft review and final reread. No old chapter edits.
+Original 302 archive remained hash-identical until this authorized build cycle.
+
+**Content.** The ten-dancer rehearsal, Park Jin-young's four-hour coaching, four collapse
+headlines, protests and SM response; immediate Singapore flight and separate-practice
+instructions; Soo-bin's envy; fireworks recollection; all eight hospital visitors, water,
+Yuri's bed adjustment, Taeyeon's dismissal; night arrival and reception privacy; rejected
+call and phone-off message; Jessica's Raffles/201 bait correction to Novena/308, eleven-day
+album deadline and tomorrow's surprise; thermometer, medicine, porridge and Mother Seo;
+elevator near-recognition; reunion inside ten hours; her fear of loving him and the other
+women's response; his uncertainty, possessive emotional first claim, unanswered invitation.
+Timeline corrections and every source beat are mapped in `reports/ch303/editorial_review.md`.
+
+**Block census.** 24 instances / 17 types, all existing CSS: lesson 1, performance 1,
+app-screen 3, fanclub 1, briefing 2, official statement 1, chat 2, phone-call 3,
+checklist 1, memory 1, hand-note 2, wardrobe 1, dossier 1, menu 1, status 1, whisper 1,
+pullquote 1. Thin taxi-refresh and porridge contexts retain panels. Five bios appended:
+Ji-ho, Yoon-a, Soo-bin, Jessica, Seohyun; scoped insertion ownership checked. No new terms.
+
+**Plate.** `wd_jiho_changi_disguise.jpg`, id-50, 1120×1400, 193,200 B, q85 optimized JPEG.
+Existing Ji-ho black-knit identity reference used; no reader-uploaded Ji-ho photo exists.
+Illustrated first attempt rejected, photographic second version corrected for a modern
+phone detail; final installed plain-handset night-airport image visually inspected.
+No Seohyun hospital wardrobe plate without a new outfit description/identity need.
+
+**Pre-package gates.** CSS lint PASS; validate_tree 307/307 XHTML, no undefined class,
+straight quote, CJK or unresolved reference; punct_quotes zero rewrites; audit_marks no
+hard flags, two temporal-clause soft flags reviewed and retained; repeat_check 5,592 words,
+zero internal and cross-chapter eight-grams against 300–302. Independent body count 5,582
+(including furniture); longest paragraph 59 words; three em dashes (0.537 per 1,000);
+125/125 double quotes; 55 question marks including title. Every heavy panel labeled,
+chat sender names correct, phone headers first, whisper alternating with closing note.
+Pre-package payload comparison: only six existing book files changed (OPF/NCX/nav/cover/
+glossary/characters), only ch303 XHTML and its image added; all 302 chapters/assets/CSS
+preserved. Browser layout proof at 390/800px with embedded fonts: no errors/overflow,
+image loaded, Cardo title and left-aligned dossier values confirmed. Original Playwright
+CDN download failed; npm-bundled Chromium/shared libraries supplied the successful proof.
+No EPUBCheck or all-reader certification claimed.
+
+**Build seal.** This cycle entry and SKILL/state updates were written before the packer.
+Final archive **406 entries / 13,959,204 B / SHA-256 `2b30d2e4b0bc9e8604db49c3923f040945e69e39e3fe726bc134483527473fde`**.
+Mimetype first and STORED; all remaining entries DEFLATED; CRC PASS. ZIP/tree byte parity
+406/406. Structural audit: 310 XML documents, 307 XHTML, 303 chapters, 403 manifest /
+307 spine / 306 NCX / 309 nav; 2,151 references checked, zero structural errors. All
+73 images and 20 WOFFs decoded. All 302 older chapters, existing images, fonts and CSS
+byte-preserved; ch282's id-29 alias preserved. Only six existing reference/package files
+changed and two new payloads added. Both archived raws and every supplied identity image
+remain unchanged against recovery source hashes. Chapter 303 house gates pass; full-book
+question-mark/repetition gates still flag inherited content, not repaired in this cycle.
+Reports: `reports/ch303/package_verification.json` and `reports/ch303/full_tree/`.
+At EPUB packaging, no commit or push had yet been made. No EPUBCheck certification.
+The root EPUB is the deliverable.
+
+
+### Workspace recovery — September 13, 2026 — setup only
+
+**Source & scope.** Verified the existing Arena checkout against fetched GitHub main at
+`0cd94563452b8732976d907f186442471aa3a000`. Stayed on the session branch
+`arena/01a09949-rumors-with-taeyoen`. Extracted all 404 members of the chapter-302 EPUB to
+`work_epub/`; verified every name and payload byte. Original EPUB, five raw files,
+two reader reference uploads, five legacy Python tools and npm lockfile preserved.
+
+**Recon.** Reviewed the production playbook and cycle history, reference pages, recent
+continuity, and available raws 299–303. Full-tree machine scan indexed all chapter text,
+styles/classes, references, assets, metrics and selected name variants. This is not a claim
+of complete line-by-line literary proofreading of the whole volume. Chapter 303's Seoul
+10:30 news/17:00 Singapore arrival conflicts with chapter 302's Singapore 13:10 collapse;
+reconciliation is pending, not applied. No new chapter, portrait or story content created.
+
+**Workspace additions.** `WORKSPACE_SETUP.md`, `AGENTS.md`, `workspace_audit.py`, inventories
+and audit logs under `reports/`, `.gitignore`, and optional pinned image/font dependencies.
+Reconstructed missing `.sl.json` as 19 core Stylelint rules with the documented inset
+exception; original configuration bytes were not available. Installed npm dependencies
+from the original lockfile. Python asset tools installed in `.venv` after the environment
+correctly rejected a system-managed pip install. No dependency/scratch trees tracked.
+
+**Measured gates.** ZIP CRC/mimetype and complete payload parity PASS; 309 XML documents
+parse; 401 manifest resources all present; chapter sequence agrees across 306 spine items,
+305 NCX navPoints and the contents nav; 308 nav list items including landmarks. File/CSS URL
+and XML fragment checks PASS. All 72 images and 20 WOFF faces decode. validate_tree PASS,
+punct_quotes PASS, restored Stylelint config PASS. Whole-book audit_marks: 154 hard-rule
+matches across 74 chapters (141 exact double-QM, 13 space-QM), 453 soft candidates; no hard
+phone-call structure flags. Whole-book repeat_check REVIEW in 71 chapters; ch299–302 each
+0 internal/0 cross. Additional editorial flags and reference-page damage are documented,
+not auto-fixed. Not EPUBCheck or reader-rendering certification.
+
+**Documentation corrections.** SKILL.md paths now point into the repository. Current
+census corrected to the actual archive; next numeric image id is id-50, NCX offset is
+chapter+3, spine is chapter+4, full tree/archive symmetric difference is empty including
+mimetype. Corrected the question-audit command to a real chapter path; use npm ci for the
+locked dependencies. Girls & Peace is already named in ch301, superseding the older
+unnamed-tour reminder. Historical entries below left intact.
+
+**Packer smoke / no ship.** Redirected the existing packer output to ignored scratch storage,
+verified 404 names and all payloads against the imported archive, and removed the temporary
+ZIP. Did not overwrite the production file. Original ship remains 13,749,010 bytes,
+SHA-256 `dcd310562b856ab31fc358e5d4e865635a4fef6711fa91a292d8379b553da494`.
+
 
 ### ch302 (The Collapse) — delivered
 

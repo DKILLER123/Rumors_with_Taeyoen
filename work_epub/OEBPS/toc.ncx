@@ -1,0 +1,1851 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:7f9c2e4a-5b1d-4e8f-9a3c-8d6e1f0a2b3c"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (9.13.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Peninsula: Going Viral After a Dating Scandal with Kim Taeyeon</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Characters</text>
+      </navLabel>
+      <content src="text/characters.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Korean Honorifics Glossary</text>
+      </navLabel>
+      <content src="text/glossary.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 1 · Back to 2012</text>
+      </navLabel>
+      <content src="text/ch001.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 2 · Dream Life: The Simulation</text>
+      </navLabel>
+      <content src="text/ch002.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 3 · Achievement Quest: Win the Fans</text>
+      </navLabel>
+      <content src="text/ch003.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 4 · Provisional Trainee</text>
+      </navLabel>
+      <content src="text/ch004.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 5 · How to Win Friends and Influence People</text>
+      </navLabel>
+      <content src="text/ch005.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 6 · The Grind</text>
+      </navLabel>
+      <content src="text/ch006.xhtml"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 7 · Dying for the Dream</text>
+      </navLabel>
+      <content src="text/ch007.xhtml"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 8 · Bae Joo-hyun</text>
+      </navLabel>
+      <content src="text/ch008.xhtml"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 9 · Limited-Edition Outfit: Bunny Girl</text>
+      </navLabel>
+      <content src="text/ch009.xhtml"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 10 · The Conqueror’s Instinct</text>
+      </navLabel>
+      <content src="text/ch010.xhtml"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 11 · A Man Is Forever Eighteen</text>
+      </navLabel>
+      <content src="text/ch011.xhtml"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter 12 · First Meeting: Kim Taeyeon</text>
+      </navLabel>
+      <content src="text/ch012.xhtml"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 13 · Let the Evaluation Begin</text>
+      </navLabel>
+      <content src="text/ch013.xhtml"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 14 · That Outrageous Trainee Contract</text>
+      </navLabel>
+      <content src="text/ch014.xhtml"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter 15 · Professional-Grade Ukulele</text>
+      </navLabel>
+      <content src="text/ch015.xhtml"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 16 · Apartment Hunting</text>
+      </navLabel>
+      <content src="text/ch016.xhtml"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter 17 · The Ab Board</text>
+      </navLabel>
+      <content src="text/ch017.xhtml"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 18 · First Meeting: Red Velvet</text>
+      </navLabel>
+      <content src="text/ch018.xhtml"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chapter 19 · Chingu</text>
+      </navLabel>
+      <content src="text/ch019.xhtml"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chapter 20 · The Joke</text>
+      </navLabel>
+      <content src="text/ch020.xhtml"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>Chapter 21 · The Bully</text>
+      </navLabel>
+      <content src="text/ch021.xhtml"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>Chapter 22 · My Heart Will Go On</text>
+      </navLabel>
+      <content src="text/ch022.xhtml"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>Chapter 23 · Sulli’s Family</text>
+      </navLabel>
+      <content src="text/ch023.xhtml"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>Chapter 24 · Depression</text>
+      </navLabel>
+      <content src="text/ch024.xhtml"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>Chapter 25 · The Drug</text>
+      </navLabel>
+      <content src="text/ch025.xhtml"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>Chapter 26 · Misfortune Hunts the Suffering</text>
+      </navLabel>
+      <content src="text/ch026.xhtml"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>Chapter 27 · Black Into White</text>
+      </navLabel>
+      <content src="text/ch027.xhtml"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>Chapter 28 · Rule One of Bar Life: Know How to Fight</text>
+      </navLabel>
+      <content src="text/ch028.xhtml"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>Chapter 29 · First Meeting: Lee Soo-man</text>
+      </navLabel>
+      <content src="text/ch029.xhtml"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>Chapter 30 · Famous</text>
+      </navLabel>
+      <content src="text/ch030.xhtml"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>Chapter 31 · Hospital Visits, and Drama Queen Im Yoon-a</text>
+      </navLabel>
+      <content src="text/ch031.xhtml"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>Chapter 32 · A Den of Sirens, a Kingdom of Women</text>
+      </navLabel>
+      <content src="text/ch032.xhtml"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>Chapter 33 · Just Kidding</text>
+      </navLabel>
+      <content src="text/ch033.xhtml"/>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>Chapter 34 · The Company Pays Its Debts</text>
+      </navLabel>
+      <content src="text/ch034.xhtml"/>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38">
+      <navLabel>
+        <text>Chapter 35 · The First Disciple and the New Kid</text>
+      </navLabel>
+      <content src="text/ch035.xhtml"/>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39">
+      <navLabel>
+        <text>Chapter 36 · Filming “Twinkle”</text>
+      </navLabel>
+      <content src="text/ch036.xhtml"/>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40">
+      <navLabel>
+        <text>Chapter 37 · Charm 50!</text>
+      </navLabel>
+      <content src="text/ch037.xhtml"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41">
+      <navLabel>
+        <text>Chapter 38 · Being Sick Alone Is Its Own Kind of Despair</text>
+      </navLabel>
+      <content src="text/ch038.xhtml"/>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42">
+      <navLabel>
+        <text>Chapter 39 · The Pleaser</text>
+      </navLabel>
+      <content src="text/ch039.xhtml"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>Chapter 40 · When I Learn to Love Myself — Can I Love You Too?</text>
+      </navLabel>
+      <content src="text/ch040.xhtml"/>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44">
+      <navLabel>
+        <text>Chapter 41 · Every Pretty Artist Is a Future Girlfriend</text>
+      </navLabel>
+      <content src="text/ch041.xhtml"/>
+    </navPoint>
+    <navPoint id="num_45" playOrder="45">
+      <navLabel>
+        <text>Chapter 42 · A Small Scheme</text>
+      </navLabel>
+      <content src="text/ch042.xhtml"/>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46">
+      <navLabel>
+        <text>Chapter 43 · The Slow Junior and the Genius Senior</text>
+      </navLabel>
+      <content src="text/ch043.xhtml"/>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47">
+      <navLabel>
+        <text>Chapter 44 · Main Quest: One Song to Stun Them All</text>
+      </navLabel>
+      <content src="text/ch044.xhtml"/>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48">
+      <navLabel>
+        <text>Chapter 45 · A Boy</text>
+      </navLabel>
+      <content src="text/ch045.xhtml"/>
+    </navPoint>
+    <navPoint id="num_49" playOrder="49">
+      <navLabel>
+        <text>Chapter 46 · Heartbeats and Ambiguity</text>
+      </navLabel>
+      <content src="text/ch046.xhtml"/>
+    </navPoint>
+    <navPoint id="num_50" playOrder="50">
+      <navLabel>
+        <text>Chapter 47 · The Timing of Things</text>
+      </navLabel>
+      <content src="text/ch047.xhtml"/>
+    </navPoint>
+    <navPoint id="num_51" playOrder="51">
+      <navLabel>
+        <text>Chapter 48 · Morning Light, and Youth at Full Volume</text>
+      </navLabel>
+      <content src="text/ch048.xhtml"/>
+    </navPoint>
+    <navPoint id="num_52" playOrder="52">
+      <navLabel>
+        <text>Chapter 49 · Cliché, But It Works</text>
+      </navLabel>
+      <content src="text/ch049.xhtml"/>
+    </navPoint>
+    <navPoint id="num_53" playOrder="53">
+      <navLabel>
+        <text>Chapter 50 · Sealed With a High-Five</text>
+      </navLabel>
+      <content src="text/ch050.xhtml"/>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54">
+      <navLabel>
+        <text>Chapter 51 · Life’s Candy</text>
+      </navLabel>
+      <content src="text/ch051.xhtml"/>
+    </navPoint>
+    <navPoint id="num_55" playOrder="55">
+      <navLabel>
+        <text>Chapter 52 · The Month-End Evaluation</text>
+      </navLabel>
+      <content src="text/ch052.xhtml"/>
+    </navPoint>
+    <navPoint id="num_56" playOrder="56">
+      <navLabel>
+        <text>Chapter 53 · One Song to Stun Them All!</text>
+      </navLabel>
+      <content src="text/ch053.xhtml"/>
+    </navPoint>
+    <navPoint id="num_57" playOrder="57">
+      <navLabel>
+        <text>Chapter 54 · First Place!</text>
+      </navLabel>
+      <content src="text/ch054.xhtml"/>
+    </navPoint>
+    <navPoint id="num_58" playOrder="58">
+      <navLabel>
+        <text>Chapter 55 · Hearts in Motion</text>
+      </navLabel>
+      <content src="text/ch055.xhtml"/>
+    </navPoint>
+    <navPoint id="num_59" playOrder="59">
+      <navLabel>
+        <text>Chapter 56 · A Reason to Marry Sunny</text>
+      </navLabel>
+      <content src="text/ch056.xhtml"/>
+    </navPoint>
+    <navPoint id="num_60" playOrder="60">
+      <navLabel>
+        <text>Chapter 57 · Song Library Access</text>
+      </navLabel>
+      <content src="text/ch057.xhtml"/>
+    </navPoint>
+    <navPoint id="num_61" playOrder="61">
+      <navLabel>
+        <text>Chapter 58 · The Best Dancer in the Building</text>
+      </navLabel>
+      <content src="text/ch058.xhtml"/>
+    </navPoint>
+    <navPoint id="num_62" playOrder="62">
+      <navLabel>
+        <text>Chapter 59 · Accepting That Life Won’t Always Comply</text>
+      </navLabel>
+      <content src="text/ch059.xhtml"/>
+    </navPoint>
+    <navPoint id="num_63" playOrder="63">
+      <navLabel>
+        <text>Chapter 60 · Kindred Spirits</text>
+      </navLabel>
+      <content src="text/ch060.xhtml"/>
+    </navPoint>
+    <navPoint id="num_64" playOrder="64">
+      <navLabel>
+        <text>Chapter 61 · A Little Bit Famous</text>
+      </navLabel>
+      <content src="text/ch061.xhtml"/>
+    </navPoint>
+    <navPoint id="num_65" playOrder="65">
+      <navLabel>
+        <text>Chapter 62 · The Soft Little Tummy</text>
+      </navLabel>
+      <content src="text/ch062.xhtml"/>
+    </navPoint>
+    <navPoint id="num_66" playOrder="66">
+      <navLabel>
+        <text>Chapter 63 · The Contrarian Heart</text>
+      </navLabel>
+      <content src="text/ch063.xhtml"/>
+    </navPoint>
+    <navPoint id="num_67" playOrder="67">
+      <navLabel>
+        <text>Chapter 64 · Weak Stomach — Doctor’s Orders: Soft Rice Only</text>
+      </navLabel>
+      <content src="text/ch064.xhtml"/>
+    </navPoint>
+    <navPoint id="num_68" playOrder="68">
+      <navLabel>
+        <text>Chapter 65 · Lies Don’t Wound — Truth Is the Blade</text>
+      </navLabel>
+      <content src="text/ch065.xhtml"/>
+    </navPoint>
+    <navPoint id="num_69" playOrder="69">
+      <navLabel>
+        <text>Chapter 66 · Strawberry Gummies</text>
+      </navLabel>
+      <content src="text/ch066.xhtml"/>
+    </navPoint>
+    <navPoint id="num_70" playOrder="70">
+      <navLabel>
+        <text>Chapter 67 · What “With Your Own Lips” Means</text>
+      </navLabel>
+      <content src="text/ch067.xhtml"/>
+    </navPoint>
+    <navPoint id="num_71" playOrder="71">
+      <navLabel>
+        <text>Chapter 68 · Kim Taeyeon’s Traits</text>
+      </navLabel>
+      <content src="text/ch068.xhtml"/>
+    </navPoint>
+    <navPoint id="num_72" playOrder="72">
+      <navLabel>
+        <text>Chapter 69 · Good Songs Are Fought Over</text>
+      </navLabel>
+      <content src="text/ch069.xhtml"/>
+    </navPoint>
+    <navPoint id="num_73" playOrder="73">
+      <navLabel>
+        <text>Chapter 70 · The Prodigy Writer</text>
+      </navLabel>
+      <content src="text/ch070.xhtml"/>
+    </navPoint>
+    <navPoint id="num_74" playOrder="74">
+      <navLabel>
+        <text>Chapter 71 · I Want to Go Solo</text>
+      </navLabel>
+      <content src="text/ch071.xhtml"/>
+    </navPoint>
+    <navPoint id="num_75" playOrder="75">
+      <navLabel>
+        <text>Chapter 72 · The Negotiation</text>
+      </navLabel>
+      <content src="text/ch072.xhtml"/>
+    </navPoint>
+    <navPoint id="num_76" playOrder="76">
+      <navLabel>
+        <text>Chapter 73 · The Rooftop Warning</text>
+      </navLabel>
+      <content src="text/ch073.xhtml"/>
+    </navPoint>
+    <navPoint id="num_77" playOrder="77">
+      <navLabel>
+        <text>Chapter 74 · Sulli’s Call</text>
+      </navLabel>
+      <content src="text/ch074.xhtml"/>
+    </navPoint>
+    <navPoint id="num_78" playOrder="78">
+      <navLabel>
+        <text>Chapter 75 · Busan</text>
+      </navLabel>
+      <content src="text/ch075.xhtml"/>
+    </navPoint>
+    <navPoint id="num_79" playOrder="79">
+      <navLabel>
+        <text>Chapter 76 · The Rebuke</text>
+      </navLabel>
+      <content src="text/ch076.xhtml"/>
+    </navPoint>
+    <navPoint id="num_80" playOrder="80">
+      <navLabel>
+        <text>Chapter 77 · Sulli’s Memories</text>
+      </navLabel>
+      <content src="text/ch077.xhtml"/>
+    </navPoint>
+    <navPoint id="num_81" playOrder="81">
+      <navLabel>
+        <text>Chapter 78 · The Insecurity of Youth</text>
+      </navLabel>
+      <content src="text/ch078.xhtml"/>
+    </navPoint>
+    <navPoint id="num_82" playOrder="82">
+      <navLabel>
+        <text>Chapter 79 · Hara</text>
+      </navLabel>
+      <content src="text/ch079.xhtml"/>
+    </navPoint>
+    <navPoint id="num_83" playOrder="83">
+      <navLabel>
+        <text>Chapter 80 · First Meeting: Park Ji-yeon</text>
+      </navLabel>
+      <content src="text/ch080.xhtml"/>
+    </navPoint>
+    <navPoint id="num_84" playOrder="84">
+      <navLabel>
+        <text>Chapter 81 · Scatterbrained Park Ji-yeon</text>
+      </navLabel>
+      <content src="text/ch081.xhtml"/>
+    </navPoint>
+    <navPoint id="num_85" playOrder="85">
+      <navLabel>
+        <text>Chapter 82 · Loving Someone, or Loving Yourself</text>
+      </navLabel>
+      <content src="text/ch082.xhtml"/>
+    </navPoint>
+    <navPoint id="num_86" playOrder="86">
+      <navLabel>
+        <text>Chapter 83 · The Missing Memory</text>
+      </navLabel>
+      <content src="text/ch083.xhtml"/>
+    </navPoint>
+    <navPoint id="num_87" playOrder="87">
+      <navLabel>
+        <text>Chapter 84 · The Debut Project</text>
+      </navLabel>
+      <content src="text/ch084.xhtml"/>
+    </navPoint>
+    <navPoint id="num_88" playOrder="88">
+      <navLabel>
+        <text>Chapter 85 · Promotion to the Pre-Debut Team</text>
+      </navLabel>
+      <content src="text/ch085.xhtml"/>
+    </navPoint>
+    <navPoint id="num_89" playOrder="89">
+      <navLabel>
+        <text>Chapter 86 · Fault Lines</text>
+      </navLabel>
+      <content src="text/ch086.xhtml"/>
+    </navPoint>
+    <navPoint id="num_90" playOrder="90">
+      <navLabel>
+        <text>Chapter 87 · Main Quest — “Official Debut”</text>
+      </navLabel>
+      <content src="text/ch087.xhtml"/>
+    </navPoint>
+    <navPoint id="num_91" playOrder="91">
+      <navLabel>
+        <text>Chapter 88 · A Sense of Crisis</text>
+      </navLabel>
+      <content src="text/ch088.xhtml"/>
+    </navPoint>
+    <navPoint id="num_92" playOrder="92">
+      <navLabel>
+        <text>Chapter 89 · Tension, and Thrill</text>
+      </navLabel>
+      <content src="text/ch089.xhtml"/>
+    </navPoint>
+    <navPoint id="num_93" playOrder="93">
+      <navLabel>
+        <text>Chapter 90 · The Ninety-Degree Bow</text>
+      </navLabel>
+      <content src="text/ch090.xhtml"/>
+    </navPoint>
+    <navPoint id="num_94" playOrder="94">
+      <navLabel>
+        <text>Chapter 91 · Scandal</text>
+      </navLabel>
+      <content src="text/ch091.xhtml"/>
+    </navPoint>
+    <navPoint id="num_95" playOrder="95">
+      <navLabel>
+        <text>Chapter 92 · The Whole Internet, On Fire</text>
+      </navLabel>
+      <content src="text/ch092.xhtml"/>
+    </navPoint>
+    <navPoint id="num_96" playOrder="96">
+      <navLabel>
+        <text>Chapter 93 · The Wager</text>
+      </navLabel>
+      <content src="text/ch093.xhtml"/>
+    </navPoint>
+    <navPoint id="num_97" playOrder="97">
+      <navLabel>
+        <text>Chapter 94 · Heavenly Voice</text>
+      </navLabel>
+      <content src="text/ch094.xhtml"/>
+    </navPoint>
+    <navPoint id="num_98" playOrder="98">
+      <navLabel>
+        <text>Chapter 95 · The Stranger at Door 801</text>
+      </navLabel>
+      <content src="text/ch095.xhtml"/>
+    </navPoint>
+    <navPoint id="num_99" playOrder="99">
+      <navLabel>
+        <text>Chapter 96 · Racing Hearts</text>
+      </navLabel>
+      <content src="text/ch096.xhtml"/>
+    </navPoint>
+    <navPoint id="num_100" playOrder="100">
+      <navLabel>
+        <text>Chapter 97 · The Audition He Gave Himself</text>
+      </navLabel>
+      <content src="text/ch097.xhtml"/>
+    </navPoint>
+    <navPoint id="num_101" playOrder="101">
+      <navLabel>
+        <text>Chapter 98 · The Promise</text>
+      </navLabel>
+      <content src="text/ch098.xhtml"/>
+    </navPoint>
+    <navPoint id="num_102" playOrder="102">
+      <navLabel>
+        <text>Chapter 99 · The Road to Jeonju</text>
+      </navLabel>
+      <content src="text/ch099.xhtml"/>
+    </navPoint>
+    <navPoint id="num_103" playOrder="103">
+      <navLabel>
+        <text>Chapter 100 · My Taeyeon</text>
+      </navLabel>
+      <content src="text/ch100.xhtml"/>
+    </navPoint>
+    <navPoint id="num_104" playOrder="104">
+      <navLabel>
+        <text>Chapter 101 · The Partner Development System</text>
+      </navLabel>
+      <content src="text/ch101.xhtml"/>
+    </navPoint>
+    <navPoint id="num_105" playOrder="105">
+      <navLabel>
+        <text>Chapter 102 · The Debut Plan · Into the Booth</text>
+      </navLabel>
+      <content src="text/ch102.xhtml"/>
+    </navPoint>
+    <navPoint id="num_106" playOrder="106">
+      <navLabel>
+        <text>Chapter 103 · Seven Days to Ignition</text>
+      </navLabel>
+      <content src="text/ch103.xhtml"/>
+    </navPoint>
+    <navPoint id="num_107" playOrder="107">
+      <navLabel>
+        <text>Chapter 104 · All-Kill</text>
+      </navLabel>
+      <content src="text/ch104.xhtml"/>
+    </navPoint>
+    <navPoint id="num_108" playOrder="108">
+      <navLabel>
+        <text>Chapter 105 · Ripples</text>
+      </navLabel>
+      <content src="text/ch105.xhtml"/>
+    </navPoint>
+    <navPoint id="num_109" playOrder="109">
+      <navLabel>
+        <text>Chapter 106 · The Debut Stage</text>
+      </navLabel>
+      <content src="text/ch106.xhtml"/>
+    </navPoint>
+    <navPoint id="num_110" playOrder="110">
+      <navLabel>
+        <text>Chapter 107 · The Fan Club</text>
+      </navLabel>
+      <content src="text/ch107.xhtml"/>
+    </navPoint>
+    <navPoint id="num_111" playOrder="111">
+      <navLabel>
+        <text>Chapter 108 · A Phenomenon</text>
+      </navLabel>
+      <content src="text/ch108.xhtml"/>
+    </navPoint>
+    <navPoint id="num_112" playOrder="112">
+      <navLabel>
+        <text>Chapter 109 · First Variety</text>
+      </navLabel>
+      <content src="text/ch109.xhtml"/>
+    </navPoint>
+    <navPoint id="num_113" playOrder="113">
+      <navLabel>
+        <text>Chapter 110 · The Storm Breaks Over T-ara</text>
+      </navLabel>
+      <content src="text/ch110.xhtml"/>
+    </navPoint>
+    <navPoint id="num_114" playOrder="114">
+      <navLabel>
+        <text>Chapter 111 · Kim Taeyeon Goes House-Hunting</text>
+      </navLabel>
+      <content src="text/ch111.xhtml"/>
+    </navPoint>
+    <navPoint id="num_115" playOrder="115">
+      <navLabel>
+        <text>Chapter 112 · Height-Reforging Milk</text>
+      </navLabel>
+      <content src="text/ch112.xhtml"/>
+    </navPoint>
+    <navPoint id="num_116" playOrder="116">
+      <navLabel>
+        <text>Chapter 113 · Planting the Flag</text>
+      </navLabel>
+      <content src="text/ch113.xhtml"/>
+    </navPoint>
+    <navPoint id="num_117" playOrder="117">
+      <navLabel>
+        <text>Chapter 114 · Hunter and Prey</text>
+      </navLabel>
+      <content src="text/ch114.xhtml"/>
+    </navPoint>
+    <navPoint id="num_118" playOrder="118">
+      <navLabel>
+        <text>Chapter 115 · The Taste of Fire</text>
+      </navLabel>
+      <content src="text/ch115.xhtml"/>
+    </navPoint>
+    <navPoint id="num_119" playOrder="119">
+      <navLabel>
+        <text>Chapter 116 · Absence, and What It Does to the Heart</text>
+      </navLabel>
+      <content src="text/ch116.xhtml"/>
+    </navPoint>
+    <navPoint id="num_120" playOrder="120">
+      <navLabel>
+        <text>Chapter 117 · Yeobo</text>
+      </navLabel>
+      <content src="text/ch117.xhtml"/>
+    </navPoint>
+    <navPoint id="num_121" playOrder="121">
+      <navLabel>
+        <text>Chapter 118 · Running Man — The X-Man Special (I)</text>
+      </navLabel>
+      <content src="text/ch118.xhtml"/>
+    </navPoint>
+    <navPoint id="num_122" playOrder="122">
+      <navLabel>
+        <text>Chapter 119 · Running Man — The X-Man Special (II)</text>
+      </navLabel>
+      <content src="text/ch119.xhtml"/>
+    </navPoint>
+    <navPoint id="num_123" playOrder="123">
+      <navLabel>
+        <text>Chapter 120 · Running Man — The X-Man Special (Finale)</text>
+      </navLabel>
+      <content src="text/ch120.xhtml"/>
+    </navPoint>
+    <navPoint id="num_124" playOrder="124">
+      <navLabel>
+        <text>Chapter 121 · The Memory That Came Back</text>
+      </navLabel>
+      <content src="text/ch121.xhtml"/>
+    </navPoint>
+    <navPoint id="num_125" playOrder="125">
+      <navLabel>
+        <text>Chapter 122 · Morning Glories, Love, and Autumn</text>
+      </navLabel>
+      <content src="text/ch122.xhtml"/>
+    </navPoint>
+    <navPoint id="num_126" playOrder="126">
+      <navLabel>
+        <text>Chapter 123 · “Strawberry Gummies”</text>
+      </navLabel>
+      <content src="text/ch123.xhtml"/>
+    </navPoint>
+    <navPoint id="num_127" playOrder="127">
+      <navLabel>
+        <text>Chapter 124 · Kim Taeyeon, 160 Centimeters</text>
+      </navLabel>
+      <content src="text/ch124.xhtml"/>
+    </navPoint>
+    <navPoint id="num_128" playOrder="128">
+      <navLabel>
+        <text>Chapter 125 · One Album to Hold Twenty Years of Ballads</text>
+      </navLabel>
+      <content src="text/ch125.xhtml"/>
+    </navPoint>
+    <navPoint id="num_129" playOrder="129">
+      <navLabel>
+        <text>Chapter 126 · Even a CM Song Can All-Kill</text>
+      </navLabel>
+      <content src="text/ch126.xhtml"/>
+    </navPoint>
+    <navPoint id="num_130" playOrder="130">
+      <navLabel>
+        <text>Chapter 127 · The Alps, with Im Yoon-a</text>
+      </navLabel>
+      <content src="text/ch127.xhtml"/>
+    </navPoint>
+    <navPoint id="num_131" playOrder="131">
+      <navLabel>
+        <text>Chapter 128 · However You Tell It, Im Yoon-a, You Seduced Me</text>
+      </navLabel>
+      <content src="text/ch128.xhtml"/>
+    </navPoint>
+    <navPoint id="num_132" playOrder="132">
+      <navLabel>
+        <text>Chapter 129 · Visiting Sulli’s Set</text>
+      </navLabel>
+      <content src="text/ch129.xhtml"/>
+    </navPoint>
+    <navPoint id="num_133" playOrder="133">
+      <navLabel>
+        <text>Chapter 130 · Taeyeon’s Solo Dance</text>
+      </navLabel>
+      <content src="text/ch130.xhtml"/>
+    </navPoint>
+    <navPoint id="num_134" playOrder="134">
+      <navLabel>
+        <text>Chapter 131 · Taeyeon’s Advice</text>
+      </navLabel>
+      <content src="text/ch131.xhtml"/>
+    </navPoint>
+    <navPoint id="num_135" playOrder="135">
+      <navLabel>
+        <text>Chapter 132 · Thoughts on the MVs</text>
+      </navLabel>
+      <content src="text/ch132.xhtml"/>
+    </navPoint>
+    <navPoint id="num_136" playOrder="136">
+      <navLabel>
+        <text>Chapter 133 · As Long as the Face Holds, the Kingdom Holds</text>
+      </navLabel>
+      <content src="text/ch133.xhtml"/>
+    </navPoint>
+    <navPoint id="num_137" playOrder="137">
+      <navLabel>
+        <text>Chapter 134 · IU: I Won Again</text>
+      </navLabel>
+      <content src="text/ch134.xhtml"/>
+    </navPoint>
+    <navPoint id="num_138" playOrder="138">
+      <navLabel>
+        <text>Chapter 135 · As It Flows</text>
+      </navLabel>
+      <content src="text/ch135.xhtml"/>
+    </navPoint>
+    <navPoint id="num_139" playOrder="139">
+      <navLabel>
+        <text>Chapter 136 · The Boyfriend Halo</text>
+      </navLabel>
+      <content src="text/ch136.xhtml"/>
+    </navPoint>
+    <navPoint id="num_140" playOrder="140">
+      <navLabel>
+        <text>Chapter 137 · Across the Water</text>
+      </navLabel>
+      <content src="text/ch137.xhtml"/>
+    </navPoint>
+    <navPoint id="num_141" playOrder="141">
+      <navLabel>
+        <text>Chapter 138 · Happy Camp</text>
+      </navLabel>
+      <content src="text/ch138.xhtml"/>
+    </navPoint>
+    <navPoint id="num_142" playOrder="142">
+      <navLabel>
+        <text>Chapter 139 · “Next Time Take Me Too — I Want the Milk”</text>
+      </navLabel>
+      <content src="text/ch139.xhtml"/>
+    </navPoint>
+    <navPoint id="num_143" playOrder="143">
+      <navLabel>
+        <text>Chapter 140 · “I’m Still Waiting for Your Answer”</text>
+      </navLabel>
+      <content src="text/ch140.xhtml"/>
+    </navPoint>
+    <navPoint id="num_144" playOrder="144">
+      <navLabel>
+        <text>Chapter 141 · The First Sign</text>
+      </navLabel>
+      <content src="text/ch141.xhtml"/>
+    </navPoint>
+    <navPoint id="num_145" playOrder="145">
+      <navLabel>
+        <text>Chapter 142 · Detective Lee Soon-kyu</text>
+      </navLabel>
+      <content src="text/ch142.xhtml"/>
+    </navPoint>
+    <navPoint id="num_146" playOrder="146">
+      <navLabel>
+        <text>Chapter 143 · Full-Album All-Kill</text>
+      </navLabel>
+      <content src="text/ch143.xhtml"/>
+    </navPoint>
+    <navPoint id="num_147" playOrder="147">
+      <navLabel>
+        <text>Chapter 144 · One Album, and the Throne of a Top Soloist</text>
+      </navLabel>
+      <content src="text/ch144.xhtml"/>
+    </navPoint>
+    <navPoint id="num_148" playOrder="148">
+      <navLabel>
+        <text>Chapter 145 · First Place</text>
+      </navLabel>
+      <content src="text/ch145.xhtml"/>
+    </navPoint>
+    <navPoint id="num_149" playOrder="149">
+      <navLabel>
+        <text>Chapter 146 · What the Ace Endorser Brings Home</text>
+      </navLabel>
+      <content src="text/ch146.xhtml"/>
+    </navPoint>
+    <navPoint id="num_150" playOrder="150">
+      <navLabel>
+        <text>Chapter 147 · Red-Carpet Highlight</text>
+      </navLabel>
+      <content src="text/ch147.xhtml"/>
+    </navPoint>
+    <navPoint id="num_151" playOrder="151">
+      <navLabel>
+        <text>Chapter 148 · Best New Male Artist</text>
+      </navLabel>
+      <content src="text/ch148.xhtml"/>
+    </navPoint>
+    <navPoint id="num_152" playOrder="152">
+      <navLabel>
+        <text>Chapter 149 · Good Little Sister Sulli</text>
+      </navLabel>
+      <content src="text/ch149.xhtml"/>
+    </navPoint>
+    <navPoint id="num_153" playOrder="153">
+      <navLabel>
+        <text>Chapter 150 · Heart to Heart</text>
+      </navLabel>
+      <content src="text/ch150.xhtml"/>
+    </navPoint>
+    <navPoint id="num_154" playOrder="154">
+      <navLabel>
+        <text>Chapter 151 · You’re Not a Hallucination — You’re Really Song Ji-ho?</text>
+      </navLabel>
+      <content src="text/ch151.xhtml"/>
+    </navPoint>
+    <navPoint id="num_155" playOrder="155">
+      <navLabel>
+        <text>Chapter 152 · Lee Ji-eun</text>
+      </navLabel>
+      <content src="text/ch152.xhtml"/>
+    </navPoint>
+    <navPoint id="num_156" playOrder="156">
+      <navLabel>
+        <text>Chapter 153 · The Victory Banquet</text>
+      </navLabel>
+      <content src="text/ch153.xhtml"/>
+    </navPoint>
+    <navPoint id="num_157" playOrder="157">
+      <navLabel>
+        <text>Chapter 154 · The Film Project</text>
+      </navLabel>
+      <content src="text/ch154.xhtml"/>
+    </navPoint>
+    <navPoint id="num_158" playOrder="158">
+      <navLabel>
+        <text>Chapter 155 · A Female Lead Named Sulli</text>
+      </navLabel>
+      <content src="text/ch155.xhtml"/>
+    </navPoint>
+    <navPoint id="num_159" playOrder="159">
+      <navLabel>
+        <text>Chapter 156 · Craving Joo-hyun’s Samgyetang</text>
+      </navLabel>
+      <content src="text/ch156.xhtml"/>
+    </navPoint>
+    <navPoint id="num_160" playOrder="160">
+      <navLabel>
+        <text>Chapter 157 · The Rescue Siblings</text>
+      </navLabel>
+      <content src="text/ch157.xhtml"/>
+    </navPoint>
+    <navPoint id="num_161" playOrder="161">
+      <navLabel>
+        <text>Chapter 158 · Interviewing the Manager</text>
+      </navLabel>
+      <content src="text/ch158.xhtml"/>
+    </navPoint>
+    <navPoint id="num_162" playOrder="162">
+      <navLabel>
+        <text>Chapter 159 · Song Ji-ho, Just Bully Me Then</text>
+      </navLabel>
+      <content src="text/ch159.xhtml"/>
+    </navPoint>
+    <navPoint id="num_163" playOrder="163">
+      <navLabel>
+        <text>Chapter 160 · Peach Blossoms in Bloom</text>
+      </navLabel>
+      <content src="text/ch160.xhtml"/>
+    </navPoint>
+    <navPoint id="num_164" playOrder="164">
+      <navLabel>
+        <text>Chapter 161 · The Film’s Theme Songs</text>
+      </navLabel>
+      <content src="text/ch161.xhtml"/>
+    </navPoint>
+    <navPoint id="num_165" playOrder="165">
+      <navLabel>
+        <text>Chapter 162 · Asia’s Number One Group</text>
+      </navLabel>
+      <content src="text/ch162.xhtml"/>
+    </navPoint>
+    <navPoint id="num_166" playOrder="166">
+      <navLabel>
+        <text>Chapter 163 · Apink — “NoNoNo”</text>
+      </navLabel>
+      <content src="text/ch163.xhtml"/>
+    </navPoint>
+    <navPoint id="num_167" playOrder="167">
+      <navLabel>
+        <text>Chapter 164 · Casting Confirmed</text>
+      </navLabel>
+      <content src="text/ch164.xhtml"/>
+    </navPoint>
+    <navPoint id="num_168" playOrder="168">
+      <navLabel>
+        <text>Chapter 165 · Detective Im, the Little Deer</text>
+      </navLabel>
+      <content src="text/ch165.xhtml"/>
+    </navPoint>
+    <navPoint id="num_169" playOrder="169">
+      <navLabel>
+        <text>Chapter 166 · The Secret of the Milk</text>
+      </navLabel>
+      <content src="text/ch166.xhtml"/>
+    </navPoint>
+    <navPoint id="num_170" playOrder="170">
+      <navLabel>
+        <text>Chapter 167 · The Argument</text>
+      </navLabel>
+      <content src="text/ch167.xhtml"/>
+    </navPoint>
+    <navPoint id="num_171" playOrder="171">
+      <navLabel>
+        <text>Chapter 168 · With Sulli It’s a Peck, Not a Kiss Scene</text>
+      </navLabel>
+      <content src="text/ch168.xhtml"/>
+    </navPoint>
+    <navPoint id="num_172" playOrder="172">
+      <navLabel>
+        <text>Chapter 169 · Cameras Roll — A Cameo from Son Ye-jin</text>
+      </navLabel>
+      <content src="text/ch169.xhtml"/>
+    </navPoint>
+    <navPoint id="num_173" playOrder="173">
+      <navLabel>
+        <text>Chapter 170 · Coaching Sulli</text>
+      </navLabel>
+      <content src="text/ch170.xhtml"/>
+    </navPoint>
+    <navPoint id="num_174" playOrder="174">
+      <navLabel>
+        <text>Chapter 171 · A Class for Best Friends</text>
+      </navLabel>
+      <content src="text/ch171.xhtml"/>
+    </navPoint>
+    <navPoint id="num_175" playOrder="175">
+      <navLabel>
+        <text>Chapter 172 · The Kiss Scene</text>
+      </navLabel>
+      <content src="text/ch172.xhtml"/>
+    </navPoint>
+    <navPoint id="num_176" playOrder="176">
+      <navLabel>
+        <text>Chapter 173 · Kissed Ten Times</text>
+      </navLabel>
+      <content src="text/ch173.xhtml"/>
+    </navPoint>
+    <navPoint id="num_177" playOrder="177">
+      <navLabel>
+        <text>Chapter 174 · Sulli-yah, I Have a Girlfriend</text>
+      </navLabel>
+      <content src="text/ch174.xhtml"/>
+    </navPoint>
+    <navPoint id="num_178" playOrder="178">
+      <navLabel>
+        <text>Chapter 175 · Into the Sea</text>
+      </navLabel>
+      <content src="text/ch175.xhtml"/>
+    </navPoint>
+    <navPoint id="num_179" playOrder="179">
+      <navLabel>
+        <text>Chapter 176 · Sulli’s Ambition</text>
+      </navLabel>
+      <content src="text/ch176.xhtml"/>
+    </navPoint>
+    <navPoint id="num_180" playOrder="180">
+      <navLabel>
+        <text>Chapter 177 · Boyfriend Halo (LV3)</text>
+      </navLabel>
+      <content src="text/ch177.xhtml"/>
+    </navPoint>
+    <navPoint id="num_181" playOrder="181">
+      <navLabel>
+        <text>Chapter 178 · Field Test</text>
+      </navLabel>
+      <content src="text/ch178.xhtml"/>
+    </navPoint>
+    <navPoint id="num_182" playOrder="182">
+      <navLabel>
+        <text>Chapter 179 · Recording-Booth Benefits</text>
+      </navLabel>
+      <content src="text/ch179.xhtml"/>
+    </navPoint>
+    <navPoint id="num_183" playOrder="183">
+      <navLabel>
+        <text>Chapter 180 · Girls’ Night — Song Ji-ho in Peril!</text>
+      </navLabel>
+      <content src="text/ch180.xhtml"/>
+    </navPoint>
+    <navPoint id="num_184" playOrder="184">
+      <navLabel>
+        <text>Chapter 181 · “I Envy You, Sulli”</text>
+      </navLabel>
+      <content src="text/ch181.xhtml"/>
+    </navPoint>
+    <navPoint id="num_185" playOrder="185">
+      <navLabel>
+        <text>Chapter 182 · Cried Angry</text>
+      </navLabel>
+      <content src="text/ch182.xhtml"/>
+    </navPoint>
+    <navPoint id="num_186" playOrder="186">
+      <navLabel>
+        <text>Chapter 183 · A Love Proven in Deep Water</text>
+      </navLabel>
+      <content src="text/ch183.xhtml"/>
+    </navPoint>
+    <navPoint id="num_187" playOrder="187">
+      <navLabel>
+        <text>Chapter 184 · Sister-in-Law Taeyeon</text>
+      </navLabel>
+      <content src="text/ch184.xhtml"/>
+    </navPoint>
+    <navPoint id="num_188" playOrder="188">
+      <navLabel>
+        <text>Chapter 185 · The Meeting That Never Happens</text>
+      </navLabel>
+      <content src="text/ch185.xhtml"/>
+    </navPoint>
+    <navPoint id="num_189" playOrder="189">
+      <navLabel>
+        <text>Chapter 186 · Hello, Sister-in-Law</text>
+      </navLabel>
+      <content src="text/ch186.xhtml"/>
+    </navPoint>
+    <navPoint id="num_190" playOrder="190">
+      <navLabel>
+        <text>Chapter 187 · Short on Feelings, Never on Gifts</text>
+      </navLabel>
+      <content src="text/ch187.xhtml"/>
+    </navPoint>
+    <navPoint id="num_191" playOrder="191">
+      <navLabel>
+        <text>Chapter 188 · Jessica’s Sleeping Habit</text>
+      </navLabel>
+      <content src="text/ch188.xhtml"/>
+    </navPoint>
+    <navPoint id="num_192" playOrder="192">
+      <navLabel>
+        <text>Chapter 189 · What Jessica Found</text>
+      </navLabel>
+      <content src="text/ch189.xhtml"/>
+    </navPoint>
+    <navPoint id="num_193" playOrder="193">
+      <navLabel>
+        <text>Chapter 190 · The Cat’s Burning Curiosity</text>
+      </navLabel>
+      <content src="text/ch190.xhtml"/>
+    </navPoint>
+    <navPoint id="num_194" playOrder="194">
+      <navLabel>
+        <text>Chapter 191 · Ordinary Days with Taeyeon</text>
+      </navLabel>
+      <content src="text/ch191.xhtml"/>
+    </navPoint>
+    <navPoint id="num_195" playOrder="195">
+      <navLabel>
+        <text>Chapter 192 · A Rose in Full Riot</text>
+      </navLabel>
+      <content src="text/ch192.xhtml"/>
+    </navPoint>
+    <navPoint id="num_196" playOrder="196">
+      <navLabel>
+        <text>Chapter 193 · Even If It Damns Us</text>
+      </navLabel>
+      <content src="text/ch193.xhtml"/>
+    </navPoint>
+    <navPoint id="num_197" playOrder="197">
+      <navLabel>
+        <text>Chapter 194 · Face at Full Value</text>
+      </navLabel>
+      <content src="text/ch194.xhtml"/>
+    </navPoint>
+    <navPoint id="num_198" playOrder="198">
+      <navLabel>
+        <text>Chapter 195 · Naïve, or Just Foolish</text>
+      </navLabel>
+      <content src="text/ch195.xhtml"/>
+    </navPoint>
+    <navPoint id="num_199" playOrder="199">
+      <navLabel>
+        <text>Chapter 196 · The First Wish</text>
+      </navLabel>
+      <content src="text/ch196.xhtml"/>
+    </navPoint>
+    <navPoint id="num_200" playOrder="200">
+      <navLabel>
+        <text>Chapter 197 · Joo-hyun’s Tenderness</text>
+      </navLabel>
+      <content src="text/ch197.xhtml"/>
+    </navPoint>
+    <navPoint id="num_201" playOrder="201">
+      <navLabel>
+        <text>Chapter 198 · The Negotiation</text>
+      </navLabel>
+      <content src="text/ch198.xhtml"/>
+    </navPoint>
+    <navPoint id="num_202" playOrder="202">
+      <navLabel>
+        <text>Chapter 199 · How Shall I Punish You, Lee Ji-eun</text>
+      </navLabel>
+      <content src="text/ch199.xhtml"/>
+    </navPoint>
+    <navPoint id="num_203" playOrder="203">
+      <navLabel>
+        <text>Chapter 200 · Six of Girls’ Generation at His Door</text>
+      </navLabel>
+      <content src="text/ch200.xhtml"/>
+    </navPoint>
+    <navPoint id="num_204" playOrder="204">
+      <navLabel>
+        <text>Chapter 201 · Single Yoon-a Takes Critical Damage</text>
+      </navLabel>
+      <content src="text/ch201.xhtml"/>
+    </navPoint>
+    <navPoint id="num_205" playOrder="205">
+      <navLabel>
+        <text>Chapter 202 · The Taste of Taeyeon’s Lip Balm</text>
+      </navLabel>
+      <content src="text/ch202.xhtml"/>
+    </navPoint>
+    <navPoint id="num_206" playOrder="206">
+      <navLabel>
+        <text>Chapter 203 · The Fight</text>
+      </navLabel>
+      <content src="text/ch203.xhtml"/>
+    </navPoint>
+    <navPoint id="num_207" playOrder="207">
+      <navLabel>
+        <text>Chapter 204 · For Now</text>
+      </navLabel>
+      <content src="text/ch204.xhtml"/>
+    </navPoint>
+    <navPoint id="num_208" playOrder="208">
+      <navLabel>
+        <text>Chapter 205 · Sunny, You Could Grow Five Centimeters</text>
+      </navLabel>
+      <content src="text/ch205.xhtml"/>
+    </navPoint>
+    <navPoint id="num_209" playOrder="209">
+      <navLabel>
+        <text>Chapter 206 · Sulli — Forever Free, Forever Burning, Forever Bright as the Morning Sun</text>
+      </navLabel>
+      <content src="text/ch206.xhtml"/>
+    </navPoint>
+    <navPoint id="num_210" playOrder="210">
+      <navLabel>
+        <text>Chapter 207 · The Promotion Machine</text>
+      </navLabel>
+      <content src="text/ch207.xhtml"/>
+    </navPoint>
+    <navPoint id="num_211" playOrder="211">
+      <navLabel>
+        <text>Chapter 208 · Cuddles Only</text>
+      </navLabel>
+      <content src="text/ch208.xhtml"/>
+    </navPoint>
+    <navPoint id="num_212" playOrder="212">
+      <navLabel>
+        <text>Chapter 209 · Opening Day</text>
+      </navLabel>
+      <content src="text/ch209.xhtml"/>
+    </navPoint>
+    <navPoint id="num_213" playOrder="213">
+      <navLabel>
+        <text>Chapter 210 · All Eyes on Him</text>
+      </navLabel>
+      <content src="text/ch210.xhtml"/>
+    </navPoint>
+    <navPoint id="num_214" playOrder="214">
+      <navLabel>
+        <text>Chapter 211 · Sulli’s Wishes</text>
+      </navLabel>
+      <content src="text/ch211.xhtml"/>
+    </navPoint>
+    <navPoint id="num_215" playOrder="215">
+      <navLabel>
+        <text>Chapter 212 · Onto the Billboard!</text>
+      </navLabel>
+      <content src="text/ch212.xhtml"/>
+    </navPoint>
+    <navPoint id="num_216" playOrder="216">
+      <navLabel>
+        <text>Chapter 213 · Rewriting Fate</text>
+      </navLabel>
+      <content src="text/ch213.xhtml"/>
+    </navPoint>
+    <navPoint id="num_217" playOrder="217">
+      <navLabel>
+        <text>Chapter 214 · If You’re Going to Be Bad, Be Bad All the Way</text>
+      </navLabel>
+      <content src="text/ch214.xhtml"/>
+    </navPoint>
+    <navPoint id="num_218" playOrder="218">
+      <navLabel>
+        <text>Chapter 215 · Fortune’s Favor</text>
+      </navLabel>
+      <content src="text/ch215.xhtml"/>
+    </navPoint>
+    <navPoint id="num_219" playOrder="219">
+      <navLabel>
+        <text>Chapter 216 · Eonni… I Think I Just Saw Fany Eonni</text>
+      </navLabel>
+      <content src="text/ch216.xhtml"/>
+    </navPoint>
+    <navPoint id="num_220" playOrder="220">
+      <navLabel>
+        <text>Chapter 217 · Cry, Fight, and Threaten the Rafters</text>
+      </navLabel>
+      <content src="text/ch217.xhtml"/>
+    </navPoint>
+    <navPoint id="num_221" playOrder="221">
+      <navLabel>
+        <text>Chapter 218 · Palace Intrigue</text>
+      </navLabel>
+      <content src="text/ch218.xhtml"/>
+    </navPoint>
+    <navPoint id="num_222" playOrder="222">
+      <navLabel>
+        <text>Chapter 219 · When Life Goes Your Way, Drink Deep</text>
+      </navLabel>
+      <content src="text/ch219.xhtml"/>
+    </navPoint>
+    <navPoint id="num_223" playOrder="223">
+      <navLabel>
+        <text>Chapter 220 · A Rooster for the Monkeys</text>
+      </navLabel>
+      <content src="text/ch220.xhtml"/>
+    </navPoint>
+    <navPoint id="num_224" playOrder="224">
+      <navLabel>
+        <text>Chapter 221 · Beautiful, Brilliant Women Are a Man’s Oldest Fuel</text>
+      </navLabel>
+      <content src="text/ch221.xhtml"/>
+    </navPoint>
+    <navPoint id="num_225" playOrder="225">
+      <navLabel>
+        <text>Chapter 222 · Is That All You’ve Got?</text>
+      </navLabel>
+      <content src="text/ch222.xhtml"/>
+    </navPoint>
+    <navPoint id="num_226" playOrder="226">
+      <navLabel>
+        <text>Chapter 223 · Born Aristocrat</text>
+      </navLabel>
+      <content src="text/ch223.xhtml"/>
+    </navPoint>
+    <navPoint id="num_227" playOrder="227">
+      <navLabel>
+        <text>Chapter 224 · Signed and Taken</text>
+      </navLabel>
+      <content src="text/ch224.xhtml"/>
+    </navPoint>
+    <navPoint id="num_228" playOrder="228">
+      <navLabel>
+        <text>Chapter 225 · Stand Back — Watch How It’s Done</text>
+      </navLabel>
+      <content src="text/ch225.xhtml"/>
+    </navPoint>
+    <navPoint id="num_229" playOrder="229">
+      <navLabel>
+        <text>Chapter 226 · Prove Your Surrender</text>
+      </navLabel>
+      <content src="text/ch226.xhtml"/>
+    </navPoint>
+    <navPoint id="num_230" playOrder="230">
+      <navLabel>
+        <text>Chapter 227 · Shining Alone</text>
+      </navLabel>
+      <content src="text/ch227.xhtml"/>
+    </navPoint>
+    <navPoint id="num_231" playOrder="231">
+      <navLabel>
+        <text>Chapter 228 · The Tangled Knot of T-ara</text>
+      </navLabel>
+      <content src="text/ch228.xhtml"/>
+    </navPoint>
+    <navPoint id="num_232" playOrder="232">
+      <navLabel>
+        <text>Chapter 229 · Not Unwilling</text>
+      </navLabel>
+      <content src="text/ch229.xhtml"/>
+    </navPoint>
+    <navPoint id="num_233" playOrder="233">
+      <navLabel>
+        <text>Chapter 230 · The Diligent Student, IU</text>
+      </navLabel>
+      <content src="text/ch230.xhtml"/>
+    </navPoint>
+    <navPoint id="num_234" playOrder="234">
+      <navLabel>
+        <text>Chapter 231 · A Man’s Standing Is a Woman’s Glory</text>
+      </navLabel>
+      <content src="text/ch231.xhtml"/>
+    </navPoint>
+    <navPoint id="num_235" playOrder="235">
+      <navLabel>
+        <text>Chapter 232 · Red Velvet</text>
+      </navLabel>
+      <content src="text/ch232.xhtml"/>
+    </navPoint>
+    <navPoint id="num_236" playOrder="236">
+      <navLabel>
+        <text>Chapter 233 · Lee Ji-eun and the Lyrics That Could Not Be Cleared</text>
+      </navLabel>
+      <content src="text/ch233.xhtml"/>
+    </navPoint>
+    <navPoint id="num_237" playOrder="237">
+      <navLabel>
+        <text>Chapter 234 · Taeyeon and Tiffany, First Crossing of Blades</text>
+      </navLabel>
+      <content src="text/ch234.xhtml"/>
+    </navPoint>
+    <navPoint id="num_238" playOrder="238">
+      <navLabel>
+        <text>Chapter 235 · The Birthday Present</text>
+      </navLabel>
+      <content src="text/ch235.xhtml"/>
+    </navPoint>
+    <navPoint id="num_239" playOrder="239">
+      <navLabel>
+        <text>Chapter 236 · Laying Out the Future, Again</text>
+      </navLabel>
+      <content src="text/ch236.xhtml"/>
+    </navPoint>
+    <navPoint id="num_240" playOrder="240">
+      <navLabel>
+        <text>Chapter 237 · The Frightening Im Yoon-a</text>
+      </navLabel>
+      <content src="text/ch237.xhtml"/>
+    </navPoint>
+    <navPoint id="num_241" playOrder="241">
+      <navLabel>
+        <text>Chapter 238 · Blue Dragon Best Actress Im Yoon-a — Could I Even Refuse?</text>
+      </navLabel>
+      <content src="text/ch238.xhtml"/>
+    </navPoint>
+    <navPoint id="num_242" playOrder="242">
+      <navLabel>
+        <text>Chapter 239 · A Home with Peaches</text>
+      </navLabel>
+      <content src="text/ch239.xhtml"/>
+    </navPoint>
+    <navPoint id="num_243" playOrder="243">
+      <navLabel>
+        <text>Chapter 240 · First Wisdom Tooth</text>
+      </navLabel>
+      <content src="text/ch240.xhtml"/>
+    </navPoint>
+    <navPoint id="num_244" playOrder="244">
+      <navLabel>
+        <text>Chapter 241 · Red Velvet, Secured</text>
+      </navLabel>
+      <content src="text/ch241.xhtml"/>
+    </navPoint>
+    <navPoint id="num_245" playOrder="245">
+      <navLabel>
+        <text>Chapter 242 · Why Emperors Favor the Cunning Minister?</text>
+      </navLabel>
+      <content src="text/ch242.xhtml"/>
+    </navPoint>
+    <navPoint id="num_246" playOrder="246">
+      <navLabel>
+        <text>Chapter 243 · The Opening to Acquire CCM</text>
+      </navLabel>
+      <content src="text/ch243.xhtml"/>
+    </navPoint>
+    <navPoint id="num_247" playOrder="247">
+      <navLabel>
+        <text>Chapter 244 · Lee Ji-eun’s Bid for His Attention</text>
+      </navLabel>
+      <content src="text/ch244.xhtml"/>
+    </navPoint>
+    <navPoint id="num_248" playOrder="248">
+      <navLabel>
+        <text>Chapter 245 · Net Worth Soars</text>
+      </navLabel>
+      <content src="text/ch245.xhtml"/>
+    </navPoint>
+    <navPoint id="num_249" playOrder="249">
+      <navLabel>
+        <text>Chapter 246 · The Second Wish</text>
+      </navLabel>
+      <content src="text/ch246.xhtml"/>
+    </navPoint>
+    <navPoint id="num_250" playOrder="250">
+      <navLabel>
+        <text>Chapter 247 · The Gentleman Scoundrel</text>
+      </navLabel>
+      <content src="text/ch247.xhtml"/>
+    </navPoint>
+    <navPoint id="num_251" playOrder="251">
+      <navLabel>
+        <text>Chapter 248 · The Canary and the Businesswoman</text>
+      </navLabel>
+      <content src="text/ch248.xhtml"/>
+    </navPoint>
+    <navPoint id="num_252" playOrder="252">
+      <navLabel>
+        <text>Chapter 249 · Bae-chu</text>
+      </navLabel>
+      <content src="text/ch249.xhtml"/>
+    </navPoint>
+    <navPoint id="num_253" playOrder="253">
+      <navLabel>
+        <text>Chapter 250 · Choosing the Business Path</text>
+      </navLabel>
+      <content src="text/ch250.xhtml"/>
+    </navPoint>
+    <navPoint id="num_254" playOrder="254">
+      <navLabel>
+        <text>Chapter 251 · The Sixth Lover</text>
+      </navLabel>
+      <content src="text/ch251.xhtml"/>
+    </navPoint>
+    <navPoint id="num_255" playOrder="255">
+      <navLabel>
+        <text>Chapter 252 · Kim Taeyeon: I’m Not Afraid of Lee Ji-eun—I’m Afraid of Losing You</text>
+      </navLabel>
+      <content src="text/ch252.xhtml"/>
+    </navPoint>
+    <navPoint id="num_256" playOrder="256">
+      <navLabel>
+        <text>Chapter 253 · Grammys, Here I Come</text>
+      </navLabel>
+      <content src="text/ch253.xhtml"/>
+    </navPoint>
+    <navPoint id="num_257" playOrder="257">
+      <navLabel>
+        <text>Chapter 254 · I Said I Love You, Song Ji-ho</text>
+      </navLabel>
+      <content src="text/ch254.xhtml"/>
+    </navPoint>
+    <navPoint id="num_258" playOrder="258">
+      <navLabel>
+        <text>Chapter 255 · The Seventh Lover: Park Jiyeon</text>
+      </navLabel>
+      <content src="text/ch255.xhtml"/>
+    </navPoint>
+    <navPoint id="num_259" playOrder="259">
+      <navLabel>
+        <text>Chapter 256 · The Music Video Lead</text>
+      </navLabel>
+      <content src="text/ch256.xhtml"/>
+    </navPoint>
+    <navPoint id="num_260" playOrder="260">
+      <navLabel>
+        <text>Chapter 257 · It Came to Blows</text>
+      </navLabel>
+      <content src="text/ch257.xhtml"/>
+    </navPoint>
+    <navPoint id="num_261" playOrder="261">
+      <navLabel>
+        <text>Chapter 258 · The Tangled Little Lamb</text>
+      </navLabel>
+      <content src="text/ch258.xhtml"/>
+    </navPoint>
+    <navPoint id="num_262" playOrder="262">
+      <navLabel>
+        <text>Chapter 259 · Old Tricks Are Fine If They Work</text>
+      </navLabel>
+      <content src="text/ch259.xhtml"/>
+    </navPoint>
+    <navPoint id="num_263" playOrder="263">
+      <navLabel>
+        <text>Chapter 260 · The Family Fund</text>
+      </navLabel>
+      <content src="text/ch260.xhtml"/>
+    </navPoint>
+    <navPoint id="num_264" playOrder="264">
+      <navLabel>
+        <text>Chapter 261 · Reunion with T-ara</text>
+      </navLabel>
+      <content src="text/ch261.xhtml"/>
+    </navPoint>
+    <navPoint id="num_265" playOrder="265">
+      <navLabel>
+        <text>Chapter 262 · Starship Entertainment: Future Stars, Activate</text>
+      </navLabel>
+      <content src="text/ch262.xhtml"/>
+    </navPoint>
+    <navPoint id="num_266" playOrder="266">
+      <navLabel>
+        <text>Chapter 263 · The Young Secretary</text>
+      </navLabel>
+      <content src="text/ch263.xhtml"/>
+    </navPoint>
+    <navPoint id="num_267" playOrder="267">
+      <navLabel>
+        <text>Chapter 264 · Kill Them</text>
+      </navLabel>
+      <content src="text/ch264.xhtml"/>
+    </navPoint>
+    <navPoint id="num_268" playOrder="268">
+      <navLabel>
+        <text>Chapter 265 · The Bad Apple Effect</text>
+      </navLabel>
+      <content src="text/ch265.xhtml"/>
+    </navPoint>
+    <navPoint id="num_269" playOrder="269">
+      <navLabel>
+        <text>Chapter 266 · Sulli, I Think I Understand You Now</text>
+      </navLabel>
+      <content src="text/ch266.xhtml"/>
+    </navPoint>
+    <navPoint id="num_270" playOrder="270">
+      <navLabel>
+        <text>Chapter 267 · Eonni, Your Man Is Making His Move on Me</text>
+      </navLabel>
+      <content src="text/ch267.xhtml"/>
+    </navPoint>
+    <navPoint id="num_271" playOrder="271">
+      <navLabel>
+        <text>Chapter 268 · Even a Little Tangerine Is Cute</text>
+      </navLabel>
+      <content src="text/ch268.xhtml"/>
+    </navPoint>
+    <navPoint id="num_272" playOrder="272">
+      <navLabel>
+        <text>Chapter 269 · LOEN and JYP: A Love-Hate History</text>
+      </navLabel>
+      <content src="text/ch269.xhtml"/>
+    </navPoint>
+    <navPoint id="num_273" playOrder="273">
+      <navLabel>
+        <text>Chapter 270 · SaTzu</text>
+      </navLabel>
+      <content src="text/ch270.xhtml"/>
+    </navPoint>
+    <navPoint id="num_274" playOrder="274">
+      <navLabel>
+        <text>Chapter 271 · Witness Krystal (18+)</text>
+      </navLabel>
+      <content src="text/ch271.xhtml"/>
+    </navPoint>
+    <navPoint id="num_275" playOrder="275">
+      <navLabel>
+        <text>Chapter 272 · The New Secretary Takes Office</text>
+      </navLabel>
+      <content src="text/ch272.xhtml"/>
+    </navPoint>
+    <navPoint id="num_276" playOrder="276">
+      <navLabel>
+        <text>Chapter 273 · Which of Us Is Greedier</text>
+      </navLabel>
+      <content src="text/ch273.xhtml"/>
+    </navPoint>
+    <navPoint id="num_277" playOrder="277">
+      <navLabel>
+        <text>Chapter 274 · You Never Know What Best Friends Talk About</text>
+      </navLabel>
+      <content src="text/ch274.xhtml"/>
+    </navPoint>
+    <navPoint id="num_278" playOrder="278">
+      <navLabel>
+        <text>Chapter 275 · Jiyeon’s Development Quest</text>
+      </navLabel>
+      <content src="text/ch275.xhtml"/>
+    </navPoint>
+    <navPoint id="num_279" playOrder="279">
+      <navLabel>
+        <text>Chapter 276 · The Girl Who Kept the Messages</text>
+      </navLabel>
+      <content src="text/ch276.xhtml"/>
+    </navPoint>
+    <navPoint id="num_280" playOrder="280">
+      <navLabel>
+        <text>Chapter 277 · Ms. Jiyeon’s Private Lesson</text>
+      </navLabel>
+      <content src="text/ch277.xhtml"/>
+    </navPoint>
+    <navPoint id="num_281" playOrder="281">
+      <navLabel>
+        <text>Chapter 278 · The Three Minutes at Incheon</text>
+      </navLabel>
+      <content src="text/ch278.xhtml"/>
+    </navPoint>
+    <navPoint id="num_282" playOrder="282">
+      <navLabel>
+        <text>Chapter 279 · Bae Joo-hyun, 161 Centimeters</text>
+      </navLabel>
+      <content src="text/ch279.xhtml"/>
+    </navPoint>
+    <navPoint id="num_283" playOrder="283">
+      <navLabel>
+        <text>Chapter 280 · The Cabbage Misunderstanding</text>
+      </navLabel>
+      <content src="text/ch280.xhtml"/>
+    </navPoint>
+    <navPoint id="num_284" playOrder="284">
+      <navLabel>
+        <text>Chapter 281 · Lee Soo-man Has Had Enough</text>
+      </navLabel>
+      <content src="text/ch281.xhtml"/>
+    </navPoint>
+    <navPoint id="num_285" playOrder="285">
+      <navLabel>
+        <text>Chapter 282 · TaeTi Has Made Enormous Progress</text>
+      </navLabel>
+      <content src="text/ch282.xhtml"/>
+    </navPoint>
+    <navPoint id="num_286" playOrder="286">
+      <navLabel>
+        <text>Chapter 283 · Not More than Taeyeon, and Not Less</text>
+      </navLabel>
+      <content src="text/ch283.xhtml"/>
+    </navPoint>
+    <navPoint id="num_287" playOrder="287">
+      <navLabel>
+        <text>Chapter 284 · The Hateful Moon Hangs High</text>
+      </navLabel>
+      <content src="text/ch284.xhtml"/>
+    </navPoint>
+    <navPoint id="num_288" playOrder="288">
+      <navLabel>
+        <text>Chapter 285 · Regret, and a Great Deal of It</text>
+      </navLabel>
+      <content src="text/ch285.xhtml"/>
+    </navPoint>
+    <navPoint id="num_289" playOrder="289">
+      <navLabel>
+        <text>Chapter 286 · It’s Late Enough to Stay the Night</text>
+      </navLabel>
+      <content src="text/ch286.xhtml"/>
+    </navPoint>
+    <navPoint id="num_290" playOrder="290">
+      <navLabel>
+        <text>Chapter 287 · A Job That Lays Out Every Condition for Love</text>
+      </navLabel>
+      <content src="text/ch287.xhtml"/>
+    </navPoint>
+    <navPoint id="num_291" playOrder="291">
+      <navLabel>
+        <text>Chapter 288 · A Tug of War</text>
+      </navLabel>
+      <content src="text/ch288.xhtml"/>
+    </navPoint>
+    <navPoint id="num_292" playOrder="292">
+      <navLabel>
+        <text>Chapter 289 · Curiosity Killed the Deer</text>
+      </navLabel>
+      <content src="text/ch289.xhtml"/>
+    </navPoint>
+    <navPoint id="num_293" playOrder="293">
+      <navLabel>
+        <text>Chapter 290 · You Come, I Go</text>
+      </navLabel>
+      <content src="text/ch290.xhtml"/>
+    </navPoint>
+    <navPoint id="num_294" playOrder="294">
+      <navLabel>
+        <text>Chapter 291 · For the Record, I Closed My Eyes</text>
+      </navLabel>
+      <content src="text/ch291.xhtml"/>
+    </navPoint>
+    <navPoint id="num_295" playOrder="295">
+      <navLabel>
+        <text>Chapter 292 · The Same Pillow</text>
+      </navLabel>
+      <content src="text/ch292.xhtml"/>
+    </navPoint>
+    <navPoint id="num_296" playOrder="296">
+      <navLabel>
+        <text>Chapter 293 · A Walking Pictorial</text>
+      </navLabel>
+      <content src="text/ch293.xhtml"/>
+    </navPoint>
+    <navPoint id="num_297" playOrder="297">
+      <navLabel>
+        <text>Chapter 294 · Yoon-a, Confess to Me</text>
+      </navLabel>
+      <content src="text/ch294.xhtml"/>
+    </navPoint>
+    <navPoint id="num_298" playOrder="298">
+      <navLabel>
+        <text>Chapter 295 · Song Ji-ho Is Indeed a Bastard</text>
+      </navLabel>
+      <content src="text/ch295.xhtml"/>
+    </navPoint>
+    <navPoint id="num_299" playOrder="299">
+      <navLabel>
+        <text>Chapter 296 · Eonni, I’ll Love You Tomorrow</text>
+      </navLabel>
+      <content src="text/ch296.xhtml"/>
+    </navPoint>
+    <navPoint id="num_300" playOrder="300">
+      <navLabel>
+        <text>Chapter 297 · Upheaval</text>
+      </navLabel>
+      <content src="text/ch297.xhtml"/>
+    </navPoint>
+    <navPoint id="num_301" playOrder="301">
+      <navLabel>
+        <text>Chapter 298 · The Breakup</text>
+      </navLabel>
+      <content src="text/ch298.xhtml"/>
+    </navPoint>
+    <navPoint id="num_302" playOrder="302">
+      <navLabel>
+        <text>Chapter 299 · Today’s Dog Food Ration: Exceeded</text>
+      </navLabel>
+      <content src="text/ch299.xhtml"/>
+    </navPoint>
+    <navPoint id="num_303" playOrder="303">
+      <navLabel>
+        <text>Chapter 300 · Backup Dancers</text>
+      </navLabel>
+      <content src="text/ch300.xhtml"/>
+    </navPoint>
+    <navPoint id="num_304" playOrder="304">
+      <navLabel>
+        <text>Chapter 301 · A Fawn at the Window</text>
+      </navLabel>
+      <content src="text/ch301.xhtml"/>
+    </navPoint>
+    <navPoint id="num_305" playOrder="305">
+      <navLabel>
+        <text>Chapter 302 · The Collapse</text>
+      </navLabel>
+      <content src="text/ch302.xhtml"/>
+    </navPoint>
+    <navPoint id="num_306" playOrder="306">
+      <navLabel>
+        <text>Chapter 303 · Can You Bear My Love?</text>
+      </navLabel>
+      <content src="text/ch303.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

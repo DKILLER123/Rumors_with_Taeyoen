@@ -1,0 +1,3 @@
+PASS: built to ignored .cache/packer-smoke.epub, not the deliverable.
+404 names and all payloads match the imported EPUB.
+Original EPUB SHA-256 unchanged: dcd310562b856ab31fc358e5d4e865635a4fef6711fa91a292d8379b553da494

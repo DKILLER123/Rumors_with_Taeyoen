@@ -1,0 +1,560 @@
+[
+  {
+    "width": 390,
+    "errors": [],
+    "scrollWidth": 390,
+    "viewport": 390,
+    "fonts": [
+      {
+        "family": "Lora",
+        "status": "loaded"
+      },
+      {
+        "family": "Lora",
+        "status": "loaded"
+      },
+      {
+        "family": "Lora",
+        "status": "loaded"
+      },
+      {
+        "family": "Crimson Pro",
+        "status": "loaded"
+      },
+      {
+        "family": "Crimson Pro",
+        "status": "loaded"
+      },
+      {
+        "family": "Crimson Pro",
+        "status": "loaded"
+      },
+      {
+        "family": "Cormorant Garamond",
+        "status": "loaded"
+      },
+      {
+        "family": "Cormorant Garamond",
+        "status": "loaded"
+      },
+      {
+        "family": "IM Fell English",
+        "status": "loaded"
+      },
+      {
+        "family": "IM Fell English",
+        "status": "unloaded"
+      },
+      {
+        "family": "Courier Prime",
+        "status": "loaded"
+      },
+      {
+        "family": "Courier Prime",
+        "status": "loaded"
+      },
+      {
+        "family": "Caveat",
+        "status": "unloaded"
+      },
+      {
+        "family": "Caveat",
+        "status": "unloaded"
+      },
+      {
+        "family": "Permanent Marker",
+        "status": "unloaded"
+      },
+      {
+        "family": "Bebas Neue",
+        "status": "loaded"
+      },
+      {
+        "family": "Inter",
+        "status": "loaded"
+      },
+      {
+        "family": "Libre Baskerville",
+        "status": "unloaded"
+      },
+      {
+        "family": "Cardo",
+        "status": "loaded"
+      },
+      {
+        "family": "EB Garamond",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "src": "../images/wd_jiho_changi_disguise.jpg",
+        "loaded": true
+      }
+    ],
+    "titleFont": "Cardo, \"Libre Baskerville\", Georgia, serif",
+    "dossierAlign": "left",
+    "checklistInk": "rgb(234, 244, 251)",
+    "blocks": [
+      {
+        "class": "location-stamp",
+        "width": 364.8125,
+        "scrollWidth": 365,
+        "clientWidth": 365
+      },
+      {
+        "class": "lesson-block",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "performance-block",
+        "width": 364.8125,
+        "scrollWidth": 361,
+        "clientWidth": 361
+      },
+      {
+        "class": "app-screen",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "fanclub-block",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "briefing-block",
+        "width": 364.8125,
+        "scrollWidth": 359,
+        "clientWidth": 359
+      },
+      {
+        "class": "official-statement",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "chat-container",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "chat-container",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "phone-call",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "app-screen",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "checklist-block",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "memory-block",
+        "width": 364.8125,
+        "scrollWidth": 361,
+        "clientWidth": 361
+      },
+      {
+        "class": "scene-break",
+        "width": 364.8125,
+        "scrollWidth": 365,
+        "clientWidth": 365
+      },
+      {
+        "class": "location-stamp",
+        "width": 364.8125,
+        "scrollWidth": 365,
+        "clientWidth": 365
+      },
+      {
+        "class": "hand-note",
+        "width": 368.2945556640625,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "scene-break",
+        "width": 364.8125,
+        "scrollWidth": 365,
+        "clientWidth": 365
+      },
+      {
+        "class": "location-stamp",
+        "width": 364.8125,
+        "scrollWidth": 365,
+        "clientWidth": 365
+      },
+      {
+        "class": "wardrobe-block",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "app-screen",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "briefing-block",
+        "width": 364.8125,
+        "scrollWidth": 359,
+        "clientWidth": 359
+      },
+      {
+        "class": "phone-call",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "phone-call",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "scene-break",
+        "width": 364.8125,
+        "scrollWidth": 365,
+        "clientWidth": 365
+      },
+      {
+        "class": "location-stamp",
+        "width": 364.8125,
+        "scrollWidth": 365,
+        "clientWidth": 365
+      },
+      {
+        "class": "dossier-block",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "hand-note",
+        "width": 367.9193115234375,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "menu-block",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "status-panel",
+        "width": 364.8125,
+        "scrollWidth": 363,
+        "clientWidth": 363
+      },
+      {
+        "class": "whisper-block",
+        "width": 364.8125,
+        "scrollWidth": 360,
+        "clientWidth": 360
+      }
+    ]
+  },
+  {
+    "width": 800,
+    "errors": [],
+    "scrollWidth": 800,
+    "viewport": 800,
+    "fonts": [
+      {
+        "family": "Lora",
+        "status": "loaded"
+      },
+      {
+        "family": "Lora",
+        "status": "loaded"
+      },
+      {
+        "family": "Lora",
+        "status": "loaded"
+      },
+      {
+        "family": "Crimson Pro",
+        "status": "loaded"
+      },
+      {
+        "family": "Crimson Pro",
+        "status": "loaded"
+      },
+      {
+        "family": "Crimson Pro",
+        "status": "loaded"
+      },
+      {
+        "family": "Cormorant Garamond",
+        "status": "loaded"
+      },
+      {
+        "family": "Cormorant Garamond",
+        "status": "loaded"
+      },
+      {
+        "family": "IM Fell English",
+        "status": "loaded"
+      },
+      {
+        "family": "IM Fell English",
+        "status": "unloaded"
+      },
+      {
+        "family": "Courier Prime",
+        "status": "loaded"
+      },
+      {
+        "family": "Courier Prime",
+        "status": "loaded"
+      },
+      {
+        "family": "Caveat",
+        "status": "unloaded"
+      },
+      {
+        "family": "Caveat",
+        "status": "unloaded"
+      },
+      {
+        "family": "Permanent Marker",
+        "status": "unloaded"
+      },
+      {
+        "family": "Bebas Neue",
+        "status": "loaded"
+      },
+      {
+        "family": "Inter",
+        "status": "loaded"
+      },
+      {
+        "family": "Libre Baskerville",
+        "status": "unloaded"
+      },
+      {
+        "family": "Cardo",
+        "status": "loaded"
+      },
+      {
+        "family": "EB Garamond",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "src": "../images/wd_jiho_changi_disguise.jpg",
+        "loaded": true
+      }
+    ],
+    "titleFont": "Cardo, \"Libre Baskerville\", Georgia, serif",
+    "dossierAlign": "left",
+    "checklistInk": "rgb(234, 244, 251)",
+    "blocks": [
+      {
+        "class": "location-stamp",
+        "width": 655.21875,
+        "scrollWidth": 655,
+        "clientWidth": 655
+      },
+      {
+        "class": "lesson-block",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "performance-block",
+        "width": 655.21875,
+        "scrollWidth": 651,
+        "clientWidth": 651
+      },
+      {
+        "class": "app-screen",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "fanclub-block",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "briefing-block",
+        "width": 655.21875,
+        "scrollWidth": 649,
+        "clientWidth": 649
+      },
+      {
+        "class": "official-statement",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "chat-container",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "chat-container",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "phone-call",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "app-screen",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "checklist-block",
+        "width": 489.59375,
+        "scrollWidth": 488,
+        "clientWidth": 488
+      },
+      {
+        "class": "memory-block",
+        "width": 655.21875,
+        "scrollWidth": 651,
+        "clientWidth": 651
+      },
+      {
+        "class": "scene-break",
+        "width": 655.21875,
+        "scrollWidth": 655,
+        "clientWidth": 655
+      },
+      {
+        "class": "location-stamp",
+        "width": 655.21875,
+        "scrollWidth": 655,
+        "clientWidth": 655
+      },
+      {
+        "class": "hand-note",
+        "width": 657.5467529296875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "scene-break",
+        "width": 655.21875,
+        "scrollWidth": 655,
+        "clientWidth": 655
+      },
+      {
+        "class": "location-stamp",
+        "width": 655.21875,
+        "scrollWidth": 655,
+        "clientWidth": 655
+      },
+      {
+        "class": "wardrobe-block",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "app-screen",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "briefing-block",
+        "width": 655.21875,
+        "scrollWidth": 649,
+        "clientWidth": 649
+      },
+      {
+        "class": "phone-call",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "phone-call",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "scene-break",
+        "width": 655.21875,
+        "scrollWidth": 655,
+        "clientWidth": 655
+      },
+      {
+        "class": "location-stamp",
+        "width": 655.21875,
+        "scrollWidth": 655,
+        "clientWidth": 655
+      },
+      {
+        "class": "dossier-block",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "hand-note",
+        "width": 657.1715087890625,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "menu-block",
+        "width": 559.359375,
+        "scrollWidth": 557,
+        "clientWidth": 557
+      },
+      {
+        "class": "status-panel",
+        "width": 655.21875,
+        "scrollWidth": 653,
+        "clientWidth": 653
+      },
+      {
+        "class": "whisper-block",
+        "width": 655.21875,
+        "scrollWidth": 650,
+        "clientWidth": 650
+      }
+    ]
+  }
+]

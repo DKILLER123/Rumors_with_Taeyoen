@@ -1,0 +1,11 @@
+# Reinstallable dependencies and transient audit/production files
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.cache/
+gen/
+image-search/
+
+# work_epub/ is intentionally retained: the editable, extracted book source.
+# Keep reports/, raws/, uploads/, and the delivered EPUB.
