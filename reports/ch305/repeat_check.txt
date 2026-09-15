@@ -1,0 +1,4 @@
+== ch305.xhtml · 6121 words · scope: ch302.xhtml, ch303.xhtml, ch304.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+repeat_check: PASS

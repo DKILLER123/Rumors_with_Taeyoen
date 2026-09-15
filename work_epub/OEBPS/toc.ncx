@@ -1853,5 +1853,11 @@
       </navLabel>
       <content src="text/ch304.xhtml"/>
     </navPoint>
+    <navPoint id="num_308" playOrder="308">
+      <navLabel>
+        <text>Chapter 305 · We’re Doomed</text>
+      </navLabel>
+      <content src="text/ch305.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>

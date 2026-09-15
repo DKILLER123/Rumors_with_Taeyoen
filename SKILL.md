@@ -6,10 +6,10 @@ Taeyeon*, Version 3). This file holds the **skills**; `worklog.md` holds the **s
 (cycle log, ships, canon pins). Do not duplicate skills between the two — SKILL.md is the
 master reference, worklog §8 is the history.
 
-**Current at ship:** 304 chapters · 407 entries · 13,970,681 B · sha256 `3322c9941fefa19d…` ·
-404 manifest items · 308 spine entries · NCX 307 navPoints · nav 310 `<li>` ·
-73 images (through id-50; next id-51) · 20 embedded font faces · 18 character cards ·
-61 glossary cards. Final seal: `reports/ch304/package_verification.json`.
+**Current at ship:** chapter 305, archive seal verified · 305 chapters ·
+408 payload files · 405 manifest items · 309 spine entries · NCX 308 navPoints ·
+nav 311 `<li>` · 73 images (through id-50; next id-51) · 20 embedded font faces ·
+18 character cards · 61 glossary cards. Final verification: `reports/ch305/`.
 
 **Recovery baseline (2026-09-13; historical).** The imported 302-chapter archive was
 preserved during setup; the subsequent reader-authorized chapter-303 production cycle
@@ -144,7 +144,8 @@ dialogue-line · thought · pullquote [16 — redesigned cream card, EB Garamond
 Cardo drop-quote, tri-color ribbon] · author-aside (aa-label · aa-text; **label text must
 differ every chapter**).
 
-**Game/system:** system-block (sys-*) · stat-panel · quest/award panels.
+**Game/system:** system-block (sys-*) · stat-panel · quest/award panels. Recalled abilities
+use the exact existing name/level; a recap is not a new acquisition or upgrade event.
 
 **Media & social:** app-screen (app-title · app-meta; notification cards) [13] ·
 chat-container (chat-header · chat-name + .self on the SENDER only — the
@@ -171,6 +172,11 @@ strict voice/reply alternation, **wh-close last**).
 values left-aligned) · status-panel (sp-header · sp-subject · sp-row>sp-label+sp-value ·
 sp-note). A character’s private reckoning is labeled as such, not presented as a new
 magical system event.
+
+**Agreements and accounts:** contract-block (ct-header · ct-clause · ct-figure · ct-note) ·
+finance-block (fb-header · fb-row>fb-label+fb-value). Distinguish conditional invitations,
+personal guarantees, imagined profits and completed transactions. A character’s imagined
+rank is not confirmed membership; a visual summary must not grant an outcome.
 
 **Characters page:** char-card > char-infobox (ci-name · ci-photo · ci-caption ·
 ci-table) + char-bio; ci-table rows = Born/Group/Agency/In the story/…; caption line =

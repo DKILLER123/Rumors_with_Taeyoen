@@ -1,31 +1,31 @@
-# Workspace ready — Peninsula, through Chapter 304
+# Workspace ready — Peninsula, through Chapter 305
 
 **Recovery date:** September 13, 2026 (UTC)  
 **Workspace:** `/home/user/Rumors_with_Taeyoen`  
 **Repository:** `DKILLER123/Rumors_with_Taeyoen`  
 **Session branch:** `arena/01a09949-rumors-with-taeyoen`
 
-## Current production state — Chapter 304
+## Current production state — Chapter 305
 
-Chapter 304, **What a Lecher!**, is translated, fully reread, wired, packaged and verified.
-Final EPUB: **13,970,681 B**; SHA-256
-`3322c9941fefa19dc35c839f528ba0464b9338ec9e2f346b4902595e19597866`.
-Raw-first source: `raws/ch304_raw.txt`. Archive/tree parity: **407/407**; zero structural
-errors; all 73 images and 20 WOFF faces decode.
+Chapter 305, **We’re Doomed**, is translated, fully reread and wired. Final package
+seal verified after the prelogged build. Raw-first source: `raws/ch305_raw.txt`.
 
-Current tree: **304 chapters / 407 payload files / 404 manifest items / 308 spine items /
-307 NCX entries / 310 nav list items / 73 images / 20 WOFF faces**. Character cards 18;
-glossary cards 61; next numeric image id **id-51**. No new outfit/image. Chapters 1–303,
+Current tree: **305 chapters / 408 payload files / 405 manifest items / 309 spine items /
+308 NCX entries / 311 nav list items / 73 images / 20 WOFF faces**. Character cards 18;
+glossary cards 61; next image id **id-51**. No new outfit/image. Chapters 1–304,
 existing images, fonts and styles remain byte-preserved.
 
-Chapter-only gates pass; **26 substantial blocks across 11 types**. Browser layout
-checks at 390/800px pass; no EPUBCheck or all-reader certification. See the full source
-coverage/QM/continuity review and verification under `reports/ch304/`, and the current
-worklog §0/§8. Retain the older recovery and chapter-303 reports as historical baselines.
+Chapter-only gates pass: **53 substantial blocks across 14 types**, 105 question marks
+reviewed. Browser checks at 390/800px pass. No EPUBCheck/all-reader certification.
+The source coverage, explicit recuts, corpus checks and package seal live in
+`reports/ch305/`; the current resume state is worklog §0 and its newest §8 entry.
 
-The reader now requires GitHub publication after every final EPUB. Commit and push to
-`arena/01a09949-rumors-with-taeyoen`, verify the remote commit and provide a GitHub download
-link. The chapter-303 baseline was published as `64799d0`; do not overwrite its history.
+The reader requires publication after each final EPUB. Commit/push to
+`arena/01a09949-rumors-with-taeyoen`, verify remote HEAD, and provide the GitHub EPUB link.
+Archive: 13,989,002 bytes, SHA-256
+`9f18fa6dd0845c178b58372f1ec3bfbc9fe99b03e071be4b685ee68115298083`.
+The chapter-304 baseline is published as `30ee5f8`; preserve its history and all older
+recovery reports. Do not force-push or modify main.
 
 **Everything below is the retained chapter-302 recovery baseline.** Statements that
 chapter 303 is pending or that the original archive is unchanged describe recovery time,

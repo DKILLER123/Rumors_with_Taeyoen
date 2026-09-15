@@ -1,0 +1,5 @@
+== work_epub/OEBPS/text/ch305.xhtml
+   [NO-QM?] “…Don’t go after any more of the members.”
+   [NO-QM?] “…Doesn’t want to think about anything complicated.”
+   [NO-QM?] “…Have it your way.”
+RESULT: OK (triage any NO-QM? lines above)

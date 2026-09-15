@@ -1,0 +1,55 @@
+{
+  "result": "PASS",
+  "chapter": 305,
+  "raw_sha256": "da546059a30b46441b8671bb9dd6c47bb1cb5c908ca976d6e9c9dfbf4f49966d",
+  "body_words_including_furniture": 6167,
+  "max_paragraph_words": 41,
+  "em_dashes": 0,
+  "dashes_per_1000": 0.0,
+  "double_quote_parity": [
+    146,
+    146
+  ],
+  "question_marks": 105,
+  "block_instances": 53,
+  "block_types": 14,
+  "block_census": {
+    "memory-block": 8,
+    "dossier-block": 5,
+    "whisper-block": 9,
+    "hand-note": 5,
+    "briefing-block": 4,
+    "acting-block": 4,
+    "menu-block": 2,
+    "performance-block": 2,
+    "status-panel": 2,
+    "lesson-block": 1,
+    "system-block": 1,
+    "contract-block": 4,
+    "finance-block": 4,
+    "pullquote": 2
+  },
+  "live_phone_calls": 0,
+  "chat_windows": 0,
+  "images_added": 0,
+  "bio_append_owners": [
+    "Song Ji-ho",
+    "Kim Taeyeon",
+    "Im Yoon-a",
+    "Tiffany (Hwang Mi-young)"
+  ],
+  "changed_baseline_payloads": [
+    "OEBPS/content.opf",
+    "OEBPS/text/characters.xhtml",
+    "OEBPS/text/cover.xhtml",
+    "OEBPS/text/glossary.xhtml",
+    "OEBPS/text/nav.xhtml",
+    "OEBPS/toc.ncx"
+  ],
+  "added_payloads": [
+    "OEBPS/text/ch305.xhtml"
+  ],
+  "unchanged_old_chapters": "304/304",
+  "existing_assets_styles_preserved": true,
+  "chapter_sha256": "5478cbec4516dd0d1b4296eaa17347cddbbafb4b517aaf8f3343f2034560559c"
+}

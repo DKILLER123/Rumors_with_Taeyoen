@@ -7,44 +7,127 @@ how to verify any future edit. Read this before touching the tree.
 
 ---
 
-## 0 · Cycle 304 summary (read this first on resume)
+## 0 · Cycle 305 summary (read this first on resume)
 
-**Chapter 304 — What a Lecher! — packaged and verified.** Raw saved first to
-`raws/ch304_raw.txt`. Full raw/produced-line review, contextual block scan and question-mark
-pass complete; chapter and navigation/reference updates are packaged. Final archive:
-**407 entries, 13,970,681 B**, SHA-256
-`3322c9941fefa19dc35c839f528ba0464b9338ec9e2f346b4902595e19597866`. Deep Scan + Deep Thinking remain mandatory throughout.
+**Chapter 305 — We’re Doomed — complete; final archive verified.** Raw saved first as
+`raws/ch305_raw.txt`; full source/produced-text review and final block/QM scan complete.
+Chapter and reference/navigation updates are included in the final, sealed EPUB.
 
-**Current ship/tree:** 304 chapters, `Chapters 1–304`; 407 payload files, 404 manifest items,
-308 spine entries, 307 NCX navPoints, 310 nav list items. Images remain 73, fonts 20,
-character cards/portraits 18 and glossary cards 61. Next numeric image id remains **id-51**.
-Chapter 304: **26 substantial blocks / 11 types**, 3,609 words under repeat_check.
-No new clothing or image; same hospital gown and airport outfit. Three bios appended:
-Ji-ho, Yoon-a, Seohyun. All 303 previous chapters, existing images/fonts/CSS untouched.
+**Current tree:** 305 chapters, `Chapters 1–305`; 408 files, 405 manifest items,
+309 spine entries, 308 NCX navPoints, 311 nav list items. Assets unchanged: 73 images,
+20 font faces, 18 character cards/portraits, 61 glossary cards; next image id **id-51**.
+Chapter 305: **53 substantial blocks / 14 types**, 6,121 words per repeat_check.
+No new outfit or plate. Four bios appended: Ji-ho, Yoon-a, Taeyeon, Tiffany. All 304
+previous chapters and all preexisting images/fonts/styles remain byte-identical.
 
-**Canon for continuation:** late Friday October 4, Room 308, Mount Elizabeth Novena,
-Singapore. Yoon-a accepts Ji-ho as her boyfriend, chooses the group over pursuing the
-current drama, declines his scheduling intervention and promises an explanation to her
-members tomorrow. Seohyun infers a boyfriend is hidden in the bathroom but does not
-confirm his identity. Yoon-a immediately exempts Taeyeon from her defiant table rule.
-The thermometer reading and discharge remain unconfirmed. Ji-ho's October 5–6 stage and
-return travel remain unresolved. ECHO October 15; Singapore concert October 6. Do not
-retroactively move the thermometer off the chapter-303 cabinet: 304 explicitly retrieves it.
+**Canon for continuation:** Saturday morning, October 5, Room 308 in Singapore. Yoon-a
+felt restored after a measured 37.8°C the night before; no clinical discharge yet.
+She lost the recovery wager. The forfeit is her best performance at the October 6
+concert, with Ji-ho wanting to watch and greet her afterward; his own October 5–6
+commitments/travel remain unresolved. Fund access was conditional and still has not
+been granted. Taeyeon first and Tiffany second remain the confirmed participants;
+Yoon-a’s imagined third place is not a membership or romantic ranking. Existing powers:
+Boyfriend Halo LV3 (partner restoration) and Idol Aura LV3 (his own restoration), not
+newly acquired or upgraded. No consummation. Taeyeon and Tiffany are at the closed door
+with breakfast; nobody has entered or resolved the confrontation.
 
-**Standing directives:** raws first; Deep Scan + Deep Thinking; maximal context-owned
-style blocks even for thin scenes; full pre-package block/QM/call review. Keep existing
-markup, sender-only `.self`, left-aligned dossier values and reader-first likeness sources.
-**After each final EPUB, commit and push to GitHub**, verify the same session branch and
-provide an actual GitHub download link. Never force-push or touch main.
+**Standing directives:** raw first; Deep Scan + Deep Thinking throughout; maximize
+context-owned style blocks, including thin scenes; full pre-package missing-block/QM/
+phone-structure review. Existing vocabularies and reader identity references first;
+`.self` only for sent names/windows, dossier values left-aligned. Intimacy stays
+non-graphic. Preserve settled canon and historical editorial exceptions.
+After verifying each final EPUB, **commit and push** to the fixed session branch,
+verify remote HEAD, and provide an actual GitHub EPUB link. Never force-push or alter main.
 
-**Checks:** chapter 304 house gates PASS; full text reread; all 40 question marks and five
-soft flags reviewed; six whisper panels alternate correctly. Chromium layout proof at
-390/800px passes. No EPUBCheck/all-reader certification. Reports: `reports/ch304/`.
-Inherited book-wide punctuation/repetition heuristics are not silently repaired.
-Repository root: `/home/user/Rumors_with_Taeyoen`; session branch:
-`arena/01a09949-rumors-with-taeyoen`. Last published baseline: `64799d0` (chapter 303).
+**Gates:** chapter 305 PASS; 105 question marks reviewed; three soft flags correctly
+remain declaratives/imperatives; nine whisper blocks alternate and close correctly.
+Browser layout proof 390/800px PASS, selected panels visually inspected. No EPUBCheck or
+all-reader certification. Full review and reproducible checks: `reports/ch305/`.
+Final EPUB: **13,989,002 bytes**, SHA-256
+`9f18fa6dd0845c178b58372f1ec3bfbc9fe99b03e071be4b685ee68115298083`. Archive/tree parity 408/408;
+CRC PASS; 2,163 references, zero structural errors; all 93 image/font assets decoded.
+Inherited whole-book QM/repeat findings remain recorded, not silently repaired.
+Baseline publication: `30ee5f8` (chapter 304). Workspace root:
+`/home/user/Rumors_with_Taeyoen`; branch `arena/01a09949-rumors-with-taeyoen`.
 
 ## 8 · Cycle log (Version 3, newest first)
+
+### ch305 — We’re Doomed — September 15, 2026 — pre-build entry
+
+**Raw first.** `raws/ch305_raw.txt`, SHA-256
+`da546059a30b46441b8671bb9dd6c47bb1cb5c908ca976d6e9c9dfbf4f49966d`.
+An assistant-introduced duplicate character was corrected to the supplied source immediately
+after capture, before recon. Source OCR/quote/line-break debris remains archived. The
+whole source and all produced lines were reviewed; the last missing-block pass converted
+the thin partner-comparison paragraph into a memory card rather than dropping its context.
+
+**Content.** His ill-judged expression, kick/chase/exhaustion, sham massage science,
+Sunny jealousy and first-move loophole; renewed fever, hidden visitor and mistaken nurse
+judgment; porridge and future barbecue/chicken/ice cream; infusion completion, bed dispute,
+recovery promise and actual existing abilities; fund wager, capital and rank calculations,
+her night boundary and both parties pleased; lights out, warmth, imaginary honorifics,
+rivalry, insecurity, heat-pack memories, tear and feigned sleep; morning restoration,
+unknown forfeit, watching his face, kitten/cold teasing; surprising concert request,
+sweat-tears, gratitude; new fund application and sham-treatment counteroffer; explicit
+pause request, financial pressure, gentler renewed intimacy and reciprocal curiosity;
+Taeyeon/Tiffany breakfast knock. Closed-door cliffhanger preserved.
+
+**Canon held / recuts.** Boyfriend Halo LV3 and Idol Aura LV3 verified in chapters
+136/145/177/188, not renamed or newly granted. Dream Family Fund and standing restrictions
+from 260; Sulli's conditional offer in 269 does not make a third admission. Her fund/rank
+fantasies remain imaginary, no money transfers. Medical-procedure recut: ward handles
+infusion changes/disconnection, he helps with dressing/tidying and hides again. Keep
+37.8°C and subjective morning recovery; no named sedative mixture or discharge certificate.
+Massage/hormone claims remain bogus; magnetic-field idea is her hearsay, not explanation.
+October 4 night to October 5 morning; Sunday concert wish not a solved travel schedule.
+No literal half-earth flight or extra shoe removal. Non-graphic rendering condenses the
+explicit tactile passage while retaining the boundary, pressure and counteroffer beats.
+No new outfit, image, character card, glossary term or confirmed fund participant.
+
+**Blocks.** 53 instances / 14 existing types: memory 8, dossier 5, whisper 9, hand-note 5,
+briefing 4, acting 4, menu 2, performance 2, status 2, lesson 1, system 1, contract 4,
+finance 4, pullquote 2. No fabricated calls or chat windows. Labels and actual whisper
+speaker roles checked. Acting cue headings identify beats, not speaker-name prefixes.
+Full source matrix and decisions: `reports/ch305/editorial_review.md`.
+
+**Wire-up.** ch305 manifest/spine, NCX num_308, nav; OPF/cover 1–305, glossary footer;
+four scoped bio paragraphs for Ji-ho/Yoon-a/Taeyeon/Tiffany. Existing fund-participants
+row unchanged. ch282 id-29 alias retained; next image id-51. No CSS/assets altered.
+
+**Pre-package gates.** CSS lint after npm ci PASS; 309/309 XHTML, zero undefined classes,
+straight prose quotes, CJK and unresolved refs. punct_quotes zero rewrites. audit_marks
+no hard flags, three soft flags triaged (imperative Don't, elliptical declarative Doesn't,
+imperative Have it your way). repeat_check 6,121 words, zero internal or cross eight-grams
+against 302–304. Body/furniture count 6,167; max paragraph 41; zero em dashes; 146/146
+curly quotes; 105 question marks. 390/800px Chromium proof: no page errors or overflowing
+boxes. System, finance, contract and final acting cards visually inspected. Optional tools
+in ignored cache/venv, no production dependency changes. No EPUBCheck claimed.
+All 304 old chapters/assets/styles preserved in prepackage hash comparison; six existing
+reference/package files changed and ch305 XHTML added. Bio checker expanded to recognize
+the two cameo paragraphs' At-the-end wording; verified all four actual card owners.
+
+**Publication.** Fetched already published session commit 30ee5f8. Every tracked working
+file matched; resumed HEAD/index advanced without file changes. Post-build commit/push
+will fast-forward the same branch; no force push or modification of main.
+
+**Final-rebuild prelog:** During the archive-seal raw recheck, restored the small
+“All right?” question and its response inside the existing morning whisper block. All
+chapter/browser gates rerun; final counts above include this correction. No new block
+or other chapter change. This record precedes the replacement build.
+
+**Build seal:** PASS after the prelogged final rebuild. **13,989,002 bytes / 408 entries**,
+SHA-256 `9f18fa6dd0845c178b58372f1ec3bfbc9fe99b03e071be4b685ee68115298083`.
+Archive/tree payload parity 408/408; mimetype first/STORED, remaining entries DEFLATED,
+CRC PASS. 312 XML documents, 309 XHTML, 2,163 references, zero structural errors.
+All 73 images and 20 fonts decoded; existing styles/assets and all 304 prior chapters
+byte-preserved. Four new bio paragraphs only; old character content and old cycle history
+verified independently. Every tracked old raw/upload matches publication baseline.
+Inherited full-book QM/repeat exits remain 1; editorial inventory counts are unchanged
+(image-alt 1, metrics-band 272, doubled-word 72, whisper-policy 6). No blanket full-book
+editorial PASS, no EPUBCheck or all-reader certification. Reproducible ZIP check and seal:
+`reports/ch305/verify_package.py`, `package_verification.json`. This verified package and
+all production records are the cycle's publication payload on the fixed session branch.
+
 
 ### ch304 — What a Lecher! — September 14, 2026 — packaged and verified
 

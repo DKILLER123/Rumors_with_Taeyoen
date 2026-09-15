@@ -1,0 +1,42 @@
+{
+  "result": "PASS",
+  "sha256": "9f18fa6dd0845c178b58372f1ec3bfbc9fe99b03e071be4b685ee68115298083",
+  "bytes": 13989002,
+  "archive_entries": 408,
+  "mimetype_first_stored": true,
+  "remaining_entries_deflated": true,
+  "zip_crc": "PASS",
+  "archive_tree_payload_parity": "408/408",
+  "unchanged_old_chapters": "304/304",
+  "unchanged_existing_images_fonts_styles": true,
+  "old_raws_and_uploads_unchanged": true,
+  "old_raw_upload_files_verified": 9,
+  "old_worklog_cycle_history_preserved": true,
+  "old_character_content_preserved": true,
+  "raw305_sha256": "da546059a30b46441b8671bb9dd6c47bb1cb5c908ca976d6e9c9dfbf4f49966d",
+  "chapter305_sha256": "5478cbec4516dd0d1b4296eaa17347cddbbafb4b517aaf8f3343f2034560559c",
+  "preserved_ch282_id29_alias": true,
+  "changed_baseline_payloads": [
+    "OEBPS/content.opf",
+    "OEBPS/text/characters.xhtml",
+    "OEBPS/text/cover.xhtml",
+    "OEBPS/text/glossary.xhtml",
+    "OEBPS/text/nav.xhtml",
+    "OEBPS/toc.ncx"
+  ],
+  "added_payloads": [
+    "OEBPS/text/ch305.xhtml"
+  ],
+  "manifest_items": 405,
+  "spine_items": 309,
+  "ncx_navpoints": 308,
+  "nav_li": 311,
+  "decoded_images": 73,
+  "decoded_woff_faces": 20,
+  "reference_checks": 2163,
+  "structural_errors": [],
+  "chapter_gate_status": "PASS; three declarative/imperative regex flags triaged",
+  "legacy_book_wide_qm_repeat_flags": "Inherited; same exit codes and editorial category counts as 304; retained in full_tree logs",
+  "epubcheck": "not performed",
+  "browser_layout_proof": "390px and 800px, with selected visual panel inspection"
+}
