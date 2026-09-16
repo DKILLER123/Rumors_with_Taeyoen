@@ -1,0 +1,42 @@
+{
+  "result": "PASS",
+  "sha256": "a30b4eff19b969826d1060e16d4da3eaae7200fbcfd69346e9e1e9c6c1403ea6",
+  "bytes": 14003006,
+  "archive_entries": 409,
+  "mimetype_first_stored": true,
+  "remaining_entries_deflated": true,
+  "zip_crc": "PASS",
+  "archive_tree_payload_parity": "409/409",
+  "unchanged_old_chapters": "305/305",
+  "unchanged_existing_images_fonts_styles": true,
+  "old_raws_and_uploads_unchanged": true,
+  "old_raw_upload_files_verified": 10,
+  "old_worklog_cycle_history_preserved": true,
+  "old_character_content_preserved": true,
+  "raw306_sha256": "282c623d41f64996454688d78ed09d788495e3b7141a0e882d45081a6188f73b",
+  "chapter306_sha256": "684cdb6c39381699edcc7ab7fba6571154ee63cecad6e942d084a8c9abab261e",
+  "preserved_ch282_id29_alias": true,
+  "changed_baseline_payloads": [
+    "OEBPS/content.opf",
+    "OEBPS/text/characters.xhtml",
+    "OEBPS/text/cover.xhtml",
+    "OEBPS/text/glossary.xhtml",
+    "OEBPS/text/nav.xhtml",
+    "OEBPS/toc.ncx"
+  ],
+  "added_payloads": [
+    "OEBPS/text/ch306.xhtml"
+  ],
+  "manifest_items": 406,
+  "spine_items": 310,
+  "ncx_navpoints": 309,
+  "nav_li": 312,
+  "decoded_images": 73,
+  "decoded_woff_faces": 20,
+  "reference_checks": 2169,
+  "structural_errors": [],
+  "chapter_gate_status": "PASS; six declarative/imperative regex flags triaged; 19 deliberate recap eight-grams verified",
+  "legacy_book_wide_qm_repeat_flags": "Existing book-wide findings retained; same exit codes and editorial category counts as 305; 306 recap matches explicitly reviewed",
+  "epubcheck": "not performed",
+  "browser_layout_proof": "390px and 800px, with selected visual panel inspection"
+}

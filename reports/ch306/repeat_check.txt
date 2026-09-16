@@ -1,0 +1,10 @@
+== ch306.xhtml · 4405 words · scope: ch303.xhtml, ch304.xhtml, ch305.xhtml
+  internal repeats: 0
+  vs ch305.xhtml: ah aeyeon hy are you knocking any wait
+  vs ch305.xhtml: aeyeon hy are you knocking any wait et
+  vs ch305.xhtml: hy are you knocking any wait et oon
+  vs ch305.xhtml: are you knocking any wait et oon a
+  vs ch305.xhtml: you knocking any wait et oon a open
+  vs ch305.xhtml: knocking any wait et oon a open it
+  cross-chapter 8-grams: 19
+repeat_check: REVIEW (deliberate lyric quotes may be legitimate)

@@ -6,10 +6,10 @@ Taeyeon*, Version 3). This file holds the **skills**; `worklog.md` holds the **s
 (cycle log, ships, canon pins). Do not duplicate skills between the two — SKILL.md is the
 master reference, worklog §8 is the history.
 
-**Current at ship:** chapter 305, archive seal verified · 305 chapters ·
-408 payload files · 405 manifest items · 309 spine entries · NCX 308 navPoints ·
-nav 311 `<li>` · 73 images (through id-50; next id-51) · 20 embedded font faces ·
-18 character cards · 61 glossary cards. Final verification: `reports/ch305/`.
+**Current at ship:** chapter 306, archive seal verified · 306 chapters ·
+409 payload files · 406 manifest items · 310 spine entries · NCX 309 navPoints ·
+nav 312 `<li>` · 73 images (through id-50; next id-51) · 20 embedded font faces ·
+18 character cards · 61 glossary cards. Final verification: `reports/ch306/`.
 
 **Recovery baseline (2026-09-13; historical).** The imported 302-chapter archive was
 preserved during setup; the subsequent reader-authorized chapter-303 production cycle
@@ -23,7 +23,9 @@ existing lockfile. Old `/home/user` workspace paths refer to this repository roo
 every produced line for content, contradictions, names, punctuation, and block contexts
 before and after drafting; and **DEEP THINKING** — reason systematically about which style
 block owns each context, resolve raw-internal contradictions, and fill thin context from
-understanding rather than dropping it. Style-block maximalism is policy (§5).
+understanding rather than dropping it. Style-block maximalism is policy (§5). Work efficiently: batch independent checks and
+dependency setup, reuse verified tooling, and avoid repeated speculative research. Never
+skip raw-first, full source/produced-line review, final block/QM audits or verified publication.
 
 **Update protocol — MANDATORY before every packaging:** refresh the *Current at ship* line
 above, bump any learned rules into the relevant section (don't append duplicates), and add the
@@ -114,6 +116,9 @@ new ship's hash to worklog §8. SKILL.md is versioned by its *Current at ship* l
 - **Raw-internal contradictions** (Deep Scan): when the raw disagrees with itself (e.g.
   ch299's goose-yellow dress at the mirror but lilac at the gate), keep the version with the
   established setup and log the re-cut.
+- **Witness accounts.** Keep estimates, guesses, remembered scenes and actual identification
+  distinct. A flashback replay may deliberately repeat dialogue; label it and verify that
+  any repetition flags are confined to the recap, rather than rewriting settled words.
 - **Timeline.** Maintain internal dates over raw stamps (ch293–297 run Thu Sep 26 → Sat
   Sep 28, 2013: cruise Thursday, notice + discharge Friday Sep 27, day 1,000 Saturday).
   For cross-border travel, verify booking lead time, flight duration and ground transfer

@@ -1859,5 +1859,11 @@
       </navLabel>
       <content src="text/ch305.xhtml"/>
     </navPoint>
+    <navPoint id="num_309" playOrder="309">
+      <navLabel>
+        <text>Chapter 306 · When the Gossip Hits Home</text>
+      </navLabel>
+      <content src="text/ch306.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>

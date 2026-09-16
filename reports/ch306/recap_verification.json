@@ -1,0 +1,41 @@
+{
+  "result": "PASS",
+  "internal_repeats": 0,
+  "scope": {
+    "303": {
+      "shared_8grams": 0,
+      "outside_explicit_recap": 0,
+      "matches": []
+    },
+    "304": {
+      "shared_8grams": 0,
+      "outside_explicit_recap": 0,
+      "matches": []
+    },
+    "305": {
+      "shared_8grams": 19,
+      "outside_explicit_recap": 0,
+      "matches": [
+        "a open it herself think there may be",
+        "aeyeon hy are you knocking any wait et",
+        "ah aeyeon hy are you knocking any wait",
+        "any wait et oon a open it herself",
+        "are you knocking any wait et oon a",
+        "be someone in there we don\u2019t want to",
+        "et oon a open it herself think there",
+        "herself think there may be someone in there",
+        "hy are you knocking any wait et oon",
+        "it herself think there may be someone in",
+        "knocking any wait et oon a open it",
+        "may be someone in there we don\u2019t want",
+        "oon a open it herself think there may",
+        "open it herself think there may be someone",
+        "someone in there we don\u2019t want to see",
+        "there may be someone in there we don\u2019t",
+        "think there may be someone in there we",
+        "wait et oon a open it herself think",
+        "you knocking any wait et oon a open"
+      ]
+    }
+  }
+}

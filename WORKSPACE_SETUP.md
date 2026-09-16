@@ -1,31 +1,28 @@
-# Workspace ready — Peninsula, through Chapter 305
+# Workspace ready — Peninsula, through Chapter 306
 
 **Recovery date:** September 13, 2026 (UTC)  
 **Workspace:** `/home/user/Rumors_with_Taeyoen`  
 **Repository:** `DKILLER123/Rumors_with_Taeyoen`  
 **Session branch:** `arena/01a09949-rumors-with-taeyoen`
 
-## Current production state — Chapter 305
+## Current production state — Chapter 306
 
-Chapter 305, **We’re Doomed**, is translated, fully reread and wired. Final package
-seal verified after the prelogged build. Raw-first source: `raws/ch305_raw.txt`.
+**When the Gossip Hits Home** is translated, fully reread and wired. Final build was
+prelogged in worklog §8 and its archive seal is verified. Raw-first source: `raws/ch306_raw.txt`.
 
-Current tree: **305 chapters / 408 payload files / 405 manifest items / 309 spine items /
-308 NCX entries / 311 nav list items / 73 images / 20 WOFF faces**. Character cards 18;
-glossary cards 61; next image id **id-51**. No new outfit/image. Chapters 1–304,
-existing images, fonts and styles remain byte-preserved.
+306 chapters / 409 payloads / 406 manifest / 310 spine / 309 NCX / 312 nav list items;
+73 images / 20 WOFF faces / 18 character cards / 61 glossary cards; next image id-51.
+All previous 305 chapters/assets/styles preserved; no new plate or stylesheet changes.
+Five bios appended. 51 substantial blocks across 12 types; 91 question marks reviewed.
+Chapter structural/QM/style gates pass. All 19 cross-chapter eight-gram matches are confined
+to the intentional 305 door-dialogue replay. Browser 390/800 layout passes; no EPUBCheck.
 
-Chapter-only gates pass: **53 substantial blocks across 14 types**, 105 question marks
-reviewed. Browser checks at 390/800px pass. No EPUBCheck/all-reader certification.
-The source coverage, explicit recuts, corpus checks and package seal live in
-`reports/ch305/`; the current resume state is worklog §0 and its newest §8 entry.
-
-The reader requires publication after each final EPUB. Commit/push to
-`arena/01a09949-rumors-with-taeyoen`, verify remote HEAD, and provide the GitHub EPUB link.
-Archive: 13,989,002 bytes, SHA-256
-`9f18fa6dd0845c178b58372f1ec3bfbc9fe99b03e071be4b685ee68115298083`.
-The chapter-304 baseline is published as `30ee5f8`; preserve its history and all older
-recovery reports. Do not force-push or modify main.
+Source coverage, canon decisions, repeat exemption proof and package checks are in
+`reports/ch306/`. Current continuation state: worklog §0; historical cycles remain in §8.
+The 305 baseline is published as `d9b2150`. Final 306 publication must commit/push to
+`arena/01a09949-rumors-with-taeyoen`, verify remote HEAD and provide a pinned EPUB link.
+Never force-push or modify main. Final archive: 14,003,006 bytes, SHA-256
+`a30b4eff19b969826d1060e16d4da3eaae7200fbcfd69346e9e1e9c6c1403ea6`.
 
 **Everything below is the retained chapter-302 recovery baseline.** Statements that
 chapter 303 is pending or that the original archive is unchanged describe recovery time,

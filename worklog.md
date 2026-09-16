@@ -7,50 +7,115 @@ how to verify any future edit. Read this before touching the tree.
 
 ---
 
-## 0 · Cycle 305 summary (read this first on resume)
+## 0 · Cycle 306 summary (read this first on resume)
 
-**Chapter 305 — We’re Doomed — complete; final archive verified.** Raw saved first as
-`raws/ch305_raw.txt`; full source/produced-text review and final block/QM scan complete.
-Chapter and reference/navigation updates are included in the final, sealed EPUB.
+**Chapter 306 — When the Gossip Hits Home — complete; final archive verified.** Raw saved FIRST
+as `raws/ch306_raw.txt`; complete source and output review, block/QM/phone audits done.
+Package was prelogged below and is now independently sealed.
 
-**Current tree:** 305 chapters, `Chapters 1–305`; 408 files, 405 manifest items,
-309 spine entries, 308 NCX navPoints, 311 nav list items. Assets unchanged: 73 images,
-20 font faces, 18 character cards/portraits, 61 glossary cards; next image id **id-51**.
-Chapter 305: **53 substantial blocks / 14 types**, 6,121 words per repeat_check.
-No new outfit or plate. Four bios appended: Ji-ho, Yoon-a, Taeyeon, Tiffany. All 304
-previous chapters and all preexisting images/fonts/styles remain byte-identical.
+**Tree:** 306 chapters, Chapters 1–306; 409 payload files, 406 manifest items, 310 spine,
+309 NCX, 312 nav list items. 73 images, 20 font faces, 18 character cards, 61 glossary
+cards; next image id **id-51**. All 305 prior chapters and existing images/fonts/styles
+preserved. Five bios appended: Ji-ho, Taeyeon, Yoon-a, Tiffany, Seohyun. No new outfit plate.
 
-**Canon for continuation:** Saturday morning, October 5, Room 308 in Singapore. Yoon-a
-felt restored after a measured 37.8°C the night before; no clinical discharge yet.
-She lost the recovery wager. The forfeit is her best performance at the October 6
-concert, with Ji-ho wanting to watch and greet her afterward; his own October 5–6
-commitments/travel remain unresolved. Fund access was conditional and still has not
-been granted. Taeyeon first and Tiffany second remain the confirmed participants;
-Yoon-a’s imagined third place is not a membership or romantic ranking. Existing powers:
-Boyfriend Halo LV3 (partner restoration) and Idol Aura LV3 (his own restoration), not
-newly acquired or upgraded. No consummation. Taeyeon and Tiffany are at the closed door
-with breakfast; nobody has entered or resolved the confrontation.
+**Continuation:** October 5, 2013, Saturday morning. Flashback explains Taeyeon's overnight
+suspicion from Seohyun's unnamed visitor account. At 7:13 she recruits Tiffany; later at
+Room 308 she sees Ji-ho. He refuses to hide, admits the relationship and apologizes for
+concealing it, not for choosing Yoon-a. Taeyeon hits his chest and runs out crying. He
+orders Tiffany to stay, kisses her forehead, promises an explanation and pursues Taeyeon.
+Yoon-a and Tiffany remain at the room. No reconciliation, discharge, new fund admission,
+consummation, or solved stage/return-travel arrangements. Seohyun was not told his name.
 
-**Standing directives:** raw first; Deep Scan + Deep Thinking throughout; maximize
-context-owned style blocks, including thin scenes; full pre-package missing-block/QM/
-phone-structure review. Existing vocabularies and reader identity references first;
-`.self` only for sent names/windows, dossier values left-aligned. Intimacy stays
-non-graphic. Preserve settled canon and historical editorial exceptions.
-After verifying each final EPUB, **commit and push** to the fixed session branch,
-verify remote HEAD, and provide an actual GitHub EPUB link. Never force-push or alter main.
+**Final chapter gates:** 51 substantial blocks / 12 types; 91 question marks; 4,405 house
+words / 4,489 body-furniture words, max paragraph 39, 4 em dashes, 161/161 quotes.
+Six soft QM flags are temporal declaratives/imperatives. Zero internal repeats; all 19
+cross-305 eight-grams belong to the explicitly replayed breakfast dialogue, independently
+verified; zero elsewhere against 303–305. XML/refs/classes/quotes/CJK/CSS gates PASS.
+390/800px browser layout PASS; selected panels visually inspected. No EPUBCheck claimed.
+Full evidence: `reports/ch306/`.
 
-**Gates:** chapter 305 PASS; 105 question marks reviewed; three soft flags correctly
-remain declaratives/imperatives; nine whisper blocks alternate and close correctly.
-Browser layout proof 390/800px PASS, selected panels visually inspected. No EPUBCheck or
-all-reader certification. Full review and reproducible checks: `reports/ch305/`.
-Final EPUB: **13,989,002 bytes**, SHA-256
-`9f18fa6dd0845c178b58372f1ec3bfbc9fe99b03e071be4b685ee68115298083`. Archive/tree parity 408/408;
-CRC PASS; 2,163 references, zero structural errors; all 93 image/font assets decoded.
-Inherited whole-book QM/repeat findings remain recorded, not silently repaired.
-Baseline publication: `30ee5f8` (chapter 304). Workspace root:
-`/home/user/Rumors_with_Taeyoen`; branch `arena/01a09949-rumors-with-taeyoen`.
+**Standing workflow:** Deep Scan + Deep Thinking, raw FIRST, block maximalism even in thin
+contexts; final missing-block/QM/phone checks; tasteful intimacy, established canon,
+sender-only self and left-aligned dossier values. Work smart and fast through batched
+checks and reused tools, without omitting verification. Log before every build. After the
+final EPUB, commit/push the fixed session branch and verify remote HEAD; provide a
+clickable commit-pinned EPUB download. Never force-push or modify main.
+
+Final EPUB: **14,003,006 bytes / 409 entries**, SHA-256
+`a30b4eff19b969826d1060e16d4da3eaae7200fbcfd69346e9e1e9c6c1403ea6`.
+409/409 archive/tree payload parity, CRC PASS, 2,169 references without structural errors,
+all 93 image/font assets decoded. Existing book-wide editorial flags remain documented;
+no global repair or full-book semantic certification claimed.
+
+Published baseline: `d9b2150f3107a86a7eba675923aeff96245d166f` (chapter 305).
+Workspace `/home/user/Rumors_with_Taeyoen`; branch `arena/01a09949-rumors-with-taeyoen`.
 
 ## 8 · Cycle log (Version 3, newest first)
+
+### ch306 — When the Gossip Hits Home — September 16, 2026 — pre-build entry
+
+**Source FIRST:** `raws/ch306_raw.txt`, 627 lines; SHA-256
+`282c623d41f64996454688d78ed09d788495e3b7141a0e882d45081a6188f73b`.
+No raw editing/normalization. Stray numeral/glyph, broken quotes/lines and rules retained.
+Read the entire source, drafted once, then reread every produced line in bounded outputs.
+Final block/QM sweep complete. User's efficiency directive added to SKILL without dropping
+the mandatory review/publication steps; dependencies recovered alongside focused recon.
+
+**Content:** hotel game; Seohyun's gleeful evidence, five actor candidates, unfinished
+comparison and planned interrogation; familiar-disguise realization, secrecy, own-room
+mistake, night alone, anger/hurt/humiliation, reputation and kiss memory, abandoned hospital
+trip; 7:13 waking, sleeping Sunny, reluctant then eager Tiffany, private family matter,
+manager-driven visit and breakfast; deliberate replay of 305's knock; Yoon-a asks him to
+hide, he refuses shadows, handholding and her opening the door; Taeyeon's confirmation,
+failed imagined excuses, Tiffany's recognition, kiss mark; arrival questions and spoken
+recounting, concealment-only apology, admission of kissing, her place, noona declaration,
+blows/hatred/flight, full-name command to Tiffany, explanation promised, pursuit.
+
+**Canon / recuts:** 185 cm is a witness estimate; canonical 182 unchanged. Keep 303's
+dark knit/trousers disguise instead of raw hoodie/jeans at the elevator. The separate
+home-door hoodie is recalled, not a new outfit. Correct raw's later elevator reversal:
+he exits, she enters. Seohyun saw a stranger and inferred a boyfriend, not a named couple.
+No long secret relationship backdated. October 4 rewind to October 5 morning; 7:13 belongs
+to the hotel, not hospital arrival. Alleged escape routes remain imaginary. His apology
+is not softened; her anger and Tiffany's unwilling compliance remain. No consummation,
+medical/fund/System update or reconciliation. No literal claim that Taeyeon knows only
+two relationships. Named actor guesses/Conan are references, not newly introduced cast.
+
+**Blocks:** 51 / 12: whisper 9, acting 7, memory 6, briefing 6, dossier 5, hand-note 5,
+contract 4, status 3, performance 3, app 1, menu 1, pullquote 1. Context-owned expansion
+includes thin game, regret, snack refusal, breakfast and collar-mark moments. No invented
+calls/messages, outfits, food items, stats or public posts. Required headers and whisper
+speaker alternation/last close checked; no speaker-prefix staging.
+
+**Wiring:** OPF/range/spine, NCX num_309, nav, cover, glossary review; five scoped bios.
+Old participant table and ch282 id-29 alias intact. No CSS/fonts/images changed.
+Expected 409 payloads / 406 manifest / 310 spine / 309 NCX / 312 nav / 310 XHTML / 313 XML.
+
+**Gates:** 4,405 house words, 4,489 body/furniture, max paragraph 39; 4 em dashes,
+161/161 quotes, 91 question marks. XML/refs/classes/CJK/curly/CSS PASS. QM hard 0;
+six temporal-declarative/imperative soft flags triaged in editorial_review.md. Repeats:
+internal 0, cross-305 19 intentional replay eight-grams, confirmed wholly inside the
+labeled recap by verify_recap.py; no matches outside it against 303–305. Do not paraphrase
+the established shared moment or suppress the raw gate's REVIEW exit. Browser 390/800
+PASS, selected dossier/apology/ending cards inspected; no universal-reader certification.
+
+**Workspace recovery:** fetched d9b2150, verified every tracked blob against surviving
+files, aligned stale imported HEAD/index without working-content changes. Captured all
+408 baseline ZIP hashes before edits. No branch change, force push or main modification.
+
+**Build seal:** PASS. This entry and SKILL/state updates preceded packaging.
+**14,003,006 bytes / 409 entries**, SHA-256
+`a30b4eff19b969826d1060e16d4da3eaae7200fbcfd69346e9e1e9c6c1403ea6`.
+ZIP CRC PASS; mimetype first/STORED, all other entries DEFLATED; archive/tree hashes
+409/409 equal. 313 XML documents, 310 XHTML, 2,169 reference checks, zero structural
+errors; 73 images and 20 WOFF faces decoded. All 305 earlier chapters and all existing
+images/fonts/styles preserved. Old character content matches after removing only the
+five appended paragraphs; all 10 tracked old raw/upload files and all older cycle history
+preserved. Whole-book QM/repeat exits remain 1; inventory category counts unchanged
+(image-alt 1, metrics-band 272, doubled-word 72, whisper-policy 6). The new deliberate
+recap overlap is separately verified, not hidden. Final verified package and production
+records are the publication payload on the fixed session branch.
+
 
 ### ch305 — We’re Doomed — September 15, 2026 — pre-build entry
 

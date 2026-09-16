@@ -1,0 +1,8 @@
+== work_epub/OEBPS/text/ch306.xhtml
+   [NO-QM?] “…When I came back, she was acting strangely.”
+   [NO-QM?] “…Don’t worry about me.”
+   [NO-QM?] “…When he looked at you, it felt as though you could get drawn right in.”
+   [NO-QM?] “…n she comes back, we’re questioning her until she tells us everything.”
+   [NO-QM?] “…Don’t tell the others about this yet.”
+   [NO-QM?] “…Don’t speak.”
+RESULT: OK (triage any NO-QM? lines above)
