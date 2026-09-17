@@ -1,0 +1,6 @@
+== work_epub/OEBPS/text/ch307.xhtml
+   [NO-QM?] “…When he walked into my room, I was finished.”
+   [NO-QM?] “…When I started liking him, he was just a trainee.”
+   [NO-QM?] “…Don’t lie to yourself.”
+   [NO-QM?] “…When this busy stretch is over, I’ll write you another song.”
+RESULT: OK (triage any NO-QM? lines above)

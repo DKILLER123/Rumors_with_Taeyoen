@@ -6,10 +6,10 @@ Taeyeon*, Version 3). This file holds the **skills**; `worklog.md` holds the **s
 (cycle log, ships, canon pins). Do not duplicate skills between the two — SKILL.md is the
 master reference, worklog §8 is the history.
 
-**Current at ship:** chapter 306, archive seal verified · 306 chapters ·
-409 payload files · 406 manifest items · 310 spine entries · NCX 309 navPoints ·
-nav 312 `<li>` · 73 images (through id-50; next id-51) · 20 embedded font faces ·
-18 character cards · 61 glossary cards. Final verification: `reports/ch306/`.
+**Current at ship:** chapter 307, archive seal verified · 307 chapters ·
+410 payload files · 407 manifest items · 311 spine entries · NCX 310 navPoints ·
+nav 313 `<li>` · 73 images (through id-50; next id-51) · 20 embedded font faces ·
+18 character cards · 61 glossary cards. Final verification: `reports/ch307/`.
 
 **Recovery baseline (2026-09-13; historical).** The imported 302-chapter archive was
 preserved during setup; the subsequent reader-authorized chapter-303 production cycle
@@ -111,8 +111,8 @@ new ship's hash to worklog §8. SKILL.md is versioned by its *Current at ship* l
 ## 4 · Canon management
 
 - **The tree is the canon.** Before importing any raw beat, grep for it. If the raw
-  contradicts in-tree facts, **the tree wins** (e.g., 'Some' = his Taeyeon pairing, not an
-  IU duet; '7 Years'/'Stay with Me' = Oct 3 single A/B-side). Log every re-cut in worklog §8.
+  contradicts in-tree facts, **the tree wins** (e.g., 'Some' was written for Taeyeon but released with IU (100–106, 243);
+  distinguish inspiration/private singing from released credits; '7 Years'/'Stay with Me' = Oct 3 single A/B-side). Log every re-cut in worklog §8.
 - **Raw-internal contradictions** (Deep Scan): when the raw disagrees with itself (e.g.
   ch299's goose-yellow dress at the mirror but lilac at the gate), keep the version with the
   established setup and log the re-cut.
@@ -158,7 +158,8 @@ owner of the window, whose bubbles are chat-sent and right-floated; every chat-s
 name span MUST carry .self, never a plain chat-name (ch301 bug, fixed) · chat-bubble
 chat-sent/chat-received · chat-meta · chat-clear) · phone-call [12: pc-head first child
 (Courier slate), pc-me = this end, pc-them = far end, pc-note = stage direction;
-**.sinister variant** = red-tinged bad calls; one-sided calls = pc-me only] ·
+Keep speakerphone/handset routing consistent through the hang-up; an announced future
+call is not an enacted exchange. **.sinister variant** = red-tinged bad calls; one-sided calls = pc-me only] ·
 official-statement (os-masthead · os-meta · os-title · .os-note child for the attachment
 footnote) [24] · official-post (op-band · op-handle · op-body · op-meta) · fanclub-block
 (fc-header · fc-post>fc-user+fc-text · .mod/.founder) · trend-block (tr-*) ·

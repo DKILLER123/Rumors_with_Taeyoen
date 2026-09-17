@@ -2,18 +2,18 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="book-id" xml:lang="en">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title id="main-title">Peninsula: Going Viral After a Dating Scandal with Kim Taeyeon</dc:title>
-    <dc:title id="subtitle">Volume One · Chapters 1–306 · Version 3 English Publisher’s Edition</dc:title>
+    <dc:title id="subtitle">Volume One · Chapters 1–307 · Version 3 English Publisher’s Edition</dc:title>
     <dc:creator id="creator">Peninsula Editorial Project</dc:creator>
     <dc:identifier id="book-id">urn:uuid:7f9c2e4a-5b1d-4e8f-9a3c-8d6e1f0a2b3c</dc:identifier>
     <dc:language>en</dc:language>
-    <dc:description>A Korean entertainment saga: the complete Version 3 English publisher’s edition of Chapters 1–306, restored, translated and refined, with the full labeled house stylesheet, character dossiers, and embedded typography.</dc:description>
+    <dc:description>A Korean entertainment saga: the complete Version 3 English publisher’s edition of Chapters 1–307, restored, translated and refined, with the full labeled house stylesheet, character dossiers, and embedded typography.</dc:description>
     <dc:subject>Korean Entertainment</dc:subject>
     <dc:subject>Light Novel</dc:subject>
     <dc:date>2026-08-15</dc:date>
     <meta refines="#main-title" property="title-type">main</meta>
     <meta refines="#subtitle" property="title-type">subtitle</meta>
     <meta refines="#creator" property="role" scheme="marc:relators">trl</meta>
-    <meta property="dcterms:modified">2026-09-16T04:30:07Z</meta>
+    <meta property="dcterms:modified">2026-09-17T05:32:03Z</meta>
     <meta name="cover" content="cover-image"/>
   </metadata>
   <manifest>
@@ -423,6 +423,7 @@
     <item id="ch304" href="text/ch304.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch305" href="text/ch305.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch306" href="text/ch306.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch307" href="text/ch307.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover" linear="yes"/>
@@ -735,5 +736,6 @@
     <itemref idref="ch304"/>
     <itemref idref="ch305"/>
     <itemref idref="ch306"/>
+    <itemref idref="ch307"/>
   </spine>
 </package>

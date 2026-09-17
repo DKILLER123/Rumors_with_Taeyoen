@@ -1865,5 +1865,11 @@
       </navLabel>
       <content src="text/ch306.xhtml"/>
     </navPoint>
+    <navPoint id="num_310" playOrder="310">
+      <navLabel>
+        <text>Chapter 307 · How to Win Taeyeon’s Forgiveness</text>
+      </navLabel>
+      <content src="text/ch307.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>

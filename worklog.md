@@ -7,50 +7,117 @@ how to verify any future edit. Read this before touching the tree.
 
 ---
 
-## 0 · Cycle 306 summary (read this first on resume)
+## 0 · Cycle 307 summary (read this first on resume)
 
-**Chapter 306 — When the Gossip Hits Home — complete; final archive verified.** Raw saved FIRST
-as `raws/ch306_raw.txt`; complete source and output review, block/QM/phone audits done.
-Package was prelogged below and is now independently sealed.
+**Chapter 307 — How to Win Taeyeon’s Forgiveness — complete; archive verified.** Raw saved FIRST
+in `raws/ch307_raw.txt`; full source/output review and final block/QM/phone scan complete.
+Build prelogged below; final archive seal PASS.
 
-**Tree:** 306 chapters, Chapters 1–306; 409 payload files, 406 manifest items, 310 spine,
-309 NCX, 312 nav list items. 73 images, 20 font faces, 18 character cards, 61 glossary
-cards; next image id **id-51**. All 305 prior chapters and existing images/fonts/styles
-preserved. Five bios appended: Ji-ho, Taeyeon, Yoon-a, Tiffany, Seohyun. No new outfit plate.
+**Tree:** 307 chapters / 410 payloads / 407 manifest / 311 spine / 310 NCX / 313 nav list
+items; 73 images / 20 WOFF / 18 character cards / 61 glossary cards; next image **id-51**.
+Four bios appended: Ji-ho, Taeyeon, Yoon-a, Tiffany. All 306 prior chapters and existing
+images/fonts/styles preserved; no new outfit or plate.
 
-**Continuation:** October 5, 2013, Saturday morning. Flashback explains Taeyeon's overnight
-suspicion from Seohyun's unnamed visitor account. At 7:13 she recruits Tiffany; later at
-Room 308 she sees Ji-ho. He refuses to hide, admits the relationship and apologizes for
-concealing it, not for choosing Yoon-a. Taeyeon hits his chest and runs out crying. He
-orders Tiffany to stay, kisses her forehead, promises an explanation and pursues Taeyeon.
-Yoon-a and Tiffany remain at the room. No reconciliation, discharge, new fund admission,
-consummation, or solved stage/return-travel arrangements. Seohyun was not told his name.
+**Continuation:** October 5, 2013, Saturday morning. Ji-ho misses Taeyeon at the elevators
+and returns alone. Tiffany and Yoon-a argue about love, ambition and their standing.
+Tiffany calls on speaker: Taeyeon is in the car returning to the hotel, not all right,
+intends to sleep, abandons a message for him. Yoon-a plans discharge arrangements and
+wants to speak to her first; no completed discharge or conversation yet. Ji-ho asks Fany
+to help arrange a surprise duet for Sunday's Girls & Peace concert, knowing public
+pressure would make refusal difficult. No guest slot, production approval or scheduling
+resolution yet. Another song promised to Fany for late year/next year, not a release date.
+Second step: **Papaya of Fuller Grace ×2**, held since 239; intended for Yoon-a/Taeyeon,
+neither handed over nor consumed. No new award, reconciliation or fund admission.
 
-**Final chapter gates:** 51 substantial blocks / 12 types; 91 question marks; 4,405 house
-words / 4,489 body-furniture words, max paragraph 39, 4 em dashes, 161/161 quotes.
-Six soft QM flags are temporal declaratives/imperatives. Zero internal repeats; all 19
-cross-305 eight-grams belong to the explicitly replayed breakfast dialogue, independently
-verified; zero elsewhere against 303–305. XML/refs/classes/quotes/CJK/CSS gates PASS.
-390/800px browser layout PASS; selected panels visually inspected. No EPUBCheck claimed.
-Full evidence: `reports/ch306/`.
+**Canon correction:** the previous SKILL Some shorthand conflicted with the actual book.
+Chapters 100–106/113/148/182/243 establish written for Taeyeon, released/performed with IU.
+That distinction is now accurate in SKILL; no historical chapter changed. Tiffany's early
+feelings use chapter 252's before-she-knew chronology, not a new first-meeting claim.
 
-**Standing workflow:** Deep Scan + Deep Thinking, raw FIRST, block maximalism even in thin
-contexts; final missing-block/QM/phone checks; tasteful intimacy, established canon,
-sender-only self and left-aligned dossier values. Work smart and fast through batched
-checks and reused tools, without omitting verification. Log before every build. After the
-final EPUB, commit/push the fixed session branch and verify remote HEAD; provide a
-clickable commit-pinned EPUB download. Never force-push or modify main.
+**Gates:** 40 substantial blocks / 13 types; 69 question marks; one complete speakerphone
+call with correct pc ownership. 3,357 house words / 3,407 body-furniture, max paragraph 31,
+1 em dash, 102/102 quotes. QM hard 0, four temporal/imperative soft flags triaged; repeats
+internal/cross-304–306 0/0. XML/refs/classes/CJK/quotes/CSS PASS. 390/800px browser layout
+PASS; narrow phone/System panels inspected. No EPUBCheck/all-reader certification.
+Evidence in `reports/ch307/`; prior whole-book editorial exceptions remain.
 
-Final EPUB: **14,003,006 bytes / 409 entries**, SHA-256
-`a30b4eff19b969826d1060e16d4da3eaae7200fbcfd69346e9e1e9c6c1403ea6`.
-409/409 archive/tree payload parity, CRC PASS, 2,169 references without structural errors,
-all 93 image/font assets decoded. Existing book-wide editorial flags remain documented;
-no global repair or full-book semantic certification claimed.
-
-Published baseline: `d9b2150f3107a86a7eba675923aeff96245d166f` (chapter 305).
-Workspace `/home/user/Rumors_with_Taeyoen`; branch `arena/01a09949-rumors-with-taeyoen`.
+**Standing workflow:** Deep Scan + Deep Thinking; raw first; style-block maximalism even
+for thin contexts; final missing-block/question/phone audit; canon and asset preservation.
+Batch independent work and reuse checks to finish promptly, without skipping review.
+Log before build; commit and push the final verified EPUB to the fixed session branch,
+verify remote HEAD and provide an explicit pinned download link. No force-push/main edit.
+Final EPUB: **14,014,286 bytes / 410 entries**, SHA-256
+`10643783ec60eb117f919a3b8dd4f6e93e053d62e2da9aa37b91f134115b1ce7`.
+Archive/tree parity410/410; CRC PASS; 2,175 references, zero structural errors; all93
+image/font assets decoded. Older editorial findings remain documented, not auto-repaired.
+Baseline **060db570f945c2db7e6d7891374cc17940a38d56** (306). Workspace:
+`/home/user/Rumors_with_Taeyoen`, branch `arena/01a09949-rumors-with-taeyoen`.
 
 ## 8 · Cycle log (Version 3, newest first)
+
+### ch307 — How to Win Taeyeon’s Forgiveness — September 17, 2026 — pre-build entry
+
+**Raw FIRST:** `raws/ch307_raw.txt`, 427 lines, SHA-256
+`6348de25e3b61e2fd85ddb0f2321c827e404abe428c08f71e630013b929dbfb6`.
+Untouched after capture, including junk glyph/quotes/line breaks and author parenthesis.
+Read the whole source before drafting and all produced lines in bounded outputs afterward.
+Deep Scan + Deep Thinking maintained; dependencies/recon batched and previous tooling reused.
+
+**Content:** elevator escape 3→2/other at8, stairs3/2/1, B1/car realization; Fany/Yoon-a
+accusations, attraction/arrival, sisterhood, turned question, songs/villa, attempted
+withdrawal, doorway regrets, ambition theory, hypothetical ordinary trainee, Fany's
+composite-attraction rebuttal and interrupted sleeve-rolling; Ji-ho returns alone; Fany
+cannot leave him, calls Taeyeon on speaker; car/hotel, unfinished message, not all right
+but will be, sleep, hangs up; Yoon-a wants first conversation and discharge paperwork,
+concern/rivalry, wash/change; Fany demands the special secret, he pivots to guest stages,
+2010 examples, Some grievance, public-pressure surprise duet and hidden second step;
+jealousy, kiss, another-song promise, help agreed; existing papaya inventory, allocation,
+height memory, self-serving children excuse, imagined acceptance/Jessica reaction, full
+rare-item card with permanent activation and four effect categories. No omitted plot beat.
+
+**Canon / recuts:** exact Papaya of Fuller Grace name and stock ×2 from239; no new award
+or consumption. Earlier Height-Reforging Milk course is not an instantaneous new height.
+Actual Some credits (100–106,113,148,182,243) override inaccurate SKILL shorthand: written
+for Taeyeon, released with IU. Preserve her lost-public-duet grievance, not a blanket
+claim of never singing together. Tiffany252 supplies before-knowing chronology; villa
+238/248 confirmed. Shared years not a literal decade-plus since2007 debut. Motive claims
+stay the characters' arguments. Speakerphone throughout fixes raw's late ear-position
+inconsistency. Manager call only planned; no fabricated discharge, travel, venue permission
+or forgiveness. Stage pressure remains explicit. Tasteful item/body language; ordinary
+fruit has no claimed magic. Author-to-reader final parenthesis dropped from book only.
+
+**Blocks:** 40 / 13: briefing6, memory5, dossier5, whisper5, hand-note4, acting3,
+performance3, contract3, system2; status/lesson/app/phone1 each. Every block labeled;
+whisper alternation/closing and phone role ownership checked. Thin contexts retained
+with grounded expansion. No wardrobe description, new plate, CSS, chat, cast or term.
+
+**Wiring:** OPF/range/spine, NCX num_310, nav, cover/glossary review; four appended bios.
+Participant table unchanged; ch282 id-29 alias preserved. 410 payloads / 407 manifest /
+311 spine / 310 NCX / 313 nav / 311 XHTML / 314 XML anticipated.
+
+**Gates:** 3,357 house words, 3,407 body/furniture, max paragraph31, 1 em dash,
+102/102 quotes, 69 question marks. XML/refs/classes/CJK/curly/CSS PASS. QM hard0;
+three temporal clauses and one imperative soft flag triaged. Repeats0 internal/0 cross
+against304–306. Actual speakerphone call1, planned manager call not enacted, chat0.
+Browser390/800 PASS; phone and full item panels visually inspected. No EPUBCheck or
+all-reader certification. Full source matrix and decisions: reports/ch307/editorial_review.md.
+
+**Recovery:** verified every published306 blob against surviving bytes, safely aligned
+stale imported HEAD/index to060db57, captured409 archive baseline hashes. No working file
+changes in recovery, no branch switch/force-push/main edits. A recon glob initially
+included characters.xhtml; narrowed it to numeric chapter filenames, no book effect.
+
+**Build seal:** PASS after the prelogged build. **14,014,286 bytes / 410 entries**,
+SHA-256 `10643783ec60eb117f919a3b8dd4f6e93e053d62e2da9aa37b91f134115b1ce7`.
+Mimetype first/STORED, remaining entries DEFLATED, CRC PASS, archive/tree payloads410/410.
+314 XML documents, 311 XHTML, 2,175 reference checks, zero structural errors. All73 images
+and20 WOFF faces decoded. Prior306 chapters and all existing styles/assets byte-preserved;
+four bio additions only, old biography content independently preserved. All11 tracked old
+raw/upload files and historical cycle entries match baseline. Full-book QM/repeat gates
+retain prior nonzero exits; category counts unchanged (image-alt1, metrics-band272,
+doubled-word72, whisper-policy6). No new chapter repeat flags. Verified package and
+source/review/state records are the publication payload on the fixed session branch.
+
 
 ### ch306 — When the Gossip Hits Home — September 16, 2026 — pre-build entry
 

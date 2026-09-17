@@ -1,0 +1,14 @@
+[
+  {
+    "width": 390,
+    "errors": [],
+    "scrollWidth": 390,
+    "overflowing": []
+  },
+  {
+    "width": 800,
+    "errors": [],
+    "scrollWidth": 800,
+    "overflowing": []
+  }
+]

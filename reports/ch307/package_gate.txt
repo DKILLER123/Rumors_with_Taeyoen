@@ -1,0 +1,42 @@
+{
+  "result": "PASS",
+  "sha256": "10643783ec60eb117f919a3b8dd4f6e93e053d62e2da9aa37b91f134115b1ce7",
+  "bytes": 14014286,
+  "archive_entries": 410,
+  "mimetype_first_stored": true,
+  "remaining_entries_deflated": true,
+  "zip_crc": "PASS",
+  "archive_tree_payload_parity": "410/410",
+  "unchanged_old_chapters": "306/306",
+  "unchanged_existing_images_fonts_styles": true,
+  "old_raws_and_uploads_unchanged": true,
+  "old_raw_upload_files_verified": 11,
+  "old_worklog_cycle_history_preserved": true,
+  "old_character_content_preserved": true,
+  "raw307_sha256": "6348de25e3b61e2fd85ddb0f2321c827e404abe428c08f71e630013b929dbfb6",
+  "chapter307_sha256": "1101caf8fb53f436cc5d7969fd647d97e6a00750d6451a4e905993ba57c24112",
+  "preserved_ch282_id29_alias": true,
+  "changed_baseline_payloads": [
+    "OEBPS/content.opf",
+    "OEBPS/text/characters.xhtml",
+    "OEBPS/text/cover.xhtml",
+    "OEBPS/text/glossary.xhtml",
+    "OEBPS/text/nav.xhtml",
+    "OEBPS/toc.ncx"
+  ],
+  "added_payloads": [
+    "OEBPS/text/ch307.xhtml"
+  ],
+  "manifest_items": 407,
+  "spine_items": 311,
+  "ncx_navpoints": 310,
+  "nav_li": 313,
+  "decoded_images": 73,
+  "decoded_woff_faces": 20,
+  "reference_checks": 2175,
+  "structural_errors": [],
+  "chapter_gate_status": "PASS; four temporal-declarative/imperative flags triaged; phone and repeat checks passed",
+  "legacy_book_wide_qm_repeat_flags": "Existing book-wide findings retained; same exit codes and editorial category counts as 306; no new chapter repetition flags",
+  "epubcheck": "not performed",
+  "browser_layout_proof": "390px and 800px, with selected visual panel inspection"
+}
