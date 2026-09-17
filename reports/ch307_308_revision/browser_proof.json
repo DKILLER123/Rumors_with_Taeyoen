@@ -1,0 +1,178 @@
+[
+  {
+    "chapter": 307,
+    "width": 390,
+    "errors": [],
+    "scrollWidth": 390,
+    "loadedFonts": [
+      "Lora",
+      "Lora",
+      "Lora",
+      "Crimson Pro",
+      "Crimson Pro",
+      "IM Fell English",
+      "Courier Prime",
+      "Courier Prime",
+      "Cardo"
+    ],
+    "images": [],
+    "panels": [
+      {
+        "class": "phone-call",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "system-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      }
+    ],
+    "plainParagraphs": 144
+  },
+  {
+    "chapter": 307,
+    "width": 800,
+    "errors": [],
+    "scrollWidth": 800,
+    "loadedFonts": [
+      "Lora",
+      "Lora",
+      "Lora",
+      "Crimson Pro",
+      "Crimson Pro",
+      "IM Fell English",
+      "Courier Prime",
+      "Courier Prime",
+      "Cardo"
+    ],
+    "images": [],
+    "panels": [
+      {
+        "class": "phone-call",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "system-block",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      }
+    ],
+    "plainParagraphs": 144
+  },
+  {
+    "chapter": 308,
+    "width": 390,
+    "errors": [],
+    "scrollWidth": 390,
+    "loadedFonts": [
+      "Lora",
+      "Lora",
+      "Lora",
+      "Crimson Pro",
+      "Crimson Pro",
+      "Cormorant Garamond",
+      "IM Fell English",
+      "Courier Prime",
+      "Courier Prime",
+      "Bebas Neue",
+      "Cardo"
+    ],
+    "images": [
+      {
+        "loaded": true,
+        "src": "file:///home/user/Rumors_with_Taeyoen/work_epub/OEBPS/images/wd_yoona_white_ribbon.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "file:///home/user/Rumors_with_Taeyoen/work_epub/OEBPS/images/wd_yoona_first_love_white.jpg"
+      }
+    ],
+    "panels": [
+      {
+        "class": "system-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "system-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "dev-quest",
+        "clientWidth": 361,
+        "scrollWidth": 361
+      },
+      {
+        "class": "system-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      },
+      {
+        "class": "wardrobe-block",
+        "clientWidth": 363,
+        "scrollWidth": 363
+      }
+    ],
+    "plainParagraphs": 79
+  },
+  {
+    "chapter": 308,
+    "width": 800,
+    "errors": [],
+    "scrollWidth": 800,
+    "loadedFonts": [
+      "Lora",
+      "Lora",
+      "Lora",
+      "Crimson Pro",
+      "Crimson Pro",
+      "Cormorant Garamond",
+      "IM Fell English",
+      "Courier Prime",
+      "Courier Prime",
+      "Bebas Neue",
+      "Cardo"
+    ],
+    "images": [
+      {
+        "loaded": true,
+        "src": "file:///home/user/Rumors_with_Taeyoen/work_epub/OEBPS/images/wd_yoona_white_ribbon.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "file:///home/user/Rumors_with_Taeyoen/work_epub/OEBPS/images/wd_yoona_first_love_white.jpg"
+      }
+    ],
+    "panels": [
+      {
+        "class": "system-block",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "system-block",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "dev-quest",
+        "clientWidth": 651,
+        "scrollWidth": 651
+      },
+      {
+        "class": "system-block",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      },
+      {
+        "class": "wardrobe-block",
+        "clientWidth": 653,
+        "scrollWidth": 653
+      }
+    ],
+    "plainParagraphs": 79
+  }
+]

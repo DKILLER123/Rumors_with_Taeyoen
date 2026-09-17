@@ -13,7 +13,7 @@
     <meta refines="#main-title" property="title-type">main</meta>
     <meta refines="#subtitle" property="title-type">subtitle</meta>
     <meta refines="#creator" property="role" scheme="marc:relators">trl</meta>
-    <meta property="dcterms:modified">2026-09-17T15:43:44Z</meta>
+    <meta property="dcterms:modified">2026-09-17T17:34:38Z</meta>
     <meta name="cover" content="cover-image"/>
   </metadata>
   <manifest>

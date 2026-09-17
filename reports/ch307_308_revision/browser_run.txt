@@ -1,0 +1,34 @@
+[
+  {
+    "chapter": 307,
+    "width": 390,
+    "errors": [],
+    "scrollWidth": 390,
+    "panels": 2,
+    "plainParagraphs": 144
+  },
+  {
+    "chapter": 307,
+    "width": 800,
+    "errors": [],
+    "scrollWidth": 800,
+    "panels": 2,
+    "plainParagraphs": 144
+  },
+  {
+    "chapter": 308,
+    "width": 390,
+    "errors": [],
+    "scrollWidth": 390,
+    "panels": 5,
+    "plainParagraphs": 79
+  },
+  {
+    "chapter": 308,
+    "width": 800,
+    "errors": [],
+    "scrollWidth": 800,
+    "panels": 5,
+    "plainParagraphs": 79
+  }
+]

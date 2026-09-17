@@ -6,10 +6,11 @@ Taeyeon*, Version 3). This file holds the **skills**; `worklog.md` holds the **s
 (cycle log, ships, canon pins). Do not duplicate skills between the two — SKILL.md is the
 master reference, worklog §8 is the history.
 
-**Current at ship:** chapter 308, archive seal verified · 308 chapters ·
+**Current at ship:** chapters 307–308 prose-first revision, archive verified · 308 chapters ·
 414 payload files · 411 manifest items · 312 spine entries · NCX 311 navPoints ·
 nav 314 `<li>` · 76 images (through id-53; next id-54) · 20 embedded font faces ·
-19 character cards · 61 glossary cards. Final verification: `reports/ch308/`.
+19 character cards · 61 glossary cards. Current evidence: `reports/ch307_308_revision/`.
+Earlier `reports/ch307/` and `reports/ch308/` describe the superseded layouts.
 
 **Recovery baseline (2026-09-13; historical).** The imported 302-chapter archive was
 preserved during setup; the subsequent reader-authorized chapter-303 production cycle
@@ -21,9 +22,10 @@ existing lockfile. Old `/home/user` workspace paths refer to this repository roo
 
 **Operating skills (user directive, always on):** **DEEP SCAN** — read every raw line and
 every produced line for content, contradictions, names, punctuation, and block contexts
-before and after drafting; and **DEEP THINKING** — reason systematically about which style
-block owns each context, resolve raw-internal contradictions, and fill thin context from
-understanding rather than dropping it. Style-block maximalism is policy (§5). Work efficiently: batch independent checks and
+before and after drafting; and **DEEP THINKING** — reason systematically about which
+contexts genuinely benefit from a block, resolve raw-internal contradictions, and preserve
+source meaning without padding. Prose-first restraint is policy (§5), superseding the former
+maximalism directive at the reader’s explicit request. Work efficiently: batch independent checks and
 dependency setup, reuse verified tooling, and avoid repeated speculative research. Never
 skip raw-first, full source/produced-line review, final block/QM audits or verified publication.
 
@@ -138,9 +140,23 @@ new ship's hash to worklog §8. SKILL.md is versioned by its *Current at ship* l
 
 ## 5 · Style-block catalog (single source of truth)
 
-Reuse before creating. **Style-block maximalism is policy (user directive): more blocks,
-no compromising — even where the raw gives a context only a few lines thick, keep the block
-and fill the remaining context from Deep Thinking understanding** (in-fiction, canon-safe).
+**Prose first; selective style blocks (current reader directive).** Ordinary narration,
+dialogue, thoughts, brief calls, transitions and explanations belong in flowing prose.
+Use a styled block only when the source supplies substantial, coherent content that the
+format genuinely clarifies: for example, a full System readout, a multi-step quest, a
+meaningful document/chat exchange, or a detailed limited-outfit specification.
+
+Do not turn every conversational beat into a briefing, dossier, performance, memory or
+hand-note panel. Do not invent explanations, labels or filler to justify a block. Consolidate
+related System details instead of making a panel for each small notice. A short call can
+stay in prose with clear attribution; longer calls may retain the phone-call format.
+Illustrations may appear as simple figures beside prose without requiring a wardrobe panel.
+
+Keep the number and density of blocks reasonable for the chapter’s actual content, with
+ordinary prose as the default reading experience. There is no per-chapter quota or target
+to maximize. A naturally System-heavy source may need more structured content than a
+conversation chapter, but it must not be padded or fragmented to create more panels.
+Reuse existing classes when a block is warranted; retain the catalog for selective use.
 Every block is labeled (its header/label line). Canonical class vocabularies — do not invent variants
 without a §6 pass. All defined in `work_epub/OEBPS/styles/stylesheet.css` (section numbers
 in brackets).
@@ -226,7 +242,7 @@ outfit twice = no plate). Identity source order: (1) reader upload in `uploads/`
 that person; (2) their canonical in-tree portrait/plate (rule #13 fallback). Without a
 suitable identity source, skip the wardrobe plate/block rather than fabricate likeness.
 Generate → center-crop 4:5 → 1120×1400 q85 →
-`images/wd_{who}_{garment}.jpg` → manifest id → wd-photo embed. Inspect the installed
+`images/wd_{who}_{garment}.jpg` → manifest id → simple figure or warranted wd-photo embed. Inspect the installed
 image, not only a previous generation: verify photorealistic treatment of BOTH character and detailed, realistic background, outfit, era-specific
 props and crop. Likeness still needs reader judgment; generation is not documentary
 photography. A limited costume preview is not an outfit already worn or an effect already
@@ -261,7 +277,7 @@ triggered: label the preview and retain its exact activation conditions. Delete 
 | Repeats | `python3 repeat_check.py chNNN.xhtml` | 0 internal / 0 cross-chapter 8-grams; deliberate repeats (quotations, exercises) documented in worklog §8 — the tool's own caveat covers them once logged |
 | **Question-mark audit** | `python3 audit_marks.py work_epub/OEBPS/text/chNNN.xhtml` | No genuine NO-QM flags (triage wh-clefts); no `”?`/`??`/` ?`/`?”. ` malformations — **standing user directive** |
 | **Phone-call audit** | in audit_marks.py | pc-head first child; body classes ⊆ pc-me/pc-them/pc-note — **standing user directive** |
-| **Style-block deep scan** | re-read the finished chapter against §5 and the raw | every raw context owns its block; no context left in plain prose that the catalog covers — **standing user directive** |
+| **Style-block deep scan** | re-read the finished chapter against §5 and the raw | all source content preserved; each block justified by sufficient context; remove redundant panels and block-filling prose; ordinary narration/dialogue remains the default |
 | CSS lint | `npm ci` then `node_modules/.bin/stylelint --config .sl.json "work_epub/OEBPS/styles/*.css"` | 0 errors |
 | XML parse | ET.parse each touched file | no exception |
 | CJK scan | in validate_tree/audit | 0 hanzi/hangul in final text |

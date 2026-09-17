@@ -1,34 +1,34 @@
-# Workspace ready — Peninsula, through Chapter 308
+# Workspace ready — Peninsula, through Chapter308, prose-first revision
 
 **Workspace:** `/home/user/Rumors_with_Taeyoen`  
 **Repository:** `DKILLER123/Rumors_with_Taeyoen`  
 **Session branch:** `arena/01a09949-rumors-with-taeyoen`
 
-## Current production state — Chapter 308
+## Current production state — rewrite of307–308
 
-**A Born Idol** is fully translated, reread and wired; the pre-build worklog entry is
-recorded. Final archive seal verified. Raw-first source: `raws/ch308_raw.txt`.
-308 chapters /414payloads /411manifest /312spine /311NCX /314navli;
-76images /20WOFF /19character /61glossary; next image id-54. Three new JPEGs,
-five appended bios and Lee Kang-jun’s new card; previous307chapters/assets/styles unchanged.
-44blocks/15types;13questionmarks;4pending quests; one verified one-sided phone call.
-House chapter gates and390/800browser layout PASS. No EPUBCheck/all-reader certification.
+Both chapters rewritten from untouched archived raws at the reader’s request. Prose-first
+restraint now supersedes style-block maximalism: sufficient real context only, no filler
+or panel quota.307has2blocks instead of40;308has5instead of44. All ordinary narrative,
+thoughts, dialogue and planning restored to flowing prose. All source events and System
+mechanics retained, including the established canon corrections. Existing images preserved.
 
-Resume from worklog§0; decisions/evidence in `reports/ch308/`. Guest appearance approved,
-discharge completed, delayed System rewards reviewed; Eternal Prime35years, component
-Charm76(raw74), age23international/24Korean. Costume is a preview, all acting tasks and
-forgiveness pending; no Papaya×2 use or guaranteed role. Proposed solo/duet/group section
-moves to before the encore; other travel/stage commitments are not silently resolved.
+Pre-build log recorded; chapter/source/punctuation/repeat/XML/CSS and390/800browser checks
+complete. Revised archive seal verified. Current evidence: `reports/ch307_308_revision/`; earlier
+307/308reports are historical. Only307,308and OPF modification timestamp change in-book.
+All306other chapters, assets/styles, references and navigation remain byte-identical.
+308chapters /414payloads /411manifest /312spine /311NCX /314navli;76images /20fonts;
+19characters /61glossary; next image id-54. No EPUBCheck/all-reader certification.
 
-Published307baseline: `dd39055039e6986105850e7a25969e1e368545f2`.
-After final archive verification, commit/push normally to the fixed session branch, verify
-remote HEAD and give a commit-pinned EPUB download. Never force-push or change main.
+Resume from worklog§0 and SKILL§5. Published baseline:
+`a37194786ee69df36f35f42c2bf871be0c0341b2`. After final ZIP verification, commit and push
+normally to the fixed branch, verify remote HEAD and give a pinned EPUB download.
 
-**Final EPUB seal:** 14,668,798 bytes /414entries; SHA-256
-`731decbac4c2a54dfc5703a05e8fda4d17a1a32efda4292a76c122e75a4f154f`. Archive/tree parity414/414; CRC PASS;315XML/312XHTML,
-2,190reference checks, zero structural errors; all96image/font assets decoded.
-All307older chapters and existing assets/styles, prior raw/upload bytes and worklog cycle
-history preserved. Whole-book editorial category counts/exit codes unchanged from307.
+**Final revised EPUB:** 14,660,034 bytes /414entries; SHA-256
+`279f08b37c122c6e55cd2c00d4535194876791b1d84cd342546904a430306401`. Archive/tree parity414/414, CRC PASS,
+315XML/312XHTML and2,190reference checks with zero structural errors. All96image/font
+assets decoded. Chapters1–306 and every existing asset/style/reference/nav payload remain
+unchanged. Old raw/upload bytes and worklog cycle history preserved. Inherited whole-book
+editorial findings unchanged; both revised chapters pass their scoped gates.
 
 **Everything below is the retained chapter-302 recovery baseline.** Statements that
 chapter 303 is pending or that the original archive is unchanged describe recovery time,

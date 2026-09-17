@@ -1,0 +1,74 @@
+{
+  "result": "PASS",
+  "chapters": [
+    {
+      "chapter": 307,
+      "blocks_before": 40,
+      "blocks_after": 2,
+      "block_census": {
+        "phone-call": 1,
+        "system-block": 1
+      },
+      "ordinary_paragraphs": 144,
+      "ordinary_prose_words": 1905,
+      "panel_words": 218,
+      "ordinary_prose_percent": 89.7,
+      "body_words_including_furniture": 2140,
+      "question_marks": 71,
+      "quotes": [
+        106,
+        106
+      ],
+      "em_dashes": 1,
+      "max_paragraph_words": 28,
+      "raw_sha256": "6348de25e3b61e2fd85ddb0f2321c827e404abe428c08f71e630013b929dbfb6",
+      "chapter_sha256": "139712219106bcbb6411bac4e6b182c92d97bea122412d37e281d88d610a3fcd"
+    },
+    {
+      "chapter": 308,
+      "blocks_before": 44,
+      "blocks_after": 5,
+      "block_census": {
+        "system-block": 3,
+        "dev-quest": 1,
+        "wardrobe-block": 1
+      },
+      "ordinary_paragraphs": 79,
+      "ordinary_prose_words": 1035,
+      "panel_words": 524,
+      "ordinary_prose_percent": 66.4,
+      "body_words_including_furniture": 1578,
+      "question_marks": 10,
+      "quotes": [
+        37,
+        37
+      ],
+      "em_dashes": 3,
+      "max_paragraph_words": 28,
+      "raw_sha256": "8e659fea6eb90498dd06a629c0ebe98c17aaf6f9ec041007aba26a4c0c5c02ef",
+      "chapter_sha256": "a124a1a8a662764f492ca30c32b9759a83f31e904124ef4a686cb5d04192d559"
+    }
+  ],
+  "changed_payloads": [
+    "OEBPS/content.opf",
+    "OEBPS/text/ch307.xhtml",
+    "OEBPS/text/ch308.xhtml"
+  ],
+  "all_306_other_chapters_unchanged": true,
+  "all_assets_styles_reference_pages_navigation_unchanged": true,
+  "payload_count": 414,
+  "added_or_removed_payloads": [],
+  "sha256": "279f08b37c122c6e55cd2c00d4535194876791b1d84cd342546904a430306401",
+  "bytes": 14660034,
+  "zip_crc": "PASS",
+  "archive_tree_parity": "414/414",
+  "old_raws_uploads_history_preserved": true,
+  "reference_checks": 2190,
+  "assets_decoded": 96,
+  "inherited_editorial_findings_unchanged": true,
+  "browser_widths": [
+    390,
+    800
+  ],
+  "epubcheck": "not performed"
+}

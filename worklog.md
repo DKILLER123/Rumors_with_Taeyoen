@@ -7,45 +7,112 @@ how to verify any future edit. Read this before touching the tree.
 
 ---
 
-## 0 · Cycle 308 summary (read this first on resume)
+## 0 · Chapters 307–308 prose-first revision (read this first on resume)
 
-**Chapter 308 — A Born Idol — complete; archive verified.** Raw-first source preserved in
-`raws/ch308_raw.txt`; complete source/output reread and final missing-block/QM/phone
-review finished. The cycle entry below was recorded BEFORE packaging. Final archive seal PASS.
+**Reader-requested rewrite complete; revised archive verified.** Both existing raws were reread
+and kept unchanged. The final source/output scan, questions, phone attribution, repeat,
+XML/refs/classes/quotes/CSS and390/800browser checks are complete. Final archive seal PASS.
 
-**Tree:** 308 chapters / 414 payloads / 411 manifest / 312 spine / 311 NCX / 314 nav li;
-76 images / 20 WOFF / 19 character cards / 61 glossary cards; next image **id-54**.
-Five bios appended (Ji-ho, Taeyeon, Yoon-a, Tiffany, Jessica); new Lee Kang-jun card and
-portrait; two Yoon-a outfit plates. All 307 prior chapters and existing assets/styles unchanged.
-44 substantial blocks / 15 types; 13 question marks; one correct one-sided phone call;
-four uncompleted development quests. No new CSS/fonts. Chapter gates and browser390/800 PASS.
+**NEW STANDING RULE:** prose first. The reader explicitly REPLACED style-block maximalism.
+Use blocks only for substantial source content that genuinely benefits from structure;
+never invent filler or turn every thought, exchange or plan into a panel. No block quota.
+SKILL§5 is authoritative. Earlier maximalism instructions in historical cycle entries
+are superseded, not current instructions.
 
-**Story:** Saturday Oct5 final-rehearsal day, Singapore. Lee Soo-man approves the guest
-appearance; LOEN PR will cooperate. Discharge completed; direct stadium route postpones
-Yoon-a’s private hotel talk. Jessica accepts Taeyeon’s explanation for returning alone.
-Ji-ho privately reviews the delayed relationship rewards. Born Idol copied; package opened
-for A Scoundrel’s Special Touch; First Love in White acquired but not equipped. Eternal
-Prime now35years, no fabricated intermediate accounting. Charm components total76 (raw74),
-age23 international/24 Korean. All four acting tasks pending; audition still not guaranteed.
-Lee Kang-jun agrees to move the three-song guest section immediately before the encore:
-Eyes, Nose, Lips solo → Some with Taeyeon → Into the New World with the group. No performance,
-forgiveness, papaya use, fund admission or resolution of other travel/stage commitments.
+**307:**40→2blocks (speakerphone conversation, complete Papaya item card).144ordinary
+paragraphs,89.7%prose by the documented word measure. **308:**44→5blocks (profile,
+combined traits, combined four-task quest, combined rewards, limited costume).79ordinary
+paragraphs,66.4%prose; the raw’s substantial System data remains complete. All narrative,
+arguments, venue/travel description and concert planning flow as ordinary prose/dialogue.
+No new images: both Yoon-a illustrations retained, departure as a simple figure; Lee’s
+portrait remains on the unchanged character page.
 
-**Evidence:** `reports/ch308/` includes raw custody, complete coverage/canon/image decisions,
-chapter gates and browser proof. No EPUBCheck/all-reader/accessibility certification.
-Inherited book-wide editorial flags remain untouched. Baseline307: `dd39055039e6986105850e7a25969e1e368545f2`.
-Work on `arena/01a09949-rumors-with-taeyoen`; after ZIP verification, commit/push normally,
-verify remote HEAD, and provide a commit-pinned EPUB download. Never force-push or edit main.
+**Preservation:** only307,308and the OPF modification timestamp change in the EPUB.
+Chapters1–306, all assets/fonts/styles, reference pages and navigation remain byte-identical.
+308chapters /414payloads /411manifest /312spine /311NCX /314navli;76images /20WOFF;
+19character cards /61glossary; next image id-54. Raw hashes unchanged. No plot/canon reset:
+Some written for Taeyeon/released with IU; Charm component total76(raw74), age23/24Korean,
+Eternal Prime35; quests pending; no worn limited costume, papaya consumption, guaranteed
+role, reconciliation or resolution of other travel/stage commitments.
+
+**Gates:**307questions71,quotes106/106;308questions10,quotes37/37;maxparagraph28each.
+QM hard0;307’s two declarative “Why…” answer fragments triaged. Both repeat checks0/0.
+Browser390/800bothchapters PASS; no EPUBCheck/all-reader/accessibility certification.
+Evidence: `reports/ch307_308_revision/`. Earlier307/308reports describe superseded layouts.
+Published baseline: `a37194786ee69df36f35f42c2bf871be0c0341b2`.
+
+Log recorded before build. After ZIP verification, commit/push normally to
+`arena/01a09949-rumors-with-taeyoen`, verify remote HEAD and supply a pinned EPUB download.
+Never force-push or change main.
 
 ---
 
-**Final EPUB seal:** 14,668,798 bytes /414entries; SHA-256
-`731decbac4c2a54dfc5703a05e8fda4d17a1a32efda4292a76c122e75a4f154f`. Archive/tree parity414/414; CRC PASS;315XML/312XHTML,
-2,190reference checks, zero structural errors; all96image/font assets decoded.
-All307older chapters and existing assets/styles, prior raw/upload bytes and worklog cycle
-history preserved. Whole-book editorial category counts/exit codes unchanged from307.
+**Final revised EPUB:** 14,660,034 bytes /414entries; SHA-256
+`279f08b37c122c6e55cd2c00d4535194876791b1d84cd342546904a430306401`. Archive/tree parity414/414, CRC PASS,
+315XML/312XHTML and2,190reference checks with zero structural errors. All96image/font
+assets decoded. Chapters1–306 and every existing asset/style/reference/nav payload remain
+unchanged. Old raw/upload bytes and worklog cycle history preserved. Inherited whole-book
+editorial findings unchanged; both revised chapters pass their scoped gates.
 
 ## 8 · Cycle log (Version 3, newest first)
+
+### ch307–308 — Prose-first rewrite — September 17, 2026 — pre-build entry
+
+**Reader correction:** too many style blocks, too little normal text. Replace maximalism
+with selective use justified by sufficient source context. This instruction supersedes
+historic maximalism entries below; preserve their history, not their authority.
+
+**Source:** reread both original raws,427/253lines; hashes unchanged:
+307`6348de25e3b61e2fd85ddb0f2321c827e404abe428c08f71e630013b929dbfb6`;
+308`8e659fea6eb90498dd06a629c0ebe98c17aaf6f9ec041007aba26a4c0c5c02ef`.
+No new raw supplied or overwritten. Rewrote English from source, removed panel-filling
+expansion and excessive headings, then reread both complete produced manuscripts.
+
+**307:**40→2blocks. Retain full speakerphone exchange and substantial Papaya inventory
+card only.144ordinary paragraphs/1905ordinary words versus218panel words (89.7%prose).
+Elevator pursuit, complete confrontation/counterarguments, missed pursuit, phone/hotel,
+private-talk/discharge plan, guest-stage scheme, jealousy/song bargain and existing item
+priorities all retained. Source junk/end author comment omitted from book only.
+
+**308:**44→5blocks. Profile, combined four traits, combined four-task quest, combined
+milestone/rewards and limited-outfit specification.79ordinary paragraphs/1035ordinary
+words versus524panel words (66.4%prose). Three-line phone tail remains prose, all audible
+lines Ji-ho’s; route/hotel/venue, private reaction, director courtesy and full concert
+planning remain prose. All source stats/modifiers, quest conditions and song/timing
+figures retained. Departure illustration now a simple figure, not an invented outfit panel.
+
+**Canon:** keep previously resolved Some credits, Tiffany’s before-she-knew chronology,
+source Charm74/component76 discrepancy (components unchanged), age23international/24Korean,
+Eternal Prime35snapshot (no invented recalculation), unused Papaya×2, prior height course,
+four pending acting tasks, limited costume untriggered and exact red-carpet conditions.
+No new forgiveness, guaranteed casting, fund admission, completed concert or silent
+resolution of travel/stage conflicts. Tasteful intimacy and character self-interest remain.
+
+**References/assets:** all retained without byte changes, including both Yoon-a plates,
+Lee Kang-jun portrait/card, other bios and glossary. No new character/outfit/CSS/font.
+Only two chapter payloads plus OPF timestamp change; no navigation or count change.
+
+**Pre-build gates:** source/output/block-necessity scans complete.2115/1611house words;
+2140/1578body/furniture tokens under the separate metric;maxparagraph28each;emdashes1/3;
+quotes106/106and37/37;questions71/10. No hard QM/phone errors;307’s “Why it’s him” and
+“Why it could only be him” are declarative answers after “I understand”, not questions.
+Both internal/cross repeats0/0. XML/refs/classes/CJK/quotes/CSS PASS. Both chapters render
+at390/800without overflow/errors; images/fonts load; selected prose and combined quest
+screens visually inspected. No EPUBCheck, all-reader or accessibility/per-glyph proof.
+
+**Pre-build authorization:** this entry precedes packaging; prebuild record captures log,
+SKILL and chapter hashes alongside the still-published308archive hash. Current policy
+updated in SKILL/AGENTS; state refreshed here and WORKSPACE_SETUP. Old cycle history and
+old report assertions retained as superseded snapshots. New evidence and repeatable
+checks: `reports/ch307_308_revision/`. Baseline commit`a37194786ee69df36f35f42c2bf871be0c0341b2`.
+Build/seal pending; then commit, normal push, remote verification and explicit download.
+
+**Final revised EPUB:** 14,660,034 bytes /414entries; SHA-256
+`279f08b37c122c6e55cd2c00d4535194876791b1d84cd342546904a430306401`. Archive/tree parity414/414, CRC PASS,
+315XML/312XHTML and2,190reference checks with zero structural errors. All96image/font
+assets decoded. Chapters1–306 and every existing asset/style/reference/nav payload remain
+unchanged. Old raw/upload bytes and worklog cycle history preserved. Inherited whole-book
+editorial findings unchanged; both revised chapters pass their scoped gates.
 
 ### ch308 — A Born Idol — September 17, 2026 — pre-build entry
 

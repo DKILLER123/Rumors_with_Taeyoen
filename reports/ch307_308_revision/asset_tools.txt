@@ -1,0 +1,8 @@
+Collecting Pillow==12.3.0
+  Downloading pillow-12.3.0-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (6.9 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.9/6.9 MB 28.4 MB/s eta 0:00:00
+Collecting fonttools==4.65.0
+  Downloading fonttools-4.65.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (5.5 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.5/5.5 MB 132.1 MB/s eta 0:00:00
+Installing collected packages: Pillow, fonttools
+Successfully installed Pillow-12.3.0 fonttools-4.65.0

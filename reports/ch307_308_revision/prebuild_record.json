@@ -1,0 +1,12 @@
+{
+  "phase": "PRE-BUILD",
+  "created_utc": "2026-09-17T17:40:04.574717+00:00",
+  "baseline_commit": "a37194786ee69df36f35f42c2bf871be0c0341b2",
+  "files": {
+    "worklog.md": "8ba7a82b891e8fdcda13dfd4bbfa7d5e2de022e41ebab43d66084929d8c18596",
+    "SKILL.md": "4fbf5896ccf4facd87e6cb980bfc6f1e1b434db105d1328ba142c4edb8b28200",
+    "work_epub/OEBPS/text/ch307.xhtml": "139712219106bcbb6411bac4e6b182c92d97bea122412d37e281d88d610a3fcd",
+    "work_epub/OEBPS/text/ch308.xhtml": "a124a1a8a662764f492ca30c32b9759a83f31e904124ef4a686cb5d04192d559",
+    "Peninsula_Going_Viral_After_a_Dating_Scandal_with_Kim_Taeyeon_UC.epub": "731decbac4c2a54dfc5703a05e8fda4d17a1a32efda4292a76c122e75a4f154f"
+  }
+}
