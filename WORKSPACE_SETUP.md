@@ -1,31 +1,34 @@
-# Workspace ready — Peninsula, through Chapter 307
+# Workspace ready — Peninsula, through Chapter 308
 
-**Recovery date:** September 13, 2026 (UTC)  
 **Workspace:** `/home/user/Rumors_with_Taeyoen`  
 **Repository:** `DKILLER123/Rumors_with_Taeyoen`  
 **Session branch:** `arena/01a09949-rumors-with-taeyoen`
 
-## Current production state — Chapter 307
+## Current production state — Chapter 308
 
-**How to Win Taeyeon’s Forgiveness** is translated, fully reread and wired. The build was
-prelogged in worklog §8 and the final archive is verified. Raw-first source: `raws/ch307_raw.txt`.
+**A Born Idol** is fully translated, reread and wired; the pre-build worklog entry is
+recorded. Final archive seal verified. Raw-first source: `raws/ch308_raw.txt`.
+308 chapters /414payloads /411manifest /312spine /311NCX /314navli;
+76images /20WOFF /19character /61glossary; next image id-54. Three new JPEGs,
+five appended bios and Lee Kang-jun’s new card; previous307chapters/assets/styles unchanged.
+44blocks/15types;13questionmarks;4pending quests; one verified one-sided phone call.
+House chapter gates and390/800browser layout PASS. No EPUBCheck/all-reader certification.
 
-307 chapters / 410 payloads / 407 manifest / 311 spine / 310 NCX / 313 nav list items;
-73 images / 20 WOFF / 18 character cards / 61 glossary cards; next image id-51.
-All previous306 chapters/assets/styles preserved. Four bios appended, no new image/CSS.
-40 substantial blocks across13 types; 69 question marks; one verified speakerphone call.
-Chapter gates pass, including zero internal/cross eight-gram repeats. Browser390/800
-layout passes. No EPUBCheck or all-reader certification.
+Resume from worklog§0; decisions/evidence in `reports/ch308/`. Guest appearance approved,
+discharge completed, delayed System rewards reviewed; Eternal Prime35years, component
+Charm76(raw74), age23international/24Korean. Costume is a preview, all acting tasks and
+forgiveness pending; no Papaya×2 use or guaranteed role. Proposed solo/duet/group section
+moves to before the encore; other travel/stage commitments are not silently resolved.
 
-Evidence and canon decisions: `reports/ch307/`. Resume from worklog §0. Papaya inventory
-is recalled, not acquired or used; Some's written-for-Taeyeon/released-with-IU credits
-are clarified from actual chapters, with old prose untouched. Discharge, concert approval,
-travel changes and reconciliation remain pending in the story.
+Published307baseline: `dd39055039e6986105850e7a25969e1e368545f2`.
+After final archive verification, commit/push normally to the fixed session branch, verify
+remote HEAD and give a commit-pinned EPUB download. Never force-push or change main.
 
-Published306 baseline: `060db57`. Final307 publication requires a normal commit/push to
-`arena/01a09949-rumors-with-taeyoen`, remote HEAD verification and a pinned EPUB download.
-Never force-push or modify main. Final EPUB: **14,014,286 bytes / 410 entries**, SHA-256
-`10643783ec60eb117f919a3b8dd4f6e93e053d62e2da9aa37b91f134115b1ce7`.
+**Final EPUB seal:** 14,668,798 bytes /414entries; SHA-256
+`731decbac4c2a54dfc5703a05e8fda4d17a1a32efda4292a76c122e75a4f154f`. Archive/tree parity414/414; CRC PASS;315XML/312XHTML,
+2,190reference checks, zero structural errors; all96image/font assets decoded.
+All307older chapters and existing assets/styles, prior raw/upload bytes and worklog cycle
+history preserved. Whole-book editorial category counts/exit codes unchanged from307.
 
 **Everything below is the retained chapter-302 recovery baseline.** Statements that
 chapter 303 is pending or that the original archive is unchanged describe recovery time,

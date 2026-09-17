@@ -10,12 +10,12 @@ change old chapters to make audit output green.
 - Run tools from the repository root. Historical `/home/user/...` paths in the worklog
   map to this repository, `/home/user/Rumors_with_Taeyoen/`.
 - `work_epub/` is the complete extracted editable book. Keep all assets and `mimetype`.
-- Chapter 307 is the current production cycle; consult worklog §0/§8 for its final
-  archive seal and `reports/ch307/` for review/verification. Published 306 baseline:
-  commit 060db57. Retain earlier raw versions and recovery/production reports.
-- `raws/ch307_raw.txt` is the current raw-first source. Await a new task/raw for 308.
+- Chapter 308 is the current production cycle; consult worklog §0/§8 for its final
+  archive seal and `reports/ch308/` for review/verification. Published 307 baseline:
+  commit dd39055. Retain earlier raw versions and recovery/production reports.
+- `raws/ch308_raw.txt` is the current raw-first source. Do not overwrite it; await a new task/raw for 309 after publication.
 - Raw-first, Deep Scan + Deep Thinking, contextual style-block maximalism and pre-build
-  question-mark/phone-call audits remain mandatory. Preserve chapters 1–306 and canon.
+  question-mark/phone-call audits remain mandatory. Preserve chapters 1–307 and canon.
 - After producing and verifying each final EPUB, commit and push to the same session
   branch, verify remote HEAD, and provide the GitHub EPUB download link. Never force-push.
 - `build_epub.py` overwrites the root deliverable. Never run it just to inspect the book.

@@ -7,53 +7,109 @@ how to verify any future edit. Read this before touching the tree.
 
 ---
 
-## 0 · Cycle 307 summary (read this first on resume)
+## 0 · Cycle 308 summary (read this first on resume)
 
-**Chapter 307 — How to Win Taeyeon’s Forgiveness — complete; archive verified.** Raw saved FIRST
-in `raws/ch307_raw.txt`; full source/output review and final block/QM/phone scan complete.
-Build prelogged below; final archive seal PASS.
+**Chapter 308 — A Born Idol — complete; archive verified.** Raw-first source preserved in
+`raws/ch308_raw.txt`; complete source/output reread and final missing-block/QM/phone
+review finished. The cycle entry below was recorded BEFORE packaging. Final archive seal PASS.
 
-**Tree:** 307 chapters / 410 payloads / 407 manifest / 311 spine / 310 NCX / 313 nav list
-items; 73 images / 20 WOFF / 18 character cards / 61 glossary cards; next image **id-51**.
-Four bios appended: Ji-ho, Taeyeon, Yoon-a, Tiffany. All 306 prior chapters and existing
-images/fonts/styles preserved; no new outfit or plate.
+**Tree:** 308 chapters / 414 payloads / 411 manifest / 312 spine / 311 NCX / 314 nav li;
+76 images / 20 WOFF / 19 character cards / 61 glossary cards; next image **id-54**.
+Five bios appended (Ji-ho, Taeyeon, Yoon-a, Tiffany, Jessica); new Lee Kang-jun card and
+portrait; two Yoon-a outfit plates. All 307 prior chapters and existing assets/styles unchanged.
+44 substantial blocks / 15 types; 13 question marks; one correct one-sided phone call;
+four uncompleted development quests. No new CSS/fonts. Chapter gates and browser390/800 PASS.
 
-**Continuation:** October 5, 2013, Saturday morning. Ji-ho misses Taeyeon at the elevators
-and returns alone. Tiffany and Yoon-a argue about love, ambition and their standing.
-Tiffany calls on speaker: Taeyeon is in the car returning to the hotel, not all right,
-intends to sleep, abandons a message for him. Yoon-a plans discharge arrangements and
-wants to speak to her first; no completed discharge or conversation yet. Ji-ho asks Fany
-to help arrange a surprise duet for Sunday's Girls & Peace concert, knowing public
-pressure would make refusal difficult. No guest slot, production approval or scheduling
-resolution yet. Another song promised to Fany for late year/next year, not a release date.
-Second step: **Papaya of Fuller Grace ×2**, held since 239; intended for Yoon-a/Taeyeon,
-neither handed over nor consumed. No new award, reconciliation or fund admission.
+**Story:** Saturday Oct5 final-rehearsal day, Singapore. Lee Soo-man approves the guest
+appearance; LOEN PR will cooperate. Discharge completed; direct stadium route postpones
+Yoon-a’s private hotel talk. Jessica accepts Taeyeon’s explanation for returning alone.
+Ji-ho privately reviews the delayed relationship rewards. Born Idol copied; package opened
+for A Scoundrel’s Special Touch; First Love in White acquired but not equipped. Eternal
+Prime now35years, no fabricated intermediate accounting. Charm components total76 (raw74),
+age23 international/24 Korean. All four acting tasks pending; audition still not guaranteed.
+Lee Kang-jun agrees to move the three-song guest section immediately before the encore:
+Eyes, Nose, Lips solo → Some with Taeyeon → Into the New World with the group. No performance,
+forgiveness, papaya use, fund admission or resolution of other travel/stage commitments.
 
-**Canon correction:** the previous SKILL Some shorthand conflicted with the actual book.
-Chapters 100–106/113/148/182/243 establish written for Taeyeon, released/performed with IU.
-That distinction is now accurate in SKILL; no historical chapter changed. Tiffany's early
-feelings use chapter 252's before-she-knew chronology, not a new first-meeting claim.
+**Evidence:** `reports/ch308/` includes raw custody, complete coverage/canon/image decisions,
+chapter gates and browser proof. No EPUBCheck/all-reader/accessibility certification.
+Inherited book-wide editorial flags remain untouched. Baseline307: `dd39055039e6986105850e7a25969e1e368545f2`.
+Work on `arena/01a09949-rumors-with-taeyoen`; after ZIP verification, commit/push normally,
+verify remote HEAD, and provide a commit-pinned EPUB download. Never force-push or edit main.
 
-**Gates:** 40 substantial blocks / 13 types; 69 question marks; one complete speakerphone
-call with correct pc ownership. 3,357 house words / 3,407 body-furniture, max paragraph 31,
-1 em dash, 102/102 quotes. QM hard 0, four temporal/imperative soft flags triaged; repeats
-internal/cross-304–306 0/0. XML/refs/classes/CJK/quotes/CSS PASS. 390/800px browser layout
-PASS; narrow phone/System panels inspected. No EPUBCheck/all-reader certification.
-Evidence in `reports/ch307/`; prior whole-book editorial exceptions remain.
+---
 
-**Standing workflow:** Deep Scan + Deep Thinking; raw first; style-block maximalism even
-for thin contexts; final missing-block/question/phone audit; canon and asset preservation.
-Batch independent work and reuse checks to finish promptly, without skipping review.
-Log before build; commit and push the final verified EPUB to the fixed session branch,
-verify remote HEAD and provide an explicit pinned download link. No force-push/main edit.
-Final EPUB: **14,014,286 bytes / 410 entries**, SHA-256
-`10643783ec60eb117f919a3b8dd4f6e93e053d62e2da9aa37b91f134115b1ce7`.
-Archive/tree parity410/410; CRC PASS; 2,175 references, zero structural errors; all93
-image/font assets decoded. Older editorial findings remain documented, not auto-repaired.
-Baseline **060db570f945c2db7e6d7891374cc17940a38d56** (306). Workspace:
-`/home/user/Rumors_with_Taeyoen`, branch `arena/01a09949-rumors-with-taeyoen`.
+**Final EPUB seal:** 14,668,798 bytes /414entries; SHA-256
+`731decbac4c2a54dfc5703a05e8fda4d17a1a32efda4292a76c122e75a4f154f`. Archive/tree parity414/414; CRC PASS;315XML/312XHTML,
+2,190reference checks, zero structural errors; all96image/font assets decoded.
+All307older chapters and existing assets/styles, prior raw/upload bytes and worklog cycle
+history preserved. Whole-book editorial category counts/exit codes unchanged from307.
 
 ## 8 · Cycle log (Version 3, newest first)
+
+### ch308 — A Born Idol — September 17, 2026 — pre-build entry
+
+**Raw FIRST:** `raws/ch308_raw.txt`, 253 lines, SHA-256
+`8e659fea6eb90498dd06a629c0ebe98c17aaf6f9ec041007aba26a4c0c5c02ef`.
+Source unchanged, including advertisement, wrapping/bracket damage and unclosed ending
+quote. Full source and output scans complete; second read explicitly audits incomplete or
+missing blocks, question placeholders and implementation gaps. No context omitted.
+
+**Content/block coverage:** one-sided Lee Soo-man call → departure wardrobe → guest/PR
+business case → public-confirmation concern/hedge → actual discharge → earlier hotel
+explanation → Yuri’s relayed message/direct stadium routing → all venue specifications →
+private profile/components/professional scores → four full trait/passive cards → acting
+recommendation and four complete pending tasks/reward policy → illness/shared-bed settlement
+and package/outfit/copied trait → capped-Face/Eternal Prime35 → conditional limited costume
+preview → package technique and tasteful self-correction → director’s formal introduction →
+Fany rehearses → 25=22+3 baseline program and no solos → 14th/~80-minute proposal/timing
+lesson → Taeyeon-risk reasoning → pre-encore change → director accepts → three song titles.
+44 blocks/15 types: System11, briefing5, hand-note5, quest4, performance4, dossier3,
+wardrobe2, acting2, memory2, phone/whisper/app/status/lesson/contract1 each. Existing CSS only.
+
+**Canon:** source Charm74 conflicts with unchanged ten components summing76; display an
+explicit component total76 and retain74 in raw/report. DOB1990-05-30 makes age23 on Oct5,
+2013; source24 preserved as Korean age. Eternal Prime194’s20-year initial/+5 per future
+appearance bonus stays canon;308’s35 is a current snapshot, not a newly derived +15 award.
+No trait double-addition; Affinity is not an eleventh Charm component. Stage usefulness
+is not an invented vocal/dance +2; Camera’s Darling’s numerical effect is film/TV only.
+Four development tasks remain pending; previous Cheon Song-yi audition not guaranteed.
+First Love in White: Face+3/Presence+3 when worn; Baeksang/Blue Dragon red carpet alone
+qualifies for Over-the-Shoulder Smile. Preview is not actual wear/activation. Some remains
+written for Taeyeon, released with IU; new performance proposed, not executed. Other
+schedule conflicts, forgiveness, fund admission and Papaya×2 use remain unresolved.
+Raw venue figures retained as fictional narrative, not independent factual certification.
+Intimacy is non-graphic; pride/self-correction intact, without moralizing.
+
+**Images:** three photorealistic generations, including realistic dimensional backgrounds.
+Yoon-a plates use reader `uploads/Yoona_outfit_3.jpg` first and canonical char-yoona second;
+Lee Kang-jun is an original fictional director, not an asserted real-person likeness.
+Installed and visually inspected1120×1400,4:5,JPEGq85 optimized: id-51
+`wd_yoona_white_ribbon.jpg`195149bytes; id-52`wd_yoona_first_love_white.jpg`212740bytes;
+id-53`char-lee-kangjun.jpg`234491bytes. Generation briefs/hashes in308evidence; scratch
+removed. Five additive bios plus new character card; portrait note accurately distinguishes
+new fictional generated art from existing real-artist photos. Glossary reviewed308 (61 cards).
+
+**Pre-package gates:** XML/refs/classes/CJK/curly quotes/CSS PASS. 2914 house words,
+2888 separate itertext/body-furniture tokens; max paragraph27;1emdash;41/41quotes;
+13questionmarks. QM hard0/soft0; one phone header first,3local utterances, no fabricated
+remote speech/chat replies. Internal/cross305–307 eight-gram repeats0/0. 44 complete
+labeled blocks; four quest gates pending. Browser390/800: no overflow/errors, images/fonts
+loaded; selected narrow Charm/quest/wardrobe panels visually inspected. No EPUBCheck,
+all-reader or accessibility/per-glyph certification. Older chapters/assets/styles preserved.
+
+**Build authorization:** logged before the first308build. The prebuild record hashes the
+log, skill, chapter and then-current307EPUB before packaging. Full archive seal now verified below.
+Evidence: `reports/ch308/editorial_review.md`, `prepackage.json`, `images.json`, browser
+and house-gate outputs. Baseline307commit`dd39055039e6986105850e7a25969e1e368545f2`.
+Mandatory next steps: build → full-tree/assets/ZIP parity seal → commit and normal push to
+fixed branch → remote HEAD verification → explicit pinned EPUB download. No force-push.
+
+**Final EPUB seal:** 14,668,798 bytes /414entries; SHA-256
+`731decbac4c2a54dfc5703a05e8fda4d17a1a32efda4292a76c122e75a4f154f`. Archive/tree parity414/414; CRC PASS;315XML/312XHTML,
+2,190reference checks, zero structural errors; all96image/font assets decoded.
+All307older chapters and existing assets/styles, prior raw/upload bytes and worklog cycle
+history preserved. Whole-book editorial category counts/exit codes unchanged from307.
 
 ### ch307 — How to Win Taeyeon’s Forgiveness — September 17, 2026 — pre-build entry
 

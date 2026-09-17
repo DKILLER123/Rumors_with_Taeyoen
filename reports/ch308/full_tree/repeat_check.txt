@@ -1,0 +1,1245 @@
+== ch001.xhtml · 1444 words · scope: characters.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch002.xhtml · 934 words · scope: ch001.xhtml, characters.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch003.xhtml · 1097 words · scope: ch001.xhtml, ch002.xhtml, characters.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch004.xhtml · 1320 words · scope: ch001.xhtml, ch002.xhtml, ch003.xhtml
+  internal repeats: 0
+  vs ch001.xhtml: leeding ove eona ewis losed off from love
+  vs ch001.xhtml: ove eona ewis losed off from love didn’t
+  vs ch001.xhtml: eona ewis losed off from love didn’t need
+  vs ch001.xhtml: ewis losed off from love didn’t need the
+  vs ch001.xhtml: losed off from love didn’t need the pain
+  vs ch001.xhtml: off from love didn’t need the pain nce
+  cross-chapter 8-grams: 20
+== ch005.xhtml · 1273 words · scope: ch002.xhtml, ch003.xhtml, ch004.xhtml
+  internal repeats: 0
+  vs ch002.xhtml: ooks hysique oice resence xperience ocial onfidence earning
+  vs ch002.xhtml: hysique oice resence xperience ocial onfidence earning ealth
+  vs ch002.xhtml: oice resence xperience ocial onfidence earning ealth ame
+  cross-chapter 8-grams: 3
+== ch006.xhtml · 1089 words · scope: ch003.xhtml, ch004.xhtml, ch005.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch007.xhtml · 969 words · scope: ch004.xhtml, ch005.xhtml, ch006.xhtml
+  INTERNAL repeats: 8
+    x3: ongest training time today h m our training
+    x3: training time today h m our training time
+    x3: time today h m our training time h
+    x3: today h m our training time h m
+    x3: h m our training time h m treak
+    x3: m our training time h m treak days
+  cross-chapter 8-grams: 0
+== ch008.xhtml · 1031 words · scope: ch005.xhtml, ch006.xhtml, ch007.xhtml
+  INTERNAL repeats: 8
+    x2: uest racker ongest training time today h m
+    x2: racker ongest training time today h m our
+    x2: ongest training time today h m our training
+    x2: training time today h m our training time
+    x2: time today h m our training time h
+    x2: today h m our training time h m
+  vs ch007.xhtml: uest racker ongest training time today h m
+  vs ch007.xhtml: racker ongest training time today h m our
+  vs ch007.xhtml: ongest training time today h m our training
+  vs ch007.xhtml: training time today h m our training time
+  vs ch007.xhtml: time today h m our training time h
+  vs ch007.xhtml: today h m our training time h m
+  cross-chapter 8-grams: 8
+== ch009.xhtml · 1064 words · scope: ch006.xhtml, ch007.xhtml, ch008.xhtml
+  internal repeats: 0
+  vs ch007.xhtml: he more complete the look the stronger the
+  vs ch007.xhtml: more complete the look the stronger the effect
+  cross-chapter 8-grams: 2
+== ch010.xhtml · 1088 words · scope: ch007.xhtml, ch008.xhtml, ch009.xhtml
+  internal repeats: 0
+  vs ch007.xhtml: ongest training time today h m our training
+  vs ch007.xhtml: training time today h m our training time
+  vs ch007.xhtml: time today h m our training time h
+  vs ch007.xhtml: today h m our training time h m
+  vs ch007.xhtml: h m our training time h m treak
+  vs ch008.xhtml: ongest training time today h m our training
+  vs ch008.xhtml: training time today h m our training time
+  vs ch008.xhtml: time today h m our training time h
+  vs ch008.xhtml: today h m our training time h m
+  vs ch008.xhtml: h m our training time h m treak
+  cross-chapter 8-grams: 10
+== ch011.xhtml · 981 words · scope: ch008.xhtml, ch009.xhtml, ch010.xhtml
+  INTERNAL repeats: 4
+    x2: harm ooks hysique oice resence xperience ocial onfidence
+    x2: ooks hysique oice resence xperience ocial onfidence earning
+    x2: hysique oice resence xperience ocial onfidence earning ealth
+    x2: oice resence xperience ocial onfidence earning ealth ame
+  cross-chapter 8-grams: 0
+== ch012.xhtml · 1049 words · scope: ch009.xhtml, ch010.xhtml, ch011.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch013.xhtml · 1030 words · scope: ch010.xhtml, ch011.xhtml, ch012.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch014.xhtml · 1235 words · scope: ch011.xhtml, ch012.xhtml, ch013.xhtml
+  INTERNAL repeats: 6
+    x2: very shing a ling a ling that they’re
+    x2: shing a ling a ling that they’re starting
+    x2: a ling a ling that they’re starting to
+    x2: ling a ling that they’re starting to sing’s
+    x2: a ling that they’re starting to sing’s so
+    x2: ling that they’re starting to sing’s so fine
+  cross-chapter 8-grams: 0
+== ch015.xhtml · 1191 words · scope: ch012.xhtml, ch013.xhtml, ch014.xhtml
+  internal repeats: 0
+  vs ch013.xhtml: dream is a lighthouse it doesn’t row the
+  vs ch013.xhtml: is a lighthouse it doesn’t row the boat
+  vs ch013.xhtml: a lighthouse it doesn’t row the boat for
+  vs ch013.xhtml: lighthouse it doesn’t row the boat for you
+  cross-chapter 8-grams: 4
+== ch016.xhtml · 1251 words · scope: ch013.xhtml, ch014.xhtml, ch015.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch017.xhtml · 923 words · scope: ch014.xhtml, ch015.xhtml, ch016.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch018.xhtml · 1047 words · scope: ch015.xhtml, ch016.xhtml, ch017.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch019.xhtml · 966 words · scope: ch016.xhtml, ch017.xhtml, ch018.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch020.xhtml · 999 words · scope: ch017.xhtml, ch018.xhtml, ch019.xhtml
+  internal repeats: 0
+  vs ch019.xhtml: friendship’s optimal opening move pressure free goodwill with
+  vs ch019.xhtml: optimal opening move pressure free goodwill with a
+  vs ch019.xhtml: opening move pressure free goodwill with a built
+  vs ch019.xhtml: move pressure free goodwill with a built in
+  vs ch019.xhtml: pressure free goodwill with a built in next
+  vs ch019.xhtml: free goodwill with a built in next round
+  cross-chapter 8-grams: 6
+== ch021.xhtml · 1131 words · scope: ch018.xhtml, ch019.xhtml, ch020.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch022.xhtml · 965 words · scope: ch019.xhtml, ch020.xhtml, ch021.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch023.xhtml · 1161 words · scope: ch020.xhtml, ch021.xhtml, ch022.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch024.xhtml · 1209 words · scope: ch021.xhtml, ch022.xhtml, ch023.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch025.xhtml · 1074 words · scope: ch022.xhtml, ch023.xhtml, ch024.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch026.xhtml · 1334 words · scope: ch023.xhtml, ch024.xhtml, ch025.xhtml
+  INTERNAL repeats: 5
+    x2: ho marries a woman with depression he’s the
+    x2: marries a woman with depression he’s the sick
+    x2: a woman with depression he’s the sick one
+    x2: woman with depression he’s the sick one not
+    x2: with depression he’s the sick one not me
+  vs ch025.xhtml: er dad divorced out when she was seven
+  vs ch025.xhtml: dad divorced out when she was seven gone
+  vs ch025.xhtml: divorced out when she was seven gone vanished
+  vs ch025.xhtml: out when she was seven gone vanished er
+  vs ch025.xhtml: when she was seven gone vanished er mother
+  vs ch025.xhtml: she was seven gone vanished er mother shipped
+  cross-chapter 8-grams: 24
+== ch027.xhtml · 1044 words · scope: ch024.xhtml, ch025.xhtml, ch026.xhtml
+  internal repeats: 0
+  vs ch025.xhtml: hoi hyung if it’s really ulli can’t hand
+  vs ch025.xhtml: hyung if it’s really ulli can’t hand this
+  vs ch025.xhtml: if it’s really ulli can’t hand this over
+  vs ch025.xhtml: it’s really ulli can’t hand this over he’s
+  vs ch025.xhtml: really ulli can’t hand this over he’s not
+  vs ch025.xhtml: ulli can’t hand this over he’s not some
+  cross-chapter 8-grams: 66
+== ch028.xhtml · 1131 words · scope: ch025.xhtml, ch026.xhtml, ch027.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch029.xhtml · 1333 words · scope: ch026.xhtml, ch027.xhtml, ch028.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch030.xhtml · 1988 words · scope: ch027.xhtml, ch028.xhtml, ch029.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch031.xhtml · 1083 words · scope: ch028.xhtml, ch029.xhtml, ch030.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch032.xhtml · 1032 words · scope: ch029.xhtml, ch030.xhtml, ch031.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch033.xhtml · 1121 words · scope: ch030.xhtml, ch031.xhtml, ch032.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch034.xhtml · 906 words · scope: ch031.xhtml, ch032.xhtml, ch033.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch035.xhtml · 1811 words · scope: ch032.xhtml, ch033.xhtml, ch034.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch036.xhtml · 2101 words · scope: ch033.xhtml, ch034.xhtml, ch035.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch037.xhtml · 934 words · scope: ch034.xhtml, ch035.xhtml, ch036.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch038.xhtml · 982 words · scope: ch035.xhtml, ch036.xhtml, ch037.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch039.xhtml · 1957 words · scope: ch036.xhtml, ch037.xhtml, ch038.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch040.xhtml · 1171 words · scope: ch037.xhtml, ch038.xhtml, ch039.xhtml
+  internal repeats: 0
+  vs ch039.xhtml: ome people don’t leave because you weren’t good
+  vs ch039.xhtml: people don’t leave because you weren’t good enough
+  vs ch039.xhtml: don’t leave because you weren’t good enough hey
+  vs ch039.xhtml: leave because you weren’t good enough hey leave
+  vs ch039.xhtml: because you weren’t good enough hey leave because
+  vs ch039.xhtml: you weren’t good enough hey leave because they
+  cross-chapter 8-grams: 6
+== ch041.xhtml · 1005 words · scope: ch038.xhtml, ch039.xhtml, ch040.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch042.xhtml · 948 words · scope: ch039.xhtml, ch040.xhtml, ch041.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch043.xhtml · 1141 words · scope: ch040.xhtml, ch041.xhtml, ch042.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch044.xhtml · 884 words · scope: ch041.xhtml, ch042.xhtml, ch043.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch045.xhtml · 1045 words · scope: ch042.xhtml, ch043.xhtml, ch044.xhtml
+  internal repeats: 0
+  vs ch043.xhtml: little harmless closeness offered and accepted compounds faster
+  vs ch043.xhtml: harmless closeness offered and accepted compounds faster than
+  vs ch043.xhtml: closeness offered and accepted compounds faster than any
+  vs ch043.xhtml: offered and accepted compounds faster than any interest
+  vs ch043.xhtml: and accepted compounds faster than any interest rate
+  cross-chapter 8-grams: 5
+== ch046.xhtml · 1282 words · scope: ch043.xhtml, ch044.xhtml, ch045.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch047.xhtml · 825 words · scope: ch044.xhtml, ch045.xhtml, ch046.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch048.xhtml · 1344 words · scope: ch045.xhtml, ch046.xhtml, ch047.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch049.xhtml · 1070 words · scope: ch046.xhtml, ch047.xhtml, ch048.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch050.xhtml · 1204 words · scope: ch047.xhtml, ch048.xhtml, ch049.xhtml
+  INTERNAL repeats: 1
+    x2: hen ’ve seen the thing want don’t hesitate
+  cross-chapter 8-grams: 0
+== ch051.xhtml · 1052 words · scope: ch048.xhtml, ch049.xhtml, ch050.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch052.xhtml · 845 words · scope: ch049.xhtml, ch050.xhtml, ch051.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch053.xhtml · 924 words · scope: ch050.xhtml, ch051.xhtml, ch052.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch054.xhtml · 1146 words · scope: ch051.xhtml, ch052.xhtml, ch053.xhtml
+  internal repeats: 0
+  vs ch053.xhtml: at the world shine like the brightest star
+  cross-chapter 8-grams: 1
+== ch055.xhtml · 1021 words · scope: ch052.xhtml, ch053.xhtml, ch054.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch056.xhtml · 1401 words · scope: ch053.xhtml, ch054.xhtml, ch055.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch057.xhtml · 1070 words · scope: ch054.xhtml, ch055.xhtml, ch056.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch058.xhtml · 1075 words · scope: ch055.xhtml, ch056.xhtml, ch057.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch059.xhtml · 1142 words · scope: ch056.xhtml, ch057.xhtml, ch058.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch060.xhtml · 1107 words · scope: ch057.xhtml, ch058.xhtml, ch059.xhtml
+  internal repeats: 0
+  vs ch057.xhtml: at and everyone who debuts wants to leave
+  cross-chapter 8-grams: 1
+== ch061.xhtml · 1057 words · scope: ch058.xhtml, ch059.xhtml, ch060.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch062.xhtml · 1110 words · scope: ch059.xhtml, ch060.xhtml, ch061.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch063.xhtml · 982 words · scope: ch060.xhtml, ch061.xhtml, ch062.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch064.xhtml · 1059 words · scope: ch061.xhtml, ch062.xhtml, ch063.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch065.xhtml · 1164 words · scope: ch062.xhtml, ch063.xhtml, ch064.xhtml
+  internal repeats: 0
+  vs ch063.xhtml: spare arrangement was the unspoken distance between two
+  vs ch063.xhtml: arrangement was the unspoken distance between two people
+  vs ch063.xhtml: was the unspoken distance between two people the
+  vs ch063.xhtml: the unspoken distance between two people the level
+  vs ch063.xhtml: unspoken distance between two people the level tempo
+  cross-chapter 8-grams: 5
+== ch066.xhtml · 983 words · scope: ch063.xhtml, ch064.xhtml, ch065.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch067.xhtml · 1124 words · scope: ch064.xhtml, ch065.xhtml, ch066.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch068.xhtml · 1091 words · scope: ch065.xhtml, ch066.xhtml, ch067.xhtml
+  INTERNAL repeats: 3
+    x2: i ho una guess what was just doing
+    x2: ho una guess what was just doing ou’ll
+    x2: una guess what was just doing ou’ll guess
+  cross-chapter 8-grams: 0
+== ch069.xhtml · 983 words · scope: ch066.xhtml, ch067.xhtml, ch068.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch070.xhtml · 1075 words · scope: ch067.xhtml, ch068.xhtml, ch069.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch071.xhtml · 1077 words · scope: ch068.xhtml, ch069.xhtml, ch070.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch072.xhtml · 939 words · scope: ch069.xhtml, ch070.xhtml, ch071.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch073.xhtml · 1006 words · scope: ch070.xhtml, ch071.xhtml, ch072.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch074.xhtml · 890 words · scope: ch071.xhtml, ch072.xhtml, ch073.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch075.xhtml · 1131 words · scope: ch072.xhtml, ch073.xhtml, ch074.xhtml
+  INTERNAL repeats: 6
+    x2: amily can be the deepest happiness a person
+    x2: can be the deepest happiness a person owns
+    x2: be the deepest happiness a person owns or
+    x2: the deepest happiness a person owns or the
+    x2: deepest happiness a person owns or the deepest
+    x2: happiness a person owns or the deepest wound
+  cross-chapter 8-grams: 0
+== ch076.xhtml · 1164 words · scope: ch073.xhtml, ch074.xhtml, ch075.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch077.xhtml · 1142 words · scope: ch074.xhtml, ch075.xhtml, ch076.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch078.xhtml · 1113 words · scope: ch075.xhtml, ch076.xhtml, ch077.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch079.xhtml · 980 words · scope: ch076.xhtml, ch077.xhtml, ch078.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch080.xhtml · 1135 words · scope: ch077.xhtml, ch078.xhtml, ch079.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch081.xhtml · 920 words · scope: ch078.xhtml, ch079.xhtml, ch080.xhtml
+  internal repeats: 0
+  vs ch080.xhtml: and brought her palm down on the table
+  cross-chapter 8-grams: 1
+== ch082.xhtml · 1088 words · scope: ch079.xhtml, ch080.xhtml, ch081.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch083.xhtml · 1236 words · scope: ch080.xhtml, ch081.xhtml, ch082.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch084.xhtml · 989 words · scope: ch081.xhtml, ch082.xhtml, ch083.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch085.xhtml · 1166 words · scope: ch082.xhtml, ch083.xhtml, ch084.xhtml
+  internal repeats: 0
+  vs ch082.xhtml: efore loving anyone else a person has to
+  vs ch082.xhtml: loving anyone else a person has to learn
+  vs ch082.xhtml: anyone else a person has to learn to
+  vs ch082.xhtml: else a person has to learn to love
+  vs ch082.xhtml: a person has to learn to love herself
+  cross-chapter 8-grams: 5
+== ch086.xhtml · 1257 words · scope: ch083.xhtml, ch084.xhtml, ch085.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch087.xhtml · 1314 words · scope: ch084.xhtml, ch085.xhtml, ch086.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch088.xhtml · 1180 words · scope: ch085.xhtml, ch086.xhtml, ch087.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch089.xhtml · 1264 words · scope: ch086.xhtml, ch087.xhtml, ch088.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch090.xhtml · 1290 words · scope: ch087.xhtml, ch088.xhtml, ch089.xhtml
+  internal repeats: 0
+  vs ch087.xhtml: f the person who created it won’t defend
+  vs ch087.xhtml: the person who created it won’t defend its
+  vs ch087.xhtml: person who created it won’t defend its basic
+  vs ch087.xhtml: who created it won’t defend its basic worth
+  vs ch087.xhtml: created it won’t defend its basic worth then
+  vs ch087.xhtml: it won’t defend its basic worth then whatever
+  cross-chapter 8-grams: 20
+== ch091.xhtml · 2296 words · scope: ch088.xhtml, ch089.xhtml, ch090.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch092.xhtml · 2106 words · scope: ch089.xhtml, ch090.xhtml, ch091.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch093.xhtml · 3100 words · scope: ch090.xhtml, ch091.xhtml, ch092.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch094.xhtml · 2504 words · scope: ch091.xhtml, ch092.xhtml, ch093.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch095.xhtml · 1313 words · scope: ch092.xhtml, ch093.xhtml, ch094.xhtml
+  internal repeats: 0
+  vs ch094.xhtml: a woman the rarest thing on the market
+  vs ch094.xhtml: woman the rarest thing on the market safety
+  vs ch094.xhtml: the rarest thing on the market safety nd
+  vs ch094.xhtml: rarest thing on the market safety nd safety
+  vs ch094.xhtml: thing on the market safety nd safety once
+  vs ch094.xhtml: on the market safety nd safety once felt
+  cross-chapter 8-grams: 6
+== ch096.xhtml · 3044 words · scope: ch093.xhtml, ch094.xhtml, ch095.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch097.xhtml · 2467 words · scope: ch094.xhtml, ch095.xhtml, ch096.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch098.xhtml · 1801 words · scope: ch095.xhtml, ch096.xhtml, ch097.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch099.xhtml · 1595 words · scope: ch096.xhtml, ch097.xhtml, ch098.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch100.xhtml · 3365 words · scope: ch097.xhtml, ch098.xhtml, ch099.xhtml
+  INTERNAL repeats: 7
+    x2: he fans get flawless aeyeon and the ordinary
+    x2: fans get flawless aeyeon and the ordinary human
+    x2: get flawless aeyeon and the ordinary human being
+    x2: flawless aeyeon and the ordinary human being gritting
+    x2: aeyeon and the ordinary human being gritting her
+    x2: and the ordinary human being gritting her teeth
+  cross-chapter 8-grams: 0
+== ch101.xhtml · 2097 words · scope: ch098.xhtml, ch099.xhtml, ch100.xhtml
+  INTERNAL repeats: 5
+    x2: writing or arranging at no less than quality
+    x2: or arranging at no less than quality no
+    x2: arranging at no less than quality no lower
+    x2: at no less than quality no lower than
+    x2: no less than quality no lower than xcellent
+  cross-chapter 8-grams: 0
+== ch102.xhtml · 1875 words · scope: ch099.xhtml, ch100.xhtml, ch101.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch103.xhtml · 1935 words · scope: ch100.xhtml, ch101.xhtml, ch102.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch104.xhtml · 1111 words · scope: ch101.xhtml, ch102.xhtml, ch103.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch105.xhtml · 1094 words · scope: ch102.xhtml, ch103.xhtml, ch104.xhtml
+  INTERNAL repeats: 3
+    x2: here a company succeeds is precisely where it
+    x2: a company succeeds is precisely where it will
+    x2: company succeeds is precisely where it will fail
+  cross-chapter 8-grams: 0
+== ch106.xhtml · 3354 words · scope: ch103.xhtml, ch104.xhtml, ch105.xhtml
+  INTERNAL repeats: 2
+    x2: the producer who sat with me through every
+    x2: producer who sat with me through every take
+  vs ch105.xhtml: the restlessness that comes and goes while the
+  vs ch105.xhtml: restlessness that comes and goes while the feeling
+  vs ch105.xhtml: that comes and goes while the feeling underneath
+  vs ch105.xhtml: comes and goes while the feeling underneath refuses
+  vs ch105.xhtml: and goes while the feeling underneath refuses to
+  vs ch105.xhtml: goes while the feeling underneath refuses to move
+  cross-chapter 8-grams: 6
+== ch107.xhtml · 1205 words · scope: ch104.xhtml, ch105.xhtml, ch106.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch108.xhtml · 936 words · scope: ch105.xhtml, ch106.xhtml, ch107.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch109.xhtml · 1446 words · scope: ch106.xhtml, ch107.xhtml, ch108.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch110.xhtml · 1269 words · scope: ch107.xhtml, ch108.xhtml, ch109.xhtml
+  INTERNAL repeats: 5
+    x2: knew more than almost anyone e could do
+    x2: more than almost anyone e could do less
+    x2: than almost anyone e could do less than
+    x2: almost anyone e could do less than nearly
+    x2: anyone e could do less than nearly everyone
+  cross-chapter 8-grams: 0
+== ch111.xhtml · 1504 words · scope: ch108.xhtml, ch109.xhtml, ch110.xhtml
+  internal repeats: 0
+  vs ch109.xhtml: a teacher helped me and shared her own
+  vs ch109.xhtml: teacher helped me and shared her own story
+  cross-chapter 8-grams: 2
+== ch112.xhtml · 854 words · scope: ch109.xhtml, ch110.xhtml, ch111.xhtml
+  INTERNAL repeats: 6
+    x2: knowledge studied is branded into deep memory retained
+    x2: studied is branded into deep memory retained without
+    x2: is branded into deep memory retained without decay
+    x2: branded into deep memory retained without decay for
+    x2: into deep memory retained without decay for twenty
+    x2: deep memory retained without decay for twenty years
+  cross-chapter 8-grams: 0
+== ch113.xhtml · 2779 words · scope: ch110.xhtml, ch111.xhtml, ch112.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch114.xhtml · 2391 words · scope: ch111.xhtml, ch112.xhtml, ch113.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch115.xhtml · 1697 words · scope: ch112.xhtml, ch113.xhtml, ch114.xhtml
+  INTERNAL repeats: 12
+    x2: lights the road ahead and fire burns the
+    x2: the road ahead and fire burns the man
+    x2: road ahead and fire burns the man carrying
+    x2: ahead and fire burns the man carrying it
+    x2: and fire burns the man carrying it hich
+    x2: fire burns the man carrying it hich one
+  cross-chapter 8-grams: 0
+== ch116.xhtml · 1908 words · scope: ch113.xhtml, ch114.xhtml, ch115.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch117.xhtml · 2547 words · scope: ch114.xhtml, ch115.xhtml, ch116.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch118.xhtml · 1417 words · scope: ch115.xhtml, ch116.xhtml, ch117.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch119.xhtml · 1436 words · scope: ch116.xhtml, ch117.xhtml, ch118.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch120.xhtml · 1950 words · scope: ch117.xhtml, ch118.xhtml, ch119.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch121.xhtml · 1836 words · scope: ch118.xhtml, ch119.xhtml, ch120.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch122.xhtml · 2600 words · scope: ch119.xhtml, ch120.xhtml, ch121.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch123.xhtml · 1522 words · scope: ch120.xhtml, ch121.xhtml, ch122.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch124.xhtml · 1919 words · scope: ch121.xhtml, ch122.xhtml, ch123.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch125.xhtml · 980 words · scope: ch122.xhtml, ch123.xhtml, ch124.xhtml
+  internal repeats: 0
+  vs ch122.xhtml: extended hand would not be a hand t
+  vs ch122.xhtml: hand would not be a hand t would
+  vs ch122.xhtml: would not be a hand t would be
+  vs ch122.xhtml: not be a hand t would be a
+  vs ch122.xhtml: be a hand t would be a rope
+  cross-chapter 8-grams: 5
+== ch126.xhtml · 1369 words · scope: ch123.xhtml, ch124.xhtml, ch125.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch127.xhtml · 1870 words · scope: ch124.xhtml, ch125.xhtml, ch126.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch128.xhtml · 2007 words · scope: ch125.xhtml, ch126.xhtml, ch127.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch129.xhtml · 1909 words · scope: ch126.xhtml, ch127.xhtml, ch128.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch130.xhtml · 1185 words · scope: ch127.xhtml, ch128.xhtml, ch129.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch131.xhtml · 1256 words · scope: ch128.xhtml, ch129.xhtml, ch130.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch132.xhtml · 1753 words · scope: ch129.xhtml, ch130.xhtml, ch131.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch133.xhtml · 1707 words · scope: ch130.xhtml, ch131.xhtml, ch132.xhtml
+  INTERNAL repeats: 2
+    x2: as long as the face holds the kingdom
+    x2: long as the face holds the kingdom holds
+  cross-chapter 8-grams: 0
+== ch134.xhtml · 1773 words · scope: ch131.xhtml, ch132.xhtml, ch133.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch135.xhtml · 1475 words · scope: ch132.xhtml, ch133.xhtml, ch134.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch136.xhtml · 1562 words · scope: ch133.xhtml, ch134.xhtml, ch135.xhtml
+  internal repeats: 0
+  vs ch133.xhtml: as long as the face holds the kingdom
+  vs ch133.xhtml: long as the face holds the kingdom holds
+  cross-chapter 8-grams: 2
+== ch137.xhtml · 1962 words · scope: ch134.xhtml, ch135.xhtml, ch136.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch138.xhtml · 1842 words · scope: ch135.xhtml, ch136.xhtml, ch137.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch139.xhtml · 1481 words · scope: ch136.xhtml, ch137.xhtml, ch138.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch140.xhtml · 1274 words · scope: ch137.xhtml, ch138.xhtml, ch139.xhtml
+  INTERNAL repeats: 11
+    x3: album lease direct your attention to vocalist i
+    x3: lease direct your attention to vocalist i ho’s
+    x3: direct your attention to vocalist i ho’s first
+    x3: your attention to vocalist i ho’s first full
+    x3: attention to vocalist i ho’s first full album
+    x2: to vocalist i ho’s first full album lease
+  cross-chapter 8-grams: 0
+== ch141.xhtml · 3635 words · scope: ch138.xhtml, ch139.xhtml, ch140.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch142.xhtml · 1879 words · scope: ch139.xhtml, ch140.xhtml, ch141.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch143.xhtml · 3069 words · scope: ch140.xhtml, ch141.xhtml, ch142.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch144.xhtml · 3941 words · scope: ch141.xhtml, ch142.xhtml, ch143.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch145.xhtml · 1739 words · scope: ch142.xhtml, ch143.xhtml, ch144.xhtml
+  INTERNAL repeats: 2
+    x2: ou are our morning sun light up the
+    x2: are our morning sun light up the world
+  vs ch143.xhtml: ou are our morning sun light up the
+  vs ch143.xhtml: are our morning sun light up the world
+  vs ch144.xhtml: n a handwritten letter we pawn a small
+  vs ch144.xhtml: a handwritten letter we pawn a small piece
+  vs ch144.xhtml: handwritten letter we pawn a small piece of
+  vs ch144.xhtml: letter we pawn a small piece of our
+  vs ch144.xhtml: we pawn a small piece of our life
+  vs ch144.xhtml: pawn a small piece of our life to
+  cross-chapter 8-grams: 9
+== ch146.xhtml · 2241 words · scope: ch143.xhtml, ch144.xhtml, ch145.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch147.xhtml · 1259 words · scope: ch144.xhtml, ch145.xhtml, ch146.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch148.xhtml · 2330 words · scope: ch145.xhtml, ch146.xhtml, ch147.xhtml
+  INTERNAL repeats: 14
+    x2: nyone who can be a good friend to
+    x2: who can be a good friend to the
+    x2: can be a good friend to the two
+    x2: be a good friend to the two of
+    x2: a good friend to the two of you
+    x2: good friend to the two of you isn’t
+  cross-chapter 8-grams: 0
+== ch149.xhtml · 3524 words · scope: ch146.xhtml, ch147.xhtml, ch148.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch150.xhtml · 1387 words · scope: ch147.xhtml, ch148.xhtml, ch149.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch151.xhtml · 2494 words · scope: ch148.xhtml, ch149.xhtml, ch150.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch152.xhtml · 3098 words · scope: ch149.xhtml, ch150.xhtml, ch151.xhtml
+  INTERNAL repeats: 1
+    x2: amsung’s ee ae yong ’s hey ae won
+  cross-chapter 8-grams: 0
+== ch153.xhtml · 1977 words · scope: ch150.xhtml, ch151.xhtml, ch152.xhtml
+  internal repeats: 0
+  vs ch152.xhtml: spend my life as a performer who smiles
+  vs ch152.xhtml: my life as a performer who smiles for
+  vs ch152.xhtml: life as a performer who smiles for a
+  vs ch152.xhtml: as a performer who smiles for a living
+  cross-chapter 8-grams: 4
+== ch154.xhtml · 1803 words · scope: ch151.xhtml, ch152.xhtml, ch153.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch155.xhtml · 1081 words · scope: ch152.xhtml, ch153.xhtml, ch154.xhtml
+  INTERNAL repeats: 4
+    x2: ometimes the greatest luck a person gets is
+    x2: the greatest luck a person gets is being
+    x2: greatest luck a person gets is being turned
+    x2: luck a person gets is being turned away
+  cross-chapter 8-grams: 0
+== ch156.xhtml · 1968 words · scope: ch153.xhtml, ch154.xhtml, ch155.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch157.xhtml · 1641 words · scope: ch154.xhtml, ch155.xhtml, ch156.xhtml
+  internal repeats: 0
+  vs ch154.xhtml: man saves a cat the cat returns as
+  vs ch154.xhtml: saves a cat the cat returns as a
+  vs ch154.xhtml: a cat the cat returns as a girl
+  vs ch154.xhtml: they fall in love ut a cat’s years
+  vs ch154.xhtml: fall in love ut a cat’s years are
+  cross-chapter 8-grams: 5
+== ch158.xhtml · 824 words · scope: ch155.xhtml, ch156.xhtml, ch157.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch159.xhtml · 1719 words · scope: ch156.xhtml, ch157.xhtml, ch158.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch160.xhtml · 1214 words · scope: ch157.xhtml, ch158.xhtml, ch159.xhtml
+  internal repeats: 0
+  vs ch159.xhtml: e measure love with clocks and call it
+  vs ch159.xhtml: measure love with clocks and call it fast
+  vs ch159.xhtml: love with clocks and call it fast or
+  vs ch159.xhtml: with clocks and call it fast or slow
+  vs ch159.xhtml: clocks and call it fast or slow but
+  vs ch159.xhtml: and call it fast or slow but when
+  cross-chapter 8-grams: 20
+== ch161.xhtml · 1292 words · scope: ch158.xhtml, ch159.xhtml, ch160.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch162.xhtml · 889 words · scope: ch159.xhtml, ch160.xhtml, ch161.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch163.xhtml · 1618 words · scope: ch160.xhtml, ch161.xhtml, ch162.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch164.xhtml · 2361 words · scope: ch161.xhtml, ch162.xhtml, ch163.xhtml
+  INTERNAL repeats: 2
+    x2: hoi eung ah zero shared frames with the
+    x2: eung ah zero shared frames with the lead
+  cross-chapter 8-grams: 0
+== ch165.xhtml · 1367 words · scope: ch162.xhtml, ch163.xhtml, ch164.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch166.xhtml · 1065 words · scope: ch163.xhtml, ch164.xhtml, ch165.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch167.xhtml · 2586 words · scope: ch164.xhtml, ch165.xhtml, ch166.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch168.xhtml · 3274 words · scope: ch165.xhtml, ch166.xhtml, ch167.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch169.xhtml · 2255 words · scope: ch166.xhtml, ch167.xhtml, ch168.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch170.xhtml · 2321 words · scope: ch167.xhtml, ch168.xhtml, ch169.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch171.xhtml · 3693 words · scope: ch168.xhtml, ch169.xhtml, ch170.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch172.xhtml · 2872 words · scope: ch169.xhtml, ch170.xhtml, ch171.xhtml
+  INTERNAL repeats: 1
+    x2: i ho fighting he irl in the un
+  cross-chapter 8-grams: 0
+== ch173.xhtml · 1542 words · scope: ch170.xhtml, ch171.xhtml, ch172.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch174.xhtml · 3050 words · scope: ch171.xhtml, ch172.xhtml, ch173.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch175.xhtml · 4302 words · scope: ch172.xhtml, ch173.xhtml, ch174.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch176.xhtml · 2667 words · scope: ch173.xhtml, ch174.xhtml, ch175.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch177.xhtml · 2612 words · scope: ch174.xhtml, ch175.xhtml, ch176.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch178.xhtml · 3491 words · scope: ch175.xhtml, ch176.xhtml, ch177.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch179.xhtml · 2380 words · scope: ch176.xhtml, ch177.xhtml, ch178.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch180.xhtml · 2162 words · scope: ch177.xhtml, ch178.xhtml, ch179.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch181.xhtml · 1155 words · scope: ch178.xhtml, ch179.xhtml, ch180.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch182.xhtml · 2132 words · scope: ch179.xhtml, ch180.xhtml, ch181.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch183.xhtml · 1892 words · scope: ch180.xhtml, ch181.xhtml, ch182.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch184.xhtml · 2424 words · scope: ch181.xhtml, ch182.xhtml, ch183.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch185.xhtml · 2082 words · scope: ch182.xhtml, ch183.xhtml, ch184.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch186.xhtml · 1783 words · scope: ch183.xhtml, ch184.xhtml, ch185.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch187.xhtml · 2257 words · scope: ch184.xhtml, ch185.xhtml, ch186.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch188.xhtml · 1980 words · scope: ch185.xhtml, ch186.xhtml, ch187.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch189.xhtml · 3083 words · scope: ch186.xhtml, ch187.xhtml, ch188.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch190.xhtml · 2093 words · scope: ch187.xhtml, ch188.xhtml, ch189.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch191.xhtml · 1673 words · scope: ch188.xhtml, ch189.xhtml, ch190.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch192.xhtml · 2112 words · scope: ch189.xhtml, ch190.xhtml, ch191.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch193.xhtml · 1559 words · scope: ch190.xhtml, ch191.xhtml, ch192.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch194.xhtml · 2264 words · scope: ch191.xhtml, ch192.xhtml, ch193.xhtml
+  INTERNAL repeats: 2
+    x2: ace hysique oice resence xperience ommunication onfidence earning
+    x2: hysique oice resence xperience ommunication onfidence earning ealth
+  cross-chapter 8-grams: 0
+== ch195.xhtml · 2936 words · scope: ch192.xhtml, ch193.xhtml, ch194.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch196.xhtml · 3385 words · scope: ch193.xhtml, ch194.xhtml, ch195.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch197.xhtml · 3386 words · scope: ch194.xhtml, ch195.xhtml, ch196.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch198.xhtml · 2286 words · scope: ch195.xhtml, ch196.xhtml, ch197.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch199.xhtml · 3333 words · scope: ch196.xhtml, ch197.xhtml, ch198.xhtml
+  INTERNAL repeats: 2
+    x2: that out of tune piano in the ongdae
+    x2: out of tune piano in the ongdae bar
+  cross-chapter 8-grams: 0
+== ch200.xhtml · 2819 words · scope: ch197.xhtml, ch198.xhtml, ch199.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch201.xhtml · 1999 words · scope: ch198.xhtml, ch199.xhtml, ch200.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch202.xhtml · 1268 words · scope: ch199.xhtml, ch200.xhtml, ch201.xhtml
+  internal repeats: 0
+  vs ch201.xhtml: he rose on her toes and kissed him
+  cross-chapter 8-grams: 1
+== ch203.xhtml · 2905 words · scope: ch200.xhtml, ch201.xhtml, ch202.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch204.xhtml · 2934 words · scope: ch201.xhtml, ch202.xhtml, ch203.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch205.xhtml · 2734 words · scope: ch202.xhtml, ch203.xhtml, ch204.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch206.xhtml · 1851 words · scope: ch203.xhtml, ch204.xhtml, ch205.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch207.xhtml · 2192 words · scope: ch204.xhtml, ch205.xhtml, ch206.xhtml
+  internal repeats: 0
+  vs ch206.xhtml: press conference for he irl in the un
+  vs ch206.xhtml: conference for he irl in the un he
+  cross-chapter 8-grams: 2
+== ch208.xhtml · 1697 words · scope: ch205.xhtml, ch206.xhtml, ch207.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch209.xhtml · 2729 words · scope: ch206.xhtml, ch207.xhtml, ch208.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch210.xhtml · 2472 words · scope: ch207.xhtml, ch208.xhtml, ch209.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch211.xhtml · 1938 words · scope: ch208.xhtml, ch209.xhtml, ch210.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch212.xhtml · 1613 words · scope: ch209.xhtml, ch210.xhtml, ch211.xhtml
+  internal repeats: 0
+  vs ch211.xhtml: ace hysique oice resence xperience ommunication onfidence earning
+  vs ch211.xhtml: hysique oice resence xperience ommunication onfidence earning ealth
+  cross-chapter 8-grams: 2
+== ch213.xhtml · 2612 words · scope: ch210.xhtml, ch211.xhtml, ch212.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch214.xhtml · 3713 words · scope: ch211.xhtml, ch212.xhtml, ch213.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch215.xhtml · 2622 words · scope: ch212.xhtml, ch213.xhtml, ch214.xhtml
+  internal repeats: 0
+  vs ch214.xhtml: the head of his cock nudging against her
+  vs ch214.xhtml: belongs to the two of them and to
+  vs ch214.xhtml: to the two of them and to a
+  cross-chapter 8-grams: 3
+== ch216.xhtml · 2865 words · scope: ch213.xhtml, ch214.xhtml, ch215.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch217.xhtml · 2475 words · scope: ch214.xhtml, ch215.xhtml, ch216.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch218.xhtml · 1805 words · scope: ch215.xhtml, ch216.xhtml, ch217.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch219.xhtml · 1737 words · scope: ch216.xhtml, ch217.xhtml, ch218.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch220.xhtml · 2348 words · scope: ch217.xhtml, ch218.xhtml, ch219.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch221.xhtml · 2131 words · scope: ch218.xhtml, ch219.xhtml, ch220.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch222.xhtml · 3014 words · scope: ch219.xhtml, ch220.xhtml, ch221.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch223.xhtml · 1782 words · scope: ch220.xhtml, ch221.xhtml, ch222.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch224.xhtml · 2896 words · scope: ch221.xhtml, ch222.xhtml, ch223.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch225.xhtml · 3212 words · scope: ch222.xhtml, ch223.xhtml, ch224.xhtml
+  INTERNAL repeats: 7
+    x2: oo ae ha and eo ae ha were
+    x2: ecord ivision ead hin in hyuk roduction enter
+    x2: ivision ead hin in hyuk roduction enter chief
+    x2: ead hin in hyuk roduction enter chief im
+    x2: hin in hyuk roduction enter chief im i
+    x2: in hyuk roduction enter chief im i won
+  cross-chapter 8-grams: 0
+== ch226.xhtml · 2885 words · scope: ch223.xhtml, ch224.xhtml, ch225.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch227.xhtml · 1569 words · scope: ch224.xhtml, ch225.xhtml, ch226.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch228.xhtml · 2469 words · scope: ch225.xhtml, ch226.xhtml, ch227.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch229.xhtml · 2499 words · scope: ch226.xhtml, ch227.xhtml, ch228.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch230.xhtml · 2544 words · scope: ch227.xhtml, ch228.xhtml, ch229.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch231.xhtml · 1987 words · scope: ch228.xhtml, ch229.xhtml, ch230.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch232.xhtml · 2270 words · scope: ch229.xhtml, ch230.xhtml, ch231.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch233.xhtml · 1361 words · scope: ch230.xhtml, ch231.xhtml, ch232.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch234.xhtml · 2193 words · scope: ch231.xhtml, ch232.xhtml, ch233.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch235.xhtml · 2308 words · scope: ch232.xhtml, ch233.xhtml, ch234.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch236.xhtml · 1749 words · scope: ch233.xhtml, ch234.xhtml, ch235.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch237.xhtml · 1963 words · scope: ch234.xhtml, ch235.xhtml, ch236.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch238.xhtml · 1924 words · scope: ch235.xhtml, ch236.xhtml, ch237.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch239.xhtml · 3959 words · scope: ch236.xhtml, ch237.xhtml, ch238.xhtml
+  INTERNAL repeats: 2
+    x2: ecorate her home ry making kimchi earn to
+    x2: her home ry making kimchi earn to cook
+  vs ch236.xhtml: looked down at the girl in his arms
+  cross-chapter 8-grams: 1
+== ch240.xhtml · 2060 words · scope: ch237.xhtml, ch238.xhtml, ch239.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch241.xhtml · 3450 words · scope: ch238.xhtml, ch239.xhtml, ch240.xhtml
+  INTERNAL repeats: 8
+    x2: ae oo hyun ang eul gi on eung
+    x2: oo hyun ang eul gi on eung wan
+    x2: hyun ang eul gi on eung wan ark
+    x2: ang eul gi on eung wan ark oo
+    x2: eul gi on eung wan ark oo young
+    x2: gi on eung wan ark oo young im
+  cross-chapter 8-grams: 0
+== ch242.xhtml · 1455 words · scope: ch239.xhtml, ch240.xhtml, ch241.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch243.xhtml · 2999 words · scope: ch240.xhtml, ch241.xhtml, ch242.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch244.xhtml · 4564 words · scope: ch241.xhtml, ch242.xhtml, ch243.xhtml
+  internal repeats: 0
+  vs ch241.xhtml: ae oo hyun ang eul gi on eung
+  vs ch241.xhtml: oo hyun ang eul gi on eung wan
+  vs ch241.xhtml: hyun ang eul gi on eung wan ark
+  vs ch241.xhtml: ang eul gi on eung wan ark oo
+  vs ch241.xhtml: eul gi on eung wan ark oo young
+  vs ch241.xhtml: gi on eung wan ark oo young im
+  cross-chapter 8-grams: 8
+== ch245.xhtml · 1978 words · scope: ch242.xhtml, ch243.xhtml, ch244.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch246.xhtml · 2559 words · scope: ch243.xhtml, ch244.xhtml, ch245.xhtml
+  internal repeats: 0
+  vs ch244.xhtml: ae oo hyun ang eul gi on eung
+  vs ch244.xhtml: oo hyun ang eul gi on eung wan
+  vs ch244.xhtml: hyun ang eul gi on eung wan ark
+  vs ch244.xhtml: ang eul gi on eung wan ark oo
+  vs ch244.xhtml: eul gi on eung wan ark oo young
+  cross-chapter 8-grams: 5
+== ch247.xhtml · 2042 words · scope: ch244.xhtml, ch245.xhtml, ch246.xhtml
+  internal repeats: 0
+  vs ch244.xhtml: ach withdrawal left her feeling empty each thrust
+  vs ch244.xhtml: withdrawal left her feeling empty each thrust filled
+  vs ch244.xhtml: left her feeling empty each thrust filled her
+  vs ch244.xhtml: her feeling empty each thrust filled her to
+  vs ch244.xhtml: feeling empty each thrust filled her to overflowing
+  vs ch244.xhtml: empty each thrust filled her to overflowing hitting
+  cross-chapter 8-grams: 68
+== ch248.xhtml · 2200 words · scope: ch245.xhtml, ch246.xhtml, ch247.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch249.xhtml · 1959 words · scope: ch246.xhtml, ch247.xhtml, ch248.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch250.xhtml · 2376 words · scope: ch247.xhtml, ch248.xhtml, ch249.xhtml
+  internal repeats: 0
+  vs ch249.xhtml: hen you wake tomorrow if you still stand
+  vs ch249.xhtml: you wake tomorrow if you still stand behind
+  cross-chapter 8-grams: 2
+== ch251.xhtml · 1645 words · scope: ch248.xhtml, ch249.xhtml, ch250.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch252.xhtml · 4101 words · scope: ch249.xhtml, ch250.xhtml, ch251.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch253.xhtml · 2036 words · scope: ch250.xhtml, ch251.xhtml, ch252.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch254.xhtml · 1692 words · scope: ch251.xhtml, ch252.xhtml, ch253.xhtml
+  internal repeats: 0
+  vs ch253.xhtml: ’ll come to usic ank and beat you
+  vs ch253.xhtml: come to usic ank and beat you to
+  vs ch253.xhtml: to usic ank and beat you to dust
+  vs ch253.xhtml: usic ank and beat you to dust ust
+  vs ch253.xhtml: ank and beat you to dust ust wait
+  vs ch253.xhtml: and beat you to dust ust wait ’ll
+  cross-chapter 8-grams: 27
+== ch255.xhtml · 1314 words · scope: ch252.xhtml, ch253.xhtml, ch254.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch256.xhtml · 2543 words · scope: ch253.xhtml, ch254.xhtml, ch255.xhtml
+  internal repeats: 0
+  vs ch254.xhtml: as anything unusual happened at the company recently
+  cross-chapter 8-grams: 1
+== ch257.xhtml · 1898 words · scope: ch254.xhtml, ch255.xhtml, ch256.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch258.xhtml · 1742 words · scope: ch255.xhtml, ch256.xhtml, ch257.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch259.xhtml · 2110 words · scope: ch256.xhtml, ch257.xhtml, ch258.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch260.xhtml · 1942 words · scope: ch257.xhtml, ch258.xhtml, ch259.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch261.xhtml · 2513 words · scope: ch258.xhtml, ch259.xhtml, ch260.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch262.xhtml · 2301 words · scope: ch259.xhtml, ch260.xhtml, ch261.xhtml
+  INTERNAL repeats: 3
+    x2: rash anding on ou and ueen of ears
+    x2: anding on ou and ueen of ears i
+    x2: on ou and ueen of ears i ho
+  cross-chapter 8-grams: 0
+== ch263.xhtml · 2049 words · scope: ch260.xhtml, ch261.xhtml, ch262.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch264.xhtml · 2266 words · scope: ch261.xhtml, ch262.xhtml, ch263.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch265.xhtml · 3036 words · scope: ch262.xhtml, ch263.xhtml, ch264.xhtml
+  INTERNAL repeats: 2
+    x2: ’m not letting you go o you can’t
+    x2: not letting you go o you can’t go
+  cross-chapter 8-grams: 0
+== ch266.xhtml · 2182 words · scope: ch263.xhtml, ch264.xhtml, ch265.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch267.xhtml · 1435 words · scope: ch264.xhtml, ch265.xhtml, ch266.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch268.xhtml · 1483 words · scope: ch265.xhtml, ch266.xhtml, ch267.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch269.xhtml · 2459 words · scope: ch266.xhtml, ch267.xhtml, ch268.xhtml
+  INTERNAL repeats: 1
+    x2: ocal and erformance rainee ntertainment future member orn
+  cross-chapter 8-grams: 0
+== ch270.xhtml · 1734 words · scope: ch267.xhtml, ch268.xhtml, ch269.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch271.xhtml · 2527 words · scope: ch268.xhtml, ch269.xhtml, ch270.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch272.xhtml · 4864 words · scope: ch269.xhtml, ch270.xhtml, ch271.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch273.xhtml · 5093 words · scope: ch270.xhtml, ch271.xhtml, ch272.xhtml
+  INTERNAL repeats: 1
+    x2: ong i ho m like you so much
+  vs ch272.xhtml: with the ease of a man who had
+  vs ch272.xhtml: the expression of a man who had been
+  cross-chapter 8-grams: 2
+== ch274.xhtml · 5543 words · scope: ch271.xhtml, ch272.xhtml, ch273.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch275.xhtml · 6247 words · scope: ch272.xhtml, ch273.xhtml, ch274.xhtml
+  INTERNAL repeats: 11
+    x2: in which the action is the reason people
+    x4: acct ong i ho out of the orean
+    x4: ong i ho out of the orean entertainment
+    x4: i ho out of the orean entertainment industry
+    x2: ho out of the orean entertainment industry acct
+    x2: out of the orean entertainment industry acct ong
+  cross-chapter 8-grams: 0
+== ch276.xhtml · 7891 words · scope: ch273.xhtml, ch274.xhtml, ch275.xhtml
+  INTERNAL repeats: 1
+    x2: who get worse things sent to them and
+  cross-chapter 8-grams: 0
+== ch277.xhtml · 7094 words · scope: ch274.xhtml, ch275.xhtml, ch276.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch278.xhtml · 5917 words · scope: ch275.xhtml, ch276.xhtml, ch277.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch279.xhtml · 8794 words · scope: ch276.xhtml, ch277.xhtml, ch278.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch280.xhtml · 9558 words · scope: ch277.xhtml, ch278.xhtml, ch279.xhtml
+  INTERNAL repeats: 7
+    x2: a thirteen year old and a ten year
+    x2: thirteen year old and a ten year old
+    x2: on the sheet ou’re on the sheet said
+    x2: the sheet ou’re on the sheet said ang
+    x2: sheet ou’re on the sheet said ang a
+    x2: ou’re on the sheet said ang a ah
+  vs ch279.xhtml: in a two door annex with a kettle
+  cross-chapter 8-grams: 1
+== ch281.xhtml · 8308 words · scope: ch278.xhtml, ch279.xhtml, ch280.xhtml
+  INTERNAL repeats: 1
+    x2: said ong i ho ou are going to
+  vs ch280.xhtml: in the voice of a person who has
+  vs ch280.xhtml: the third floor of a building in eongsu
+  vs ch280.xhtml: third floor of a building in eongsu dong
+  vs ch280.xhtml: floor of a building in eongsu dong with
+  vs ch280.xhtml: of a building in eongsu dong with a
+  vs ch280.xhtml: a building in eongsu dong with a bicycle
+  cross-chapter 8-grams: 10
+== ch282.xhtml · 19623 words · scope: ch279.xhtml, ch280.xhtml, ch281.xhtml
+  INTERNAL repeats: 1
+    x2: said ong i ho and there was a
+  vs ch281.xhtml: even years and the same four stairs and
+  vs ch281.xhtml: years and the same four stairs and a
+  vs ch281.xhtml: and the same four stairs and a room
+  vs ch281.xhtml: the same four stairs and a room that
+  vs ch281.xhtml: same four stairs and a room that goes
+  vs ch281.xhtml: four stairs and a room that goes quiet
+  cross-chapter 8-grams: 25
+== ch283.xhtml · 5375 words · scope: ch280.xhtml, ch281.xhtml, ch282.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch284.xhtml · 5592 words · scope: ch281.xhtml, ch282.xhtml, ch283.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch285.xhtml · 5732 words · scope: ch282.xhtml, ch283.xhtml, ch284.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch286.xhtml · 10980 words · scope: ch283.xhtml, ch284.xhtml, ch285.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch287.xhtml · 7098 words · scope: ch284.xhtml, ch285.xhtml, ch286.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch288.xhtml · 6105 words · scope: ch285.xhtml, ch286.xhtml, ch287.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch289.xhtml · 5645 words · scope: ch286.xhtml, ch287.xhtml, ch288.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch290.xhtml · 5564 words · scope: ch287.xhtml, ch288.xhtml, ch289.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch291.xhtml · 6429 words · scope: ch288.xhtml, ch289.xhtml, ch290.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch292.xhtml · 5015 words · scope: ch289.xhtml, ch290.xhtml, ch291.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch293.xhtml · 4325 words · scope: ch290.xhtml, ch291.xhtml, ch292.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch294.xhtml · 3933 words · scope: ch291.xhtml, ch292.xhtml, ch293.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch295.xhtml · 4218 words · scope: ch292.xhtml, ch293.xhtml, ch294.xhtml
+  INTERNAL repeats: 1
+    x2: irises really and the light that’s in them
+  cross-chapter 8-grams: 0
+== ch296.xhtml · 3950 words · scope: ch293.xhtml, ch294.xhtml, ch295.xhtml
+  INTERNAL repeats: 1
+    x2: he shoulder is beautiful ear that set tonight
+  vs ch293.xhtml: a man reading his own name in a
+  vs ch295.xhtml: very lie in the world fails the moment
+  vs ch295.xhtml: lie in the world fails the moment a
+  vs ch295.xhtml: in the world fails the moment a kiss
+  vs ch295.xhtml: the world fails the moment a kiss lands
+  cross-chapter 8-grams: 5
+== ch297.xhtml · 3685 words · scope: ch294.xhtml, ch295.xhtml, ch296.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch298.xhtml · 4256 words · scope: ch295.xhtml, ch296.xhtml, ch297.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch299.xhtml · 4675 words · scope: ch296.xhtml, ch297.xhtml, ch298.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch300.xhtml · 6377 words · scope: ch297.xhtml, ch298.xhtml, ch299.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch301.xhtml · 6076 words · scope: ch298.xhtml, ch299.xhtml, ch300.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch302.xhtml · 6272 words · scope: ch299.xhtml, ch300.xhtml, ch301.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch303.xhtml · 5592 words · scope: ch300.xhtml, ch301.xhtml, ch302.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch304.xhtml · 3609 words · scope: ch301.xhtml, ch302.xhtml, ch303.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch305.xhtml · 6121 words · scope: ch302.xhtml, ch303.xhtml, ch304.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch306.xhtml · 4405 words · scope: ch303.xhtml, ch304.xhtml, ch305.xhtml
+  internal repeats: 0
+  vs ch305.xhtml: ah aeyeon hy are you knocking any wait
+  vs ch305.xhtml: aeyeon hy are you knocking any wait et
+  vs ch305.xhtml: hy are you knocking any wait et oon
+  vs ch305.xhtml: are you knocking any wait et oon a
+  vs ch305.xhtml: you knocking any wait et oon a open
+  vs ch305.xhtml: knocking any wait et oon a open it
+  cross-chapter 8-grams: 19
+== ch307.xhtml · 3357 words · scope: ch304.xhtml, ch305.xhtml, ch306.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+== ch308.xhtml · 2914 words · scope: ch305.xhtml, ch306.xhtml, ch307.xhtml
+  internal repeats: 0
+  cross-chapter 8-grams: 0
+repeat_check: REVIEW (deliberate lyric quotes may be legitimate)

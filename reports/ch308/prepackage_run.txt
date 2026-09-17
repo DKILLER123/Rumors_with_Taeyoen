@@ -1,0 +1,63 @@
+{
+  "result": "PASS",
+  "chapter": 308,
+  "raw_sha256": "8e659fea6eb90498dd06a629c0ebe98c17aaf6f9ec041007aba26a4c0c5c02ef",
+  "body_words_including_furniture": 2888,
+  "max_paragraph_words": 27,
+  "em_dashes": 1,
+  "dashes_per_1000": 0.346,
+  "double_quote_parity": [
+    41,
+    41
+  ],
+  "question_marks": 13,
+  "block_instances": 44,
+  "block_types": 15,
+  "block_census": {
+    "memory-block": 2,
+    "dossier-block": 3,
+    "whisper-block": 1,
+    "hand-note": 5,
+    "briefing-block": 5,
+    "acting-block": 2,
+    "performance-block": 4,
+    "status-panel": 1,
+    "lesson-block": 1,
+    "system-block": 11,
+    "contract-block": 1,
+    "app-screen": 1,
+    "phone-call": 1,
+    "wardrobe-block": 2,
+    "dev-quest": 4
+  },
+  "live_phone_calls": 1,
+  "chat_windows": 0,
+  "pending_development_tasks": 4,
+  "images_added": 3,
+  "bio_append_owners": [
+    "Song Ji-ho",
+    "Kim Taeyeon",
+    "Im Yoon-a",
+    "Tiffany (Hwang Mi-young)",
+    "Jessica (Jung Soo-yeon)"
+  ],
+  "new_character": "Lee Kang-jun",
+  "old_character_content_preserved": true,
+  "changed_baseline_payloads": [
+    "OEBPS/content.opf",
+    "OEBPS/text/characters.xhtml",
+    "OEBPS/text/cover.xhtml",
+    "OEBPS/text/glossary.xhtml",
+    "OEBPS/text/nav.xhtml",
+    "OEBPS/toc.ncx"
+  ],
+  "added_payloads": [
+    "OEBPS/images/char-lee-kangjun.jpg",
+    "OEBPS/images/wd_yoona_first_love_white.jpg",
+    "OEBPS/images/wd_yoona_white_ribbon.jpg",
+    "OEBPS/text/ch308.xhtml"
+  ],
+  "unchanged_old_chapters": "307/307",
+  "existing_assets_styles_preserved": true,
+  "chapter_sha256": "136ebd8571b06c5a23ceff37f99612c2385e08ff8cd96ba9054fa35259cfbb2d"
+}

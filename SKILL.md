@@ -6,10 +6,10 @@ Taeyeon*, Version 3). This file holds the **skills**; `worklog.md` holds the **s
 (cycle log, ships, canon pins). Do not duplicate skills between the two — SKILL.md is the
 master reference, worklog §8 is the history.
 
-**Current at ship:** chapter 307, archive seal verified · 307 chapters ·
-410 payload files · 407 manifest items · 311 spine entries · NCX 310 navPoints ·
-nav 313 `<li>` · 73 images (through id-50; next id-51) · 20 embedded font faces ·
-18 character cards · 61 glossary cards. Final verification: `reports/ch307/`.
+**Current at ship:** chapter 308, archive seal verified · 308 chapters ·
+414 payload files · 411 manifest items · 312 spine entries · NCX 311 navPoints ·
+nav 314 `<li>` · 76 images (through id-53; next id-54) · 20 embedded font faces ·
+19 character cards · 61 glossary cards. Final verification: `reports/ch308/`.
 
 **Recovery baseline (2026-09-13; historical).** The imported 302-chapter archive was
 preserved during setup; the subsequent reader-authorized chapter-303 production cycle
@@ -115,7 +115,9 @@ new ship's hash to worklog §8. SKILL.md is versioned by its *Current at ship* l
   distinguish inspiration/private singing from released credits; '7 Years'/'Stay with Me' = Oct 3 single A/B-side). Log every re-cut in worklog §8.
 - **Raw-internal contradictions** (Deep Scan): when the raw disagrees with itself (e.g.
   ch299's goose-yellow dress at the mirror but lilac at the gate), keep the version with the
-  established setup and log the re-cut.
+  established setup and log the re-cut. For inconsistent System totals, preserve the raw and
+  log the arithmetic correction explicitly; never alter component scores to hide it. State
+  the age convention when DOB, story date and Korean reckoning explain an apparent mismatch.
 - **Witness accounts.** Keep estimates, guesses, remembered scenes and actual identification
   distinct. A flashback replay may deliberately repeat dialogue; label it and verify that
   any repetition flags are confined to the recap, rather than rewriting settled words.
@@ -209,6 +211,11 @@ portraits.
 
 ## 7 · Image pipelines
 
+**Fictional character portraits.** Generate an original character impression using an
+existing identity reference when available; do not invent a real-person attribution. New
+fictional portraits must not make the reference page falsely describe every portrait as
+a real photograph. Keep generation details in the worklog/evidence.
+
 **Character portraits (real people).** Source a real photograph from the web
 (image_search; prefer close-ups, portrait aspect). Install as
 `images/char-{name}.jpg`, register id-NN in the OPF, add the char-card. Provenance noted
@@ -220,11 +227,12 @@ that person; (2) their canonical in-tree portrait/plate (rule #13 fallback). Wit
 suitable identity source, skip the wardrobe plate/block rather than fabricate likeness.
 Generate → center-crop 4:5 → 1120×1400 q85 →
 `images/wd_{who}_{garment}.jpg` → manifest id → wd-photo embed. Inspect the installed
-image, not only a previous generation: verify photographic treatment, outfit, era-specific
+image, not only a previous generation: verify photorealistic treatment of BOTH character and detailed, realistic background, outfit, era-specific
 props and crop. Likeness still needs reader judgment; generation is not documentary
-photography. Delete `gen/` and `image-search/` after each round.
+photography. A limited costume preview is not an outfit already worn or an effect already
+triggered: label the preview and retain its exact activation conditions. Delete `gen/` and `image-search/` after each round.
 
-**Numbers.** Next numeric image manifest id = last + 1 (currently **id-51**, after id-50). Record byte sizes in worklog.
+**Numbers.** Next numeric image manifest id = last + 1 (currently **id-54**, after id-53). Record byte sizes in worklog.
 
 ---
 

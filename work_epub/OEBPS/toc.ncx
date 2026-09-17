@@ -1871,5 +1871,9 @@
       </navLabel>
       <content src="text/ch307.xhtml"/>
     </navPoint>
+    <navPoint id="num_311" playOrder="311">
+      <navLabel><text>Chapter 308 · A Born Idol</text></navLabel>
+      <content src="text/ch308.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "work_epub/OEBPS/images/wd_yoona_white_ribbon.jpg",
+    "dimensions": [
+      1120,
+      1400
+    ],
+    "bytes": 195149,
+    "sha256": "3449f5ad023a6ade1091219fbddf900acbc254c35eb7122853d2ab516895ebb5",
+    "source": "AI generated; reader Yoona reference plus established portrait"
+  },
+  {
+    "file": "work_epub/OEBPS/images/wd_yoona_first_love_white.jpg",
+    "dimensions": [
+      1120,
+      1400
+    ],
+    "bytes": 212740,
+    "sha256": "9c69bd9a5203a8ce826130d5ab31e4eef54e4d14c5b3c843ebfad2a3fa18fe51",
+    "source": "AI generated; reader Yoona reference plus established portrait"
+  },
+  {
+    "file": "work_epub/OEBPS/images/char-lee-kangjun.jpg",
+    "dimensions": [
+      1120,
+      1400
+    ],
+    "bytes": 234491,
+    "sha256": "c345473e09b7c097f11fafbcd7fd49db3e8526798ae5511bd3774f9ee0d6e0e3",
+    "source": "AI generated original fictional character; newly established portrait"
+  }
+]
